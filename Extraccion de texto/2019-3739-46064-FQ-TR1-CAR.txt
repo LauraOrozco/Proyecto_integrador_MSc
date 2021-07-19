@@ -1,0 +1,104 @@
+       JORPA INGENIERÍA S.A.                                        RL-17 V2019 R1
+             Servicios de Ingeniería
+        Fonos: (2) 29598900 -29598913            CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+Dresden N° 4688 - 4672 – San Miguel – Santiago   MINERAL DE CAMBIADOR DE DERIVACIONES
+                      CHILE
+                       1/1                                    BAJO CARGA
+
+ EMPRESA:           TRANSELEC S.A.                                        FECHA:           31/07/2019
+                                                                          EQUIPO / DIAGNÓSTICO
+ ID. EQUIPO: CDBC ALSTHOM N°232075013(Autotr. ATR-1 ALSTHOM Nº 217443-01)
+                                                                            3739       46064
+ POT. MÁXIMA:              75                          MVA FECHA MUESTREO:                 14/07/2019
+ VOLTAJE:                  220/115/13,8                kV   FECHA RECEPCIÓN:               22/07/2019
+ LUGAR:                    S/E Cardones                     FECHA ANÁLISIS:                29/07/2019
+ DIAGNÓSTICO ANTERIOR:     5051                             AÑO FABRICACIÓN:               1979
+ FECHA:                    22/08/2005                       ULTIMO DESGASIFICADO:          No informado
+ Nº ORDEN DE TRABAJO:      5730                             REGIMEN DE CARGA:              67                                                           %
+ MODELO :                  Con respiradero libre            TEMPERATURA ACEITE:            42                                                           ºC
+ LUGAR DE MUESTREO:        Nivel inferior estanque          HUMEDAD RELATIVA               42                                                           %
+ VOL. MUESTRA:             1000                        mL   VOL. ACEITE CDBC:              No informado                                                  L
+
+
+                                                                                           Límites nuevo                      Conexión al      Conexión al
+                                                                          Resultado                          Conexión al
+               Prueba                  UNIDAD       Método ASTM                               antes de                        terminal <       terminal >
+                                                                            25 °C                              neutro
+                                                                                             energizar                           69 kV            69 kV
+
+
+ Humedad                                mg/kg        D 1533-12                13                 ≤10             ≤30*            ≤30*             ≤30*
+
+ Rigidez dieléctrica 2.0 mm.               kV        D 1816-12                58                 ≥55              ≥27            ≥35              ≥45
+
+ Rigidez dieléctrica 2.5 mm.               kV        VDE 0370                  -                ≥70*              ≥40            ≥40              ≥40
+
+ Densidad                                g/mL        D 1298-12              0,876                 -                 -              -                -
+
+ Aspecto visual                                      D 1524-10         claro y brillante          -                 -              -                -
+                                                                        amarillo claro
+ OBSERVACIONES:
+ - Muestra tomada por Transelec S.A.
+ - Restos de muestra con descarte inmediato.
+
+
+
+ Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+ SITUACIÓN ACTUAL:                                                            ACCIÓN A SEGUIR:
+ - Aceite en buenas condiciones para servicio.                                - Analizar al cabo de un año.
+
+
+
+
+ Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                                Cristian Aramburu R.
+               Aprobó                                                                                                           Revisó
+
+
+                                        ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                          3739
+Descripción Equipo:                CDBC ALSTHOM N°232075013(Autotr. ATR-1 ALSTHOM Nº 217443-01)
+Potencia (MVA):                    75
+Voltaje (kV):                      220/115/13,8
+
+                  Datos análisis anteriores:
+                 Análisis >
+                     46064           5051
+           Fecha > 14/07/2019     22/08/2005
+Humedad                 13             9
+RD                      58            65
+Densidad              0,876            -
+Tº del aceite           42             -
+
+
+
+
+                                                                                     Rigidez Dieléctrica RD
+                                   Humedad
+         40                                                                   80
+
+         30                                                                   60
+
+         20                                                                   40
+
+                                                                              20
+         10
+                                                                              0
+          0                                                                          1                        2
+                               1                      2
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+
+JORPA INGENIERÍA S.A.
+

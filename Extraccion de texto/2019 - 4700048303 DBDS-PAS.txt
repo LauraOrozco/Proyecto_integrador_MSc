@@ -1,0 +1,131 @@
+       JORPA INGENIERÍA S.A.                                     RL-039 Versión 2018 Rev-02
+
+                                                      ANÁLISIS DE CONCENTRACIÓN DE
+                                                                ADITIVOS
+
+
+EMPRESA:     TRANSELEC S.A.                                                                             FECHA:                   19/02/2019
+OT:          5122                                                                                       EQUIPO / DIAGNÓSTICO
+ID. EQUIPO:  Transformador TAG T-1 GEC ALSTHOM N° 31K3998/1                                               1707       1761
+POT. MÁXIMA: 10                        MVA                                                              FECHA MUESTREO:      29/01/2019
+VOLTAJE:     220/23                     kV                                                              FECHA RECEPCIÓN:     04/02/2019
+LUGAR:       S/E Encuentro                                                                              FECHA ANÁLISIS:      15/02/2019
+DIAGNÓSTICO ANTERIOR:      1106                                                                         AÑO FABRICACIÓN:         1998
+FECHA:                     29/08/2014                                                                   PUNTO MUESTREO:      Nivel inferior
+
+
+                                                                                                           LIMITE ACEITE              LIMITE ACEITE EN
+           PRUEBA                    UNIDAD                 MÉTODO                  RESULTADO
+                                                                                                              NUEVO                      SERVICIO
+
+   Análisis de contenido de
+                                         %                ASTM D 2668                      NR                 0,08 a 0,40                    >0,18
+    inhibidor BHT - DBPC
+
+
+Análisis de contenido de BTA           ppm           Cigré WG A2.32 TF 02                  <1                   20 a 45                          >10
+
+
+   Análisis de contenido de
+                                       ppm           Cigré WG A2.32 TF 02                  65                       *                             *
+          Irgamet 39
+
+
+*La concentración de Irgamet 39 recomendada para transformadores con presencia de dibencil disulfuro es 100 ppm.
+*El nombre comercial del pasivador metálico puede ser Irgamet 39, o Nypass o BTA.
+
+
+                                                                                                           LIMITE ACEITE              LIMITE ACEITE EN
+           PRUEBA                    UNIDAD                 MÉTODO                  RESULTADO
+                                                                                                              NUEVO                      SERVICIO
+
+   Análisis de contenido de                                                                                  no detectable
+                                       ppm                    DOBLE                       159                                              <25 ppm
+             DBDS                                                                                              (<5 ppm)
+
+Notas:
+ND: no detectado
+NR : no realizado
+* Limites para aceite nuevo de acuerdo a IEC 60296-2012 "Fluids for electrotechnical applications - Unused mineral insulating oils
+ for transformers and switchgear".
+* Limites para aceite en servicio de acuerdo a IEC 60422-2013 "Mineral Insulating Oils in Electrical Equipment".
+* Dos aceites con la misma concentración de DBDS pueden tener comportamientos distintos, ya que la generación de
+sulfuro de cobre depende de varios factores: temperatura de operación, cantidad de oxigeno presente y presencia de
+pasivadores.
+* De acuerdo a estudios realizados por IEEE TC, la contaminación con sulfuro de cobre aumenta con el tiempo.
+* El límite de concentración de DBDS en aceite en servicio solo aplica para aceite contaminado por manipulación o equipos a los cuales
+se les ha cambiado el aceite.
+OBSERVACIONES:
+- Con esta concentración de DBDS es probable que el proceso de formación de sulfuro de cobre no ha ocurrido aún, siendo
+    el mejor momento para cambiar el aceite o adicionar pasivador.
+- Muestra tomada por Transelec S.A., y analizada en Laboratorio Doble Engineering Company.
+- Restos de muestra con descarte inmediato.
+
+SITUACIÓN ACTUAL:                                                                    ACCIÓN A SEGUIR:
+- Aceite en condiciones para servicio.                                               - Evitar sobre-voltajes y/o aumento de carga en el equipo.
+                                                                                     - Agregar pasivador hasta obtener concentración recomendada.
+
+
+
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                    Cristian Aramburu R.
+             Aprobó                                                                                                               Revisó
+
+
+ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                                                 1707
+Descripción Equipo:                                       Transformador TAG T-1 GEC ALSTHOM N° 31K3998/1
+Potencia (MVA):                                           10
+Voltaje (kV):                                             220/23
+
+
+
+                                             Análisis >        1761       1106
+                                             Fecha >       29/01/2019   29/08/2014
+Contenido de inhibidor (%)                                       NR        NR
+Contenido de BTA (ppm)                                           <1        <1
+Contenido de Irgamet 39 (ppm)                                    65        72
+Contenido de DBDS (ppm)                                        159         136
+
+
+
+
+                          Contenido de inhibidor (%)                                               Contenido de DBDS (ppm)
+        1
+        1                                                                            200
+        1
+        1                                                                            150
+        1
+        1                                                                            100
+        0
+        0
+        0                                                                            50
+        0
+        0                                                                             0
+                             1                             2                                      1                            2
+
+
+
+
+                           Contenido de BTA (ppm)                                              Contenido de Irgamet 39 (ppm)
+
+       12                                                                             120
+       10                                                                             100
+        8                                                                              80
+        6                                                                              60
+        4                                                                              40
+        2                                                                              20
+        0                                                                                  0
+                             1                             2                                          1                        2
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+

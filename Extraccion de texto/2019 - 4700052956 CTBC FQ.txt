@@ -1,0 +1,58 @@
+     JORPA INGENIERÍA S.A.                                         RL-17 V2019 R1
+                                            CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+                                            MINERAL DE CAMBIADOR DE DERIVACIONES
+                                                         BAJO CARGA
+
+EMPRESA:         TRANSELEC S.A.                                            FECHA:           01/10/2019
+                                                                           EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: CDBC MR N°55880 (Transf. TAG T- 220/23kv SIEMENS N°140522A/01)
+                                                                             13195      46847
+POT. MÁXIMA:               30                           MVA FECHA MUESTREO:                 09/09/2019
+VOLTAJE:                   220/23                       kV    FECHA RECEPCIÓN:              25/09/2019
+LUGAR:                     S/E Atacama                        FECHA ANÁLISIS:               26/09/2019
+DIAGNÓSTICO ANTERIOR:      No tiene                           AÑO FABRICACIÓN:              2015
+FECHA:                     No tiene                           ULTIMO DESGASIFICADO:         No informado
+Nº ORDEN DE TRABAJO:       5909                               REGIMEN DE CARGA:             No informado                                               %
+MODELO :                   VMI301-245/B-10193W                TEMPERATURA ACEITE:           No informado                                               ºC
+LUGAR DE MUESTREO:         Nivel inferior CDBC                HUMEDAD RELATIVA              45                                                         %
+VOL. MUESTRA:              1000                         mL    VOL. ACEITE CDBC:             36556                                                       L
+
+
+                                                                                          Límites nuevo                     Conexión al       Conexión al
+                                                                         Resultado                      Conexión al
+            Prueba                 UNIDAD        Método ASTM                                 antes de                       terminal <        terminal >
+                                                                           25 °C                          neutro
+                                                                                            energizar                          69 kV             69 kV
+
+
+Humedad                             mg/kg          D 1533-12                  5
+
+Rigidez dieléctrica 2.0 mm.           kV           D 1816-12                 69
+
+Rigidez dieléctrica 2.5 mm.           kV            VDE 0370                  -
+
+Densidad                             g/mL          D 1298-12               0,872                 -                 -              -                -
+
+Aspecto visual                                     D 1524-10          claro y brillante          -                 -              -                -
+                                                                       amarillo claro
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+SITUACIÓN ACTUAL:                                                            ACCIÓN A SEGUIR:
+- Aceite en buenas condiciones para servicio.                                - Analizar al cabo de un año.
+
+
+
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                 Cristian Aramburu R.
+             Aprobó                                                                                                            Revisó
+

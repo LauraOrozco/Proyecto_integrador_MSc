@@ -1,0 +1,101 @@
+       JORPA INGENIERÍA S.A.                                      RL-017 2019 Rev-01
+             Servicios de Ingeniería
+        Fonos: (2) 29598900 -29598913            CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+Dresden N° 4688 - 4672 – San Miguel – Santiago   MINERAL DE CAMBIADOR DE DERIVACIONES
+                      CHILE
+                       1/1                                    BAJO CARGA
+
+ EMPRESA:           TRANSELEC S.A.                                         FECHA:           10/06/2019
+                                                                           EQUIPO / DIAGNÓSTICO
+ ID. EQUIPO: CDBC Nº 1108530B Fase 2 (Autotr. ATR-4 HYOSUNG Nº TB80184807)
+                                                                              7356      45226
+ POT. MÁXIMA:               120                         MVA FECHA MUESTREO:                 06/05/2019
+ VOLTAJE:                   220                         kV    FECHA RECEPCIÓN:              15/05/2019
+ LUGAR:                     S/E Diego de Almagro              FECHA ANÁLISIS:               04/06/2019
+ DIAGNÓSTICO ANTERIOR:      25781                             AÑO FABRICACIÓN:              2009
+ FECHA:                     15/09/2014                        ULTIMO DESGASIFICADO:         No informado
+ Nº ORDEN DE TRABAJO:       5528                              REGIMEN DE CARGA:             17                                                          %
+ MODELO :                   VRC-1551                          TEMPERATURA ACEITE:           42                                                          ºC
+ LUGAR DE MUESTREO:         Nivel inferior CDBC               HUMEDAD RELATIVA              No informado                                                %
+ VOL. MUESTRA:              1000                        mL    VOL. ACEITE CDBC:             No informado                                                 L
+
+
+                                                                                           Límites nuevo                      Conexión al      Conexión al
+                                                                          Resultado                          Conexión al
+               Prueba                  UNIDAD       Método ASTM                               antes de                        terminal <       terminal >
+                                                                            25 °C                              neutro
+                                                                                             energizar                           69 kV            69 kV
+
+
+ Humedad                                mg/kg        D 1533-12                21                ≤10              ≤30*            ≤30*             ≤30*
+
+ Rigidez dieléctrica 2.0 mm.               kV        D 1816-12                85                ≥55               ≥27            ≥35              ≥45
+
+ Rigidez dieléctrica 2.5 mm.               kV        VDE 0370                  -                ≥70*              ≥40            ≥40              ≥40
+
+ Densidad                                g/mL        D 1298-12              0,871                 -                -               -                -
+
+ Aspecto visual                                      D 1524-10         claro y brillante          -                -               -                -
+                                                                        amarillo claro
+ OBSERVACIONES:
+ - Muestra tomada por Transelec S.A.
+ - Restos de muestra con descarte inmediato.
+
+
+
+ Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+ SITUACIÓN ACTUAL:                                                            ACCIÓN A SEGUIR:
+ - Aceite en buenas condiciones para servicio.                                - Analizar al cabo de un año.
+
+
+
+
+ Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                                Cristian Aramburu R.
+               Aprobó                                                                                                           Revisó
+
+
+                                         ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                        7356
+Descripción Equipo:              CDBC Nº 1108530B Fase 2 (Autotr. ATR-4 HYOSUNG Nº TB80184807)
+Potencia (MVA):                  120
+Voltaje (kV):                    220
+
+                                 Datos análisis anteriores:
+                 Análisis >              45226               25781         22224        17788
+                  Fecha >           06-05-2019            15-09-2014     26-09-2013   17-01-2012
+Humedad                                    21                  6             6            9
+RD                                         85                 75            66           71
+Densidad                                 0,871               0,850         0,827        0,846
+Tº del aceite                              42             no informado       -            -
+
+
+
+
+                                 Humedad                                                               Rigidez Dieléctrica RD
+      40
+                                                                                        100
+      30                                                                                 80
+                                                                                         60
+      20
+                                                                                         40
+      10
+                                                                                         20
+        0                                                                                 0
+                    1                2                3            4                               1         2             3    4
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+
+JORPA INGENIERÍA S.A.
+

@@ -1,0 +1,150 @@
+   JORPA INGENIERIA S.A.                                               RL-006 Versión: 9
+   Servicios de Ingeniería Fono:(2)29598900
+      Dresden Nº 4688-4672 San.Miguel -
+                Santiago - CHILE                      ANALISIS POR GASES DISUELTOS
+              Hoja 1 de 1
+
+
+
+ EMPRESA:                                                                                                         FECHA:
+                                                                                                                  EQUIPO / DIAGNOSTICO
+ ID. EQUIPO:
+
+ POT. MAXIMA:                                            MVA                                          FECHA MUESTREO:
+ VOLTAJE:                                                kV                                           FECHA RECEPCION:
+ LUGAR:                                                                                               FECHA ANALISIS:
+ DIAGNOSTICO ANTERIOR:                                                                                AÑO DE FABRICACION:
+ FECHA:                                                                                               ULTIMO DESGASIFICADO:
+ N° ORDEN TRABAJO:                                                                                    REGIMEN DE CARGA:                  %
+ TIPO EQUIPO:                                                                                         TEMPERATURA ACEITE:                °C
+ LUGAR MUESTREO:                                                                                      VOL. ACEITE ESTANQUE:              L
+ VOL. MUESTRA:                                          mL                                            DENSIDAD:                          gr/mL
+ GAS DISUELTO [ppm(v/v)]:
+ Nitrógeno:                       N2=                      Lím<                          Etano:           C2H6=               Lím<
+ Oxígeno:                         O2=                      Lím<                          Etileno:         C2H4=               Lím<
+ Dioxido de Carbono:             CO2=                      Lím<                          Acetileno:       C2H2=               Lím<
+ Monoxido de Carbono:             CO=                      Lím<                          Propano:         C3H8=               Lím<
+ Hidrógeno:                       H2=                      Lím<                          Propileno:       C3H6=               Lím<
+ Metano:                         CH4=                      Lím<
+                               TGC=                        Lím<                          TG (%):                      CO (L):
+                            TGC-CO=                        Lím<                          TGC (%):                     nTG (mL):
+                           S(C1-C2)=                       Lím<                                                       PTG (atm):
+ RELACIONES:
+ CH4/H2:                                                   C2H4/C2H6:                                     %H2:
+ C2H2/CH4:                                                 C2H4/C3H6:                                     %CH4:
+ C2H2/C2H4:                                                C3H6/C3H8:                                     %C2H6:
+ C2H2/C2H6:                                                                                               %C2H4:
+ C2H4/CH4:                                                 CO2/CO:                                        %C2H2:
+ C2H6/CH4:                                                 N2/O2:
+
+ TGC                                                                                      %GAS
+ S(C1-C2)                                                                                 PTG
+
+ DIAGNOSTICO PRINCIPAL:                                                                  DIAGNOSTICO ADICIONAL:
+
+
+
+
+ OBSERVACIONES:
+
+
+
+
+ SITUACION ACTUAL:                                                                       ACCION A SEGUIR:
+
+
+
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+
+
+
+     Sergio Palacios V.                                                                                                       Janet Mendez.
+          Aprobó                                                                                                                 Ejecutó
+
+
+                                                             ESTADÍSTICAS DE ANÁLISIS ANTERIORES
+
+Equipo No:
+Descripción Equipo:
+Potencia (MVA):
+Voltaje (kV):
+Tipo de Equipo:
+                                                             Datos análisis anteriores:
+                                                Análisis >
+                                                Fecha >                                                              5036.0
+                                                                                                                     4028.8
+Nitrógeno                                       N2
+                                                                                                                     3021.6
+Oxígeno                                         O2                                                                   2014.4
+                                                                                                                     1007.2
+Anhídrido Carbónico                             CO2
+                                                                                                                        0.0
+                                                                                                                              0          5         10         15   20
+Monóxido de Carbono                             CO
+                                                                                                                                               TGC (ppm)
+Hidrógeno                                       H2
+Metano                                          CH4
+Etano                                           C2H6                                                                 438.0
+                                                                                                                     350.4
+Etileno                                         C2H4                                                                 262.8
+Acetileno                                       C2H2                                                                 175.2
+                                                                                                                      87.6
+Propano                                         C3H8                                                                   0.0
+                                                                                                                             0       5             10         15   20
+Propileno                                       C3H6                                                                                         S(C1-C2) (ppm)
+CO                                              Litros
+CO2/CO                                          --
+nTG                                             (cc)                                                                 16.0
+                                                                                                                     12.8
+TG                                              (%)                                                                   9.6
+                                                                                                                      6.4
+PTG                                             (atm)
+                                                                                                                      3.2
+Total gas combustible                           TGC                                                                   0.0
+                                                                                                                         0           5            10          15   20
+TGC-CO                                                                                                                                          TG (%)
+S(C1-C2)
+Régimen de Carga                                (%)
+                                                                                                                     39.0
+                                                                                                                     31.2
+NOTAS:
+                                                                                                                     23.4
+TGC:                     Total Gas Combustible= H2+CO+CH4+C2H6+C2H4+C2H2                                             15.6
+S(C1-C2):                Gases más importantes de falla= CH4+C2H6+C2H4+C2H2                                           7.8
+                                                                                                                      0.0
+                                                                                                                         0           5            10          15   20
+RELACIONES MÁS IMPORTANTES (ppm):                                                                                                              CO2/CO
+
+
+
+
+      1593.0                                                                 277.0                                   122.0
+      1274.4                                                                 221.6                                    97.6
+       955.8                                                                 166.2                                    73.2
+       637.2                                                                 110.8                                    48.8
+       318.6                                                                  55.4                                    24.4
+               0.0                                                             0.0                                     0.0
+                     0        5            10           15     20                 0       5        10      15   20           0           5         10         15   20
+                                    H2 (ppm)                                                   CH4 (ppm)                                      C2H6 (ppm)
+
+
+
+
+      50                                                                     1.0                                     3007.0
+      40                                                                     0.8                                     2405.6
+      30                                                                     0.6                                     1804.2
+      20                                                                     0.4                                     1202.8
+      10                                                                     0.2                                      601.4
+      0                                                                      0.0                                        0.0
+           0              5           10               15      20               0     5           10       15   20               0       5         10         15   20
+                                  C2H4 (ppm)                                                  C2H2 (ppm)                                        CO (ppm)
+
+ (*) El eje inferior indica el análisis correlativo.
+
+
+
+
+JORPA INGENIERIA S.A.
+

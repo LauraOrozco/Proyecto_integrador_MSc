@@ -1,0 +1,57 @@
+       JORPA INGENIERÍA S.A.                                          RL-18 V2019 R1
+
+
+                                                       ANÁLISIS DE CONTENIDO DE PCB
+
+
+
+EMPRESA: TRANSELEC S.A.                                                                                 FECHA:            15/04/2019
+OT:         5373                                                                                        EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: Transformador TAG T-1 ABB N° 59607                                                            1068       3214
+POT. MÁXIMA: 24                           MVA                                                           FECHA MUESTREO: 15/03/2019
+VOLTAJE:       220/24                     kV                                                            FECHA RECEPCIÓN: 22/03/2019
+LUGAR:         S/E Lagunas                                                                              FECHA ANÁLISIS:   01/04/2019
+DIAGNÓSTICO ANTERIOR:        No tiene                                                                   AÑO FABRICACIÓN: 1996
+FECHA:                       No tiene                                                                   PUNTO MUESTREO:       Nivel inferior
+
+
+
+           PRUEBA                    UNIDAD                 MÉTODO                               RESULTADO                               LÍMITE
+
+
+
+Análisis de contenido de PCB           ppm                ASTM D 4059                                  <1                                  <50
+
+
+
+Notas:
+Concentraciones
+<1 ppm: Libre de PCB.
+<50 ppm, aceite con PCB aceptable.
+>50 - <500 ppm, aceite contaminado con PCB.
+>500 ppm, aceite que es considerado como PCB.
+
+Equipamiento utilizado: Cromatógrafo Perkin Elmer Autosystem XL.
+Patrones: Aroclor 1242, 1254 y 1260.
+Límite de detección: 1 ppm
+
+
+
+
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+CONCLUSIÓN:
+- Aceite libre de PCB.
+
+
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                    Cristian Aramburu R.
+             Aprobó                                                                                                               Revisó
+

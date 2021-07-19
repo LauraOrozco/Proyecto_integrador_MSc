@@ -1,0 +1,125 @@
+      JORPA INGENIERÍA S.A.                                           RL-39 V2019 R1
+
+                                                     ANÁLISIS DE CONCENTRACIÓN DE
+                                                               ADITIVOS
+
+
+EMPRESA:     TRANSELEC S.A.                                                                            FECHA:             30/07/2019
+OT:          5731                                                                                      EQUIPO / DIAGNÓSTICO
+ID. EQUIPO:  Transformador TAG T-1 TUSAN Nº 732003201                                                     984       1918
+POT. MÁXIMA: 42                       MVA                                                              FECHA MUESTREO:       15/07/2019
+VOLTAJE:     110                       kV                                                              FECHA RECEPCIÓN:      22/07/2019
+LUGAR:       S/E Dos Amigos                                                                            FECHA ANÁLISIS:       26/07/2019
+DIAGNÓSTICO ANTERIOR: 1133                                                                             AÑO FABRICACIÓN:          1996
+FECHA:                    27/08/2014                                                                   PUNTO MUESTREO: Nivel inferior estanque
+
+
+                                                                                                         LIMITE ACEITE         LIMITE ACEITE EN
+           PRUEBA                   UNIDAD                 MÉTODO                  RESULTADO
+                                                                                                            NUEVO                 SERVICIO
+
+  Análisis de contenido de
+                                        %                ASTM D 2668                     NR                 0,08 a 0,40               >0,18
+   inhibidor BHT - DBPC
+
+
+Análisis de contenido de BTA           ppm          Cigré WG A2.32 TF 02                 <1                    20 a 45                 >10
+
+
+  Análisis de contenido de
+                                       ppm          Cigré WG A2.32 TF 02                 71                       *                     *
+         Irgamet 39
+
+
+*La concentración de Irgamet 39 recomendada para transformadores con presencia de dibencil disulfuro es 100 ppm.
+*El nombre comercial del pasivador metálico puede ser Irgamet 39, o Nypass o BTA.
+
+
+                                                                                                         LIMITE ACEITE         LIMITE ACEITE EN
+           PRUEBA                   UNIDAD                 MÉTODO                  RESULTADO
+                                                                                                            NUEVO                 SERVICIO
+
+  Análisis de contenido de                                                                                 no detectable
+                                       ppm                   DOBLE                        6                                         <25 ppm
+            DBDS                                                                                             (<5 ppm)
+
+Notas:
+ND: no detectado
+NR : no realizado
+* Limites para aceite nuevo de acuerdo a IEC 60296-2012 "Fluids for electrotechnical applications - Unused mineral insulating oils
+ for transformers and switchgear".
+* Limites para aceite en servicio de acuerdo a IEC 60422-2013 "Mineral Insulating Oils in Electrical Equipment".
+* Dos aceites con la misma concentración de DBDS pueden tener comportamientos distintos, ya que la generación de
+sulfuro de cobre depende de varios factores: temperatura de operación, cantidad de oxigeno presente y presencia de
+pasivadores.
+* De acuerdo a estudios realizados por IEEE TC, la contaminación con sulfuro de cobre aumenta con el tiempo.
+* El límite de concentración de DBDS en aceite en servicio solo aplica para aceite contaminado por manipulación o equipos a los cuales
+se les ha cambiado el aceite.
+OBSERVACIONES:
+- Existen diferentes posibilidades: el DBDS reacciono y formó sulfuro de cobre, el aceite se contaminó con DBDS por relleno o
+    manipulación, o se eliminó el aceite original contaminado con DBDS del equipo.
+- Muestra tomada por Transelec S.A., y analizada en Laboratorio Doble Engineering Company.
+- Restos de muestra con descarte inmediato.
+SITUACIÓN ACTUAL:                                                          ACCIÓN A SEGUIR:
+- Aceite en condiciones para servicio.                                     - Analizar al cabo de un año. Evitar sobre-voltajes y/o
+                                                                               aumento de carga en el equipo.
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                Cristian Aramburu R.
+             Aprobó                                                                                                           Revisó
+
+
+ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                                                     984
+Descripción Equipo:                                           Transformador TAG T-1 TUSAN Nº 732003201
+Potencia (MVA):                                               42
+Voltaje (kV):                                                 110
+
+
+
+                                              Análisis >            1918           1133                938                        802                     675            366
+                                              Fecha >          15-07-2019        17-07-2014   03-10-2013                 02-11-2012                    04-04-2012    02-12-2010
+Contenido de inhibidor (%)                                              NR          NR                 NR                         NR                      NR             NR
+Contenido de BTA (ppm)                                                  <1          <1                 <1                         <1                      <1             <1
+Contenido de Irgamet 39 (ppm)                                           71          83                 74                         78                      <1             86
+Contenido de DBDS (ppm)                                                 6            6                 7                          8                          5           5
+
+
+
+
+                            Contenido de inhibidor (%)                                                                  Contenido de DBDS (ppm)
+      1,0
+                                                                                              30
+      0,8                                                                                     25
+      0,6                                                                                     20
+                                                                                              15
+      0,4
+                                                                                              10
+      0,2                                                                                     5
+      0,0                                                                                     0
+               1        2        3        4           5   6         7        8                          1       2         3            4       5         6       7   8
+
+
+
+
+                            Contenido de BTA (ppm)                                                              Contenido de Irgamet 39 (ppm)
+
+      12                                                                                      120
+      10                                                                                      100
+        8                                                                                      80
+        6                                                                                      60
+        4                                                                                      40
+        2                                                                                      20
+        0                                                                                          0
+               1        2        3        4           5   6         7        8                              1       2         3            4       5         6   7   8
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+

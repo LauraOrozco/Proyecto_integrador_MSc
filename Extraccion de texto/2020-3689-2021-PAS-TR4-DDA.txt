@@ -1,0 +1,78 @@
+       JORPA INGENIERÍA S.A.                                           RL-39 V2019 R1
+            Servicios de Ingeniería
+        Fonos: (2)29598900 – 29598913
+Dresden N° 4688- 4672 – San Miguel – Santiago
+                                                      ANÁLISIS DE CONCENTRACIÓN DE
+                     CHILE                                      ADITIVOS
+                      1/1
+
+
+
+EMPRESA:     TRANSELEC S.A.                                                                             FECHA:             26/02/2020
+OT:          6259                                                                                       EQUIPO / DIAGNÓSTICO
+ID. EQUIPO:  Autotransformador TAG ATR-2 ABB Nº 89352                                                     3689       2021
+POT. MÁXIMA: 90                        MVA                                                              FECHA MUESTREO:       19/12/2019
+VOLTAJE:     220/110/13,2               kV                                                              FECHA RECEPCIÓN:      27/12/2019
+LUGAR:       S/E Maitencillo                                                                            FECHA ANÁLISIS:       03/02/2020
+DIAGNÓSTICO ANTERIOR:        No tiene                                                                   AÑO FABRICACIÓN:          2005
+FECHA:                       No tiene                                                                   PUNTO MUESTREO: Nivel inferior estanque
+
+
+                                                                                                           LIMITE ACEITE           LIMITE ACEITE EN
+           PRUEBA                     UNIDAD                MÉTODO                  RESULTADO
+                                                                                                              NUEVO                   SERVICIO
+
+   Análisis de contenido de
+                                          %               ASTM D 2668                      NR                 0,08 a 0,40                 >0,18
+    inhibidor BHT - DBPC
+
+
+Análisis de contenido de BTA             ppm         Cigré WG A2.32 TF 02                  <1                   20 a 45                    >10
+
+
+   Análisis de contenido de
+                                         ppm         Cigré WG A2.32 TF 02                  88                       *                       *
+          Irgamet 39
+
+
+*La concentración de Irgamet 39 recomendada para transformadores con presencia de dibencil disulfuro es 100 ppm.
+*El nombre comercial del pasivador metálico puede ser Irgamet 39, o Nypass o BTA.
+
+
+                                                                                                           LIMITE ACEITE           LIMITE ACEITE EN
+           PRUEBA                     UNIDAD                MÉTODO                  RESULTADO
+                                                                                                              NUEVO                   SERVICIO
+
+   Análisis de contenido de                                                                                  no detectable
+                                         ppm                  DOBLE                        NR                                           <25 ppm
+             DBDS                                                                                             (<5 ppm)
+
+Notas:
+ND: no detectado
+NR : no realizado
+* Limites para aceite nuevo de acuerdo a IEC 60296-2012 "Fluids for electrotechnical applications - Unused mineral insulating oils
+ for transformers and switchgear".
+* Limites para aceite en servicio de acuerdo a IEC 60422-2013 "Mineral Insulating Oils in Electrical Equipment".
+* Dos aceites con la misma concentración de DBDS pueden tener comportamientos distintos, ya que la generación de
+sulfuro de cobre depende de varios factores: temperatura de operación, cantidad de oxigeno presente y presencia de
+pasivadores.
+* De acuerdo a estudios realizados por IEEE TC, la contaminación con sulfuro de cobre aumenta con el tiempo.
+* El límite de concentración de DBDS en aceite en servicio solo aplica para aceite contaminado por manipulación o equipos a los cuales
+se les ha cambiado el aceite.
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A., y analizada en Laboratorio Doble Engineering Company.
+- Restos de muestra con descarte inmediato.
+
+SITUACIÓN ACTUAL:                                                                    ACCIÓN A SEGUIR:
+- Aceite en condiciones para servicio.                                               - Analizar al cabo de un año. Evitar sobre-voltajes y/o
+                                                                                       aumento de carga en el equipo.
+                                                                                     - Adicionar pasivador hasta alcanzar 100 ppm o cambiar
+                                                                                       el aceite.
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                    Cristian Aramburu R.
+             Aprobó                                                                                                               Revisó
+

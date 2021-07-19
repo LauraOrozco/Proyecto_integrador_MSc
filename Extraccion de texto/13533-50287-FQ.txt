@@ -1,0 +1,103 @@
+       JORPA INGENIERÍA S.A.                                        RL-17 V2020 R1
+             Servicios de Ingeniería
+        Fonos: (2) 29598900 -29598913            CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+Dresden N° 4688 - 4672 – San Miguel – Santiago   MINERAL DE CAMBIADOR DE DERIVACIONES
+                      CHILE
+                       1/1                                    BAJO CARGA
+
+ EMPRESA:           TRANSELEC S.A.                                                              FECHA:           18/05/2020
+                                                                                                EQUIPO / DIAGNÓSTICO
+ ID. EQUIPO: CDBC MR N° 1848042 (Transf. TAG Bco TAG ATR1-2 Res SIEMENS N° 812026)
+                                                                                                  13533      50287
+ POT. MÁXIMA:                             250                            MVA       FECHA MUESTREO:               06/05/2020
+ VOLTAJE:                                 525                            kV        FECHA RECEPCIÓN:              11/05/2020
+ LUGAR:                                   S/E Kimal                                FECHA ANÁLISIS:               14/05/2020
+ DIAGNÓSTICO ANTERIOR:                    48591                                    AÑO FABRICACIÓN:              2017
+ FECHA:                                   21/01/2020                               ULTIMO DESGASIFICADO:         No informado
+ Nº ORDEN DE TRABAJO:                     6721                                     REGIMEN DE CARGA:             0                                      %
+ MODELO :                                 RI3003-300/D-10193WR                     TEMPERATURA ACEITE:           31                                     ºC
+ LUGAR DE MUESTREO:                       Nivel inferior CDBC                      HUMEDAD RELATIVA              10                                     %
+ VOL. MUESTRA:                            1000                           mL        VOL. ACEITE CDBC:             No informado                            L
+
+
+                                                                                           Límites nuevo                      Conexión al      Conexión al
+                                                                          Resultado                          Conexión al
+               Prueba                  UNIDAD       Método ASTM                               antes de                        terminal <       terminal >
+                                                                            25 °C                              neutro
+                                                                                             energizar                           69 kV            69 kV
+
+
+ Humedad                                mg/kg        D 1533-12                 5                ≤10              ≤30*            ≤30*             ≤30*
+
+ Rigidez dieléctrica 2.0 mm.               kV        D 1816-12                63                ≥55               ≥27            ≥35              ≥45
+
+ Rigidez dieléctrica 2.5 mm.               kV        VDE 0370                  -                ≥70*              ≥40            ≥40              ≥40
+
+ Densidad                                g/mL        D 1298-12              0,871                 -                -               -                -
+
+ Aspecto visual                                      D 1524-10         claro y brillante          -                -               -                -
+                                                                        amarillo claro
+ OBSERVACIONES:
+ - Muestra tomada por Transelec S.A.
+ - Restos de muestra con descarte inmediato.
+
+
+
+ Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+ SITUACIÓN ACTUAL:                                                            ACCIÓN A SEGUIR:
+ - Aceite en buenas condiciones para servicio.                                - Analizar al cabo de un año.
+
+
+
+
+ Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                                Cristian Aramburu R.
+               Aprobó                                                                                                           Revisó
+
+
+                                       ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                        13533
+Descripción Equipo:              CDBC MR N° 1848042 (Transf. TAG Bco TAG ATR1-2 Res SIEMENS N° 812026)
+Potencia (MVA):                  250
+Voltaje (kV):                    525
+
+                                 Datos análisis anteriores:
+                 Análisis >             50287           48591        48315
+                 Fecha >            06-05-2020        03-01-2020   20-12-2019
+Humedad                                     5             6            8
+RD                                         63            60           88
+Densidad                                0,871           0,871        0,869
+Tº del aceite                              31            28           32
+
+
+
+
+                                                                                          Rigidez Dieléctrica RD
+                                   Humedad
+         40                                                                     100
+                                                                                80
+         30
+                                                                                60
+         20
+                                                                                40
+
+         10                                                                     20
+                                                                                 0
+          0                                                                           1                2           3
+                         1                      2             3
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+
+JORPA INGENIERÍA S.A.
+

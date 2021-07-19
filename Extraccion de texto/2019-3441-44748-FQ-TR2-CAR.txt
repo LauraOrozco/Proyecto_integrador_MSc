@@ -1,0 +1,102 @@
+       JORPA INGENIERÍA S.A.                                      RL-017 2019 Rev-01
+             Servicios de Ingeniería
+        Fonos: (2) 29598900 -29598913            CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+Dresden N° 4688 - 4672 – San Miguel – Santiago   MINERAL DE CAMBIADOR DE DERIVACIONES
+                      CHILE
+                       1/1                                    BAJO CARGA
+
+ EMPRESA:           TRANSELEC S.A.                                           FECHA:           03/05/2019
+                                                                             EQUIPO / DIAGNÓSTICO
+ ID. EQUIPO: CDBC H-1 MR Nº 86526 (Autotransf. ATR-2 GENERAL E. N° 84381)
+                                                                                3441      44748
+ POT. MÁXIMA:                75                          MVA FECHA MUESTREO:                  27/03/2019
+ VOLTAJE:                    220                         kV     FECHA RECEPCIÓN:              29/03/2019
+ LUGAR:                      S/E Cardones                       FECHA ANÁLISIS:               24/04/2019
+ DIAGNÓSTICO ANTERIOR:       12832                              AÑO FABRICACIÓN:              1980
+ FECHA:                      17/12/2009                         ULTIMO DESGASIFICADO:         No informado
+ Nº ORDEN DE TRABAJO:        5401                               REGIMEN DE CARGA:             53                                                        %
+ MODELO :                    No informado                       TEMPERATURA ACEITE:           No informado                                              ºC
+ LUGAR DE MUESTREO:          Nivel inferior CDBC                HUMEDAD RELATIVA              57                                                        %
+ VOL. MUESTRA:               1000                        mL     VOL. ACEITE CDBC:             No informado                                               L
+
+
+                                                                                           Límites nuevo                      Conexión al      Conexión al
+                                                                          Resultado                          Conexión al
+               Prueba                  UNIDAD       Método ASTM                               antes de                        terminal <       terminal >
+                                                                            25 °C                              neutro
+                                                                                             energizar                           69 kV            69 kV
+
+
+ Humedad                                mg/kg        D 1533-12                11                ≤10              ≤30*            ≤30*             ≤30*
+
+ Rigidez dieléctrica 2.0 mm.               kV        D 1816-12                63                ≥55               ≥27            ≥35              ≥45
+
+ Rigidez dieléctrica 2.5 mm.               kV        VDE 0370                  -                ≥70*              ≥40            ≥40              ≥40
+
+ Densidad                                g/mL        D 1298-12              0,872                 -                -               -                -
+
+ Aspecto visual                                      D 1524-10         claro y brillante          -                -               -                -
+                                                                        amarillo claro
+ OBSERVACIONES:
+ - Muestra tomada por Transelec S.A.
+ - Restos de muestra con descarte inmediato.
+
+
+
+ Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+ SITUACIÓN ACTUAL:                                                            ACCIÓN A SEGUIR:
+ - Aceite en buenas condiciones para servicio.                                - Analizar al cabo de un año.
+
+
+
+
+ Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                                Cristian Aramburu R.
+               Aprobó                                                                                                           Revisó
+
+
+                                         ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                        3441
+Descripción Equipo:              CDBC H-1 MR Nº 86526 (Autotransf. ATR-2 GENERAL E. N° 84381)
+Potencia (MVA):                  75
+Voltaje (kV):                    220
+
+                  Datos análisis anteriores:
+                 Análisis >
+                      44748         12832                       4562           4125
+           Fecha > 27/03/2019     17/12/2009                  22/03/2005   23/12/2004
+Humedad                  11           20                         15             18
+RD                       63           50                         67             63
+Densidad               0,872           -                          -             -
+Tº del aceite      No informado        -                          -             -
+
+
+
+
+                                Humedad                                                     Rigidez Dieléctrica RD
+      40
+                                                                               80
+      30
+                                                                               60
+      20                                                                       40
+
+      10                                                                       20
+
+        0                                                                       0
+                    1                2                3   4                             1         2             3    4
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+
+JORPA INGENIERÍA S.A.
+

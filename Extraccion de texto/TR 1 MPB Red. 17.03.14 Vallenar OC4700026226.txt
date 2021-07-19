@@ -1,0 +1,90 @@
+                                                                                      REGISTRO DE EJECUCION DE MANTENIMIENTO
+                                        CONTRATISTA                                                                                                                             EMPRESA MANDANTE
+
+                             TRANSFORMADOR DE PODER HASTA 10 MVA TRIFÁSICO, REFRIGERACION ONAN - REDUCIDO                                                                   Unidad de Obra
+
+                                                 FECHA EJECUCION               17-03-2014                                         INFORME N°                                   PEDIDO SAP N°
+ANTECEDENTES
+
+
+
+
+                                                   GERENCIA ZONAL              Norte Chico                                     SUBESTACION                                         Vallenar
+                                          DESIGNACION UNILINEAL                     TR 1                                     REALIZADO POR                                Erasmo Araya Antiquera
+                                                                                                                INSPECTOR DE TRANSELEC                                     Jorge Cabrera Cubillo
+                                                                                                       CARACTERISTICAS DEL EQUIPO
+                                                                MARCA                      Sindelem                                            POTENCIA EN [MVA]                                10
+                                   TENSIONES NOMINALES EN [KV]                             110/13,8                                                   Nº DE SERIE                             7408001
+
+                           ÍTEM                                                                                    DESCRIPCIÓN
+
+                                   INSPECCIÓN COLOR DEL ACEITE
+                                        Observaciones
+                             10
+
+
+
+                                   MEDIDA RIGIDEZ DIELÉCTRICA DEL ACEITE
+                                        Medida en [KV]                  39,3 KV                 Observaciones               Medida de rigidez dieléctrica del aceite normal, realizada con la norma ASTM 1816
+                             20
+
+
+
+                                    MEDIDA FACTOR DE POTENCIA DEL ACEITE
+                                                                          Miliamperes                                                  Watts                                                    Factor de Potencia
+                                         [KV]
+ÍTEMES DEL MANTENIMIENTO
+
+
+
+
+                                                           Lectura        Multiplicador         [mA]             Lectura         Multiplicador            [Watt]        sin corregir      F. corrección        a 20ºC
+                                           5                                                    0,44                                                  0,0028              0,07                 0,07            1,00
+                             30
+                                     Temperatura ambiente en [ºC]              20              Humedad Relativa en [%]                  42                     Observaciones
+
+
+
+
+                                   VERIFICACIÓN ESTADO INSTRUMENTOS E INDICADORES DE NIVEL
+                                               Observaciones                         Se realiza inspeccion general a los indicadores de temperatura, tanto de enrrollado y aceite ( Aceite 46ºC y
+                             40
+                                   enrrollado 48 ºC).
+
+
+
+                                                                                             EQUIPOS DE PRUEBAS Y MEDIDAS EMPLEADOS
+                                                            Descripcion                                              Marca                         Modelo                   N° de Serie              Certificado Vigente
+                                               Medidor de rigidez dielectrica del aceite                              Baur                        DTA 100                      7290307                       OK
+                                                    Medidor de factor de potencia                                   Megger                        Delta 3000                   62030609                      OK
+
+
+
+                                   OBSERVACIONES GENERALES
+                           Se realiza inspeccion general del equipo, no enecontrando anomalias en este.
+                           Se encuentran indicios de filtraciones antiguas por el lado de radiadores, lado de media tension.
+                           Equipo sin falla aparente.
+
+
+
+
+                                                                                                                                         Jefe Técnico Contratista                      Inspector de TRANSELEC
+  CONCLUSIONES
+
+
+
+
+                           Equipo normal y sin restricciones                                                                                          X
+
+                           Equipo con restricciones u observaciones ( ver observaciones )
+
+                           Equipo no puede entrar al servicio
+
+                           Equipo en observacion durante                                                         horas
+
+                                                         REALIZADO POR                                             APROBADO POR                                          RECIBIDO POR (TRANSELEC)
+                           FIRMA
+                  NOMBRE                              Erasmo Araya Antiquera                                             Jaime Latin
+                           CARGO                         Mando de Brigada                                             Jefe Tecnico
+                           FECHA                             17-03-2014                                                  17-03-2014
+

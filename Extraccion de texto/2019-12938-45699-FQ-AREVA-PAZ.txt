@@ -1,0 +1,70 @@
+     JORPA INGENIERÍA S.A.                                             RL-11B V2019 R1
+            Servicios de Ingeniería
+       Fonos: (2) 29598900 - 29598913
+Dresden N° 4672-4688 San Miguel – Santiago
+                                                    CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+                     CHILE                             MINERAL EN EQUIPOS CLASE ≤ 69 kV
+                      1/1
+
+
+EMPRESA:          TRANSELEC S.A.                                                                      FECHA:        02/07/2019
+                                                                                                      EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: Transformador AREVA N° 08.5065-01
+                                                                                                        12938       45699
+POT. MÁXIMA:                                  No informado                       MVA     FECHA MUESTREO:            26/06/2019
+VOLTAJE:                                      0,245                              kV      FECHA RECEPCIÓN:           27/06/2019
+LUGAR:                                        S/E Pan de Azúcar                          FECHA ANÁLISIS:            01/07/2019
+DIAGNÓSTICO ANTERIOR:                         No tiene                                   AÑO FABRICACIÓN:           2008
+FECHA:                                        No tiene                                   ULTIMO DESGASIFICADO:      No informado
+Nº ORDEN DE TRABAJO:                          5647                                       REGIMEN DE CARGA:          No informado                    %
+TIPO DE EQUIPO:                               Hermético con colchón de aire              TEMPERATURA ACEITE:        No informado                    ºC
+LUGAR DE MUESTREO:                            Nivel inferior estanque                    HUMEDAD RELATIVA           No informado                    %
+VOL. MUESTRA:                                 1000                               mL      VOL. ACEITE ESTANQUE:      112                              L
+                                                                                                             LÍMITES NUEVO
+                                                                                                                                        LÍMITES EN
+              PRUEBA                         UNIDAD        MÉTODO ASTM                RESULTADO                 ANTES DE
+                                                                                                                                         SERVICIO
+                                                                                                               ENERGIZAR
+Humedad                                       mg/kg           D 1533-12                     15                      ≤ 20                    ≤ 35
+
+Rigidez dieléctrica 2.0 mm.                     kV            D 1816-12                    33                       ≥ 45                    ≥ 40
+
+Tensión interfacial                           mN/m            D 971-12                      46                      ≥ 38                    ≥ 25
+
+Número neutralización                        mgKOH/g          D 974-14                    <0,02                    ≤ 0,03                  ≤ 0,20
+
+Factor de potencia 100 ºC                       %             D 924-15                    0,087                    ≤ 0,40                   ≤ 0,5
+
+Resistividad volumétrica 100 ºC               ohm*cm          D 1169-11                 3,3E+13                       -                        -
+
+Densidad                                      g/mL            D 1298-12                   0,860                       -                        -
+
+Color                                           -             D 1500-07                    L0,5                     < 1,0                      -
+
+Saturación                                      %                  -                         -                        -                        -
+
+H/PS                                            %                  -                         -                        -                        -
+
+Aspecto visual                                                D 1524-15             claro y brillante         claro y brillante        claro y brillante
+                                                                                     amarillo claro
+OBSERVACIONES:
+- Rigidez dieléctrica fuera de límite para aceite en servicio.
+- Muestra tomada por Transelec S.A.
+- El % de saturación relativa del aceite no pudo ser estimado debido a que la T° del líquido aislante no fue informada.
+- Restos de muestra con descarte inmediato.
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+SITUACIÓN ACTUAL:                                                                     ACCIÓN A SEGUIR:
+- Aceite en mínimas condiciones para servicio.                                        - Analizar nuevamente para verificar valor de rigidez
+                                                                                      dieléctrica.
+
+
+
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+        Carola Núñez D.                                                                                                     Cristian Aramburu R.
+              Aprobó                                                                                                                Revisó
+

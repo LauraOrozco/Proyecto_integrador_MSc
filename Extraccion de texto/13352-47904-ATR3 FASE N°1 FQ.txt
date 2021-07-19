@@ -1,0 +1,145 @@
+     JORPA INGENIERÍA S.A.                                             RL-13 V2019 R1
+            Servicios de Ingeniería
+       Fonos: (2) 29598900 - 29598913
+Dresden N° 4672-4688 San Miguel – Santiago
+                                                 CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+                     CHILE                          MINERAL EN EQUIPOS CLASE ≥ 230 kV
+                      1/1
+
+
+ EMPRESA:         TRANSELEC S.A.                                                                      FECHA:       13/01/2020
+                                                                                                      EQUIPO / DIAGNÓSTICO
+ ID. EQUIPO: Autotransformador TAG ATR3-Fase 1 SIEMENS N°892016
+                                                                                                        13352       47904
+ POT. MÁXIMA:                                 250                               MVA      FECHA MUESTREO:           29/11/2019
+ VOLTAJE:                                     525√3/230√3/66                    kV       FECHA RECEPCIÓN:          09/12/2019
+ LUGAR:                                       S/E Los Changos                            FECHA ANÁLISIS:           09/01/2020
+ DIAGNÓSTICO ANTERIOR:                        47648                                      AÑO FABRICACIÓN:          2017
+ FECHA:                                       09/12/2019                                 ULTIMO DESGASIFICADO:     No informado
+ Nº ORDEN DE TRABAJO:                         6201                                       REGIMEN DE CARGA:         No informado                     %
+ TIPO DE EQUIPO:                              Hermético con bolsa de goma                TEMPERATURA ACEITE:       48                               ºC
+ LUGAR DE MUESTREO:                           Nivel inferior estanque                    HUMEDAD RELATIVA          42                               %
+ VOL. MUESTRA:                                1000                              mL       VOL. ACEITE ESTANQUE:     64750                             L
+                                                                                                            LÍMITES NUEVO
+                                                                                                                                       LÍMITES EN
+              PRUEBA                         UNIDAD       MÉTODO ASTM                RESULTADO                 ANTES DE
+                                                                                                                                        SERVICIO
+                                                                                                              ENERGIZAR
+ Humedad                                      mg/kg          D 1533-12                      3                       ≤ 10                    ≤ 20
+
+ Rigidez dieléctrica 2.0 mm.                   kV            D 1816-12                     66                      ≥ 60                    ≥ 50
+
+ Tensión interfacial                          mN/m            D 971-12                     39                       ≥ 38                    ≥ 32
+
+ Número neutralización                       mgKOH/g          D 974-14                   <0,02                     ≤ 0,03                  ≤ 0,10
+
+ Factor de potencia 25 ºC                       %             D 924-15                      -                      ≤ 0,05                  ≤ 0,5
+
+ Factor de potencia 100 ºC                      %             D 924-15                   0,224                     ≤ 0,30                   ≤5
+
+ Resistividad volumétrica 25 ºC              ohm*cm          D 1169-11                      -                        -                        -
+
+ Resistividad volumétrica 100 ºC             ohm*cm          D 1169-11                 1,5 E+13                      -                        -
+
+ Densidad                                     g/mL           D 1298-12                   0,870                       -                        -
+
+ Color                                                       D 1500-07                    L0,5                     < 0,5                      -
+
+ Aspecto visual                                              D 1524-15              claro y brillante        claro y brillante        claro y brillante
+                                                                                     amarillo claro
+ OBSERVACIONES:
+ - Muestra tomada por Transelec S.A.
+ - Restos de muestra con descarte inmediato.
+
+
+
+ Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+ SITUACIÓN ACTUAL:                                                                   ACCIÓN A SEGUIR:
+ - Aceite en buenas condiciones para servicio.                                       - Analizar al cabo de un año.
+
+
+
+
+ Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                                   Cristian Aramburu R.
+               Aprobó                                                                                                              Revisó
+
+
+                                       ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                        13352
+Descripción Equipo:              Autotransformador TAG ATR3-Fase 1 SIEMENS N°892016
+Potencia (MVA):                  250
+Voltaje (kV):                    525√3/230√3/66
+
+                                 Datos análisis anteriores:
+                 Análisis >             47904            47648       47510
+                  Fecha >           29-11-2019        22-11-2019   08-11-2019
+Humedad                                     3              5           3
+RD                                         66             80          73
+TI                                         39             41          40
+NN                                      <0,02            <0,02       <0,02
+FP - 25ºC                                   -              -           -
+FP - 100ºC                              0,224            0,346       0,142
+RV - 25ºC                                   -              -           -
+RV - 100ºC                           1,53E+13           9,41E+12   3,68E+13
+Densidad                                0,870            0,871       0,872
+Color                                     L0,5            L0,5        L0,5
+Tº del aceite                              48             48          40
+
+
+
+
+                                 Humedad                                                          Rigidez Dieléctrica RD
+       25
+                                                                                100
+       20
+                                                                                80
+       15
+                                                                                60
+       10                                                                       40
+        5                                                                       20
+        0                                                                         0
+                       1                        2              3                        1                      2              3
+
+
+
+
+                            Tensión Interfacial TI                                      Número Neutralización NN
+
+      50                                                                         0,12
+                                                                                 0,10
+      40
+                                                                                 0,08
+      30
+                                                                                 0,06
+      20
+                                                                                 0,04
+      10                                                                         0,02
+        0                                                                        0,00
+                       1                        2              3                            1                      2          3
+
+
+
+
+                           Factor de Potencia FP-25ºC                                           Factor de Potencia FP-100ºC
+     0,6                                                                        6,0
+     0,5                                                                        5,0
+     0,4                                                                        4,0
+     0,3                                                                        3,0
+     0,2                                                                        2,0
+     0,1                                                                        1,0
+     0,0                                                                        0,0
+                      1                         2           3                           1                      2              3
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+JORPA INGENIERÍA S.A.
+

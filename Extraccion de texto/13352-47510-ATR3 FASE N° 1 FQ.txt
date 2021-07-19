@@ -1,0 +1,70 @@
+     JORPA INGENIERÍA S.A.                                             RL-13 V2019 R1
+            Servicios de Ingeniería
+       Fonos: (2) 29598900 - 29598913
+Dresden N° 4672-4688 San Miguel – Santiago
+                                                 CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+                     CHILE                          MINERAL EN EQUIPOS CLASE ≥ 230 kV
+                      1/1
+
+
+ EMPRESA:         TRANSELEC S.A.                                                                      FECHA:       04/12/2019
+                                                                                                      EQUIPO / DIAGNÓSTICO
+ ID. EQUIPO: Autotransformador TAG ATR3-Fase 1 SIEMENS N°892016
+                                                                                                        13352       47510
+ POT. MÁXIMA:                                 250                               MVA      FECHA MUESTREO:           08/11/2019
+ VOLTAJE:                                     500                               kV       FECHA RECEPCIÓN:          14/11/2019
+ LUGAR:                                       S/E Los Changos                            FECHA ANÁLISIS:           29/11/2019
+ DIAGNÓSTICO ANTERIOR:                        No tiene                                   AÑO FABRICACIÓN:          2017
+ FECHA:                                       No tiene                                   ULTIMO DESGASIFICADO:     No informado
+ Nº ORDEN DE TRABAJO:                         6105                                       REGIMEN DE CARGA:         No informado                     %
+ TIPO DE EQUIPO:                              Hermético con bolsa de goma                TEMPERATURA ACEITE:       40                               ºC
+ LUGAR DE MUESTREO:                           Nivel inferior estanque                    HUMEDAD RELATIVA          48,1                             %
+ VOL. MUESTRA:                                1000                              mL       VOL. ACEITE ESTANQUE:     64750                             L
+                                                                                                            LÍMITES NUEVO
+                                                                                                                                       LÍMITES EN
+              PRUEBA                         UNIDAD       MÉTODO ASTM                RESULTADO                 ANTES DE
+                                                                                                                                        SERVICIO
+                                                                                                              ENERGIZAR
+ Humedad                                      mg/kg          D 1533-12                      3                       ≤ 10                    ≤ 20
+
+ Rigidez dieléctrica 2.0 mm.                   kV            D 1816-12                     73                      ≥ 60                    ≥ 50
+
+ Tensión interfacial                          mN/m            D 971-12                     40                       ≥ 38                    ≥ 32
+
+ Número neutralización                       mgKOH/g          D 974-14                   <0,02                     ≤ 0,03                  ≤ 0,10
+
+ Factor de potencia 25 ºC                       %             D 924-15                      -                      ≤ 0,05                  ≤ 0,5
+
+ Factor de potencia 100 ºC                      %             D 924-15                   0,142                     ≤ 0,30                   ≤5
+
+ Resistividad volumétrica 25 ºC              ohm*cm          D 1169-11                      -                        -                        -
+
+ Resistividad volumétrica 100 ºC             ohm*cm          D 1169-11                 3,7 E+13                      -                        -
+
+ Densidad                                     g/mL           D 1298-12                   0,872                       -                        -
+
+ Color                                                       D 1500-07                    L0,5                     < 0,5                      -
+
+ Aspecto visual                                              D 1524-15              claro y brillante        claro y brillante        claro y brillante
+                                                                                     amarillo claro
+ OBSERVACIONES:
+ - Muestra tomada por Transelec S.A., posterior a la primera energización.
+ - Restos de muestra con descarte inmediato.
+
+
+
+ Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+ SITUACIÓN ACTUAL:                                                                   ACCIÓN A SEGUIR:
+ - Aceite en buenas condiciones para servicio.                                       - Analizar al cabo de un año.
+
+
+
+
+ Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                                   Cristian Aramburu R.
+               Aprobó                                                                                                              Revisó
+

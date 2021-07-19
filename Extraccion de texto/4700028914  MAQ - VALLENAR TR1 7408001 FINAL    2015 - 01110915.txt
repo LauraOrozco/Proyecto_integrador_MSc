@@ -1,0 +1,279 @@
+                                           Lubrisider Chile S.A.
+
+
+                                         Informe de Análisis de Laboratorio
+
+
+
+                        Cliente:
+                                   TRANSELEC
+
+                        Fecha de Muestreo:
+                                  9 de septiembre de 2015
+
+                        Unidad:
+                                   TR1
+
+                        Marca:
+                                   SINDELEN
+
+
+
+
+                                                   Santiago,   miércoles, 16 de septiembre de 2015
+
+
+
+
+RG-LBS-IAF Versión 1 25/05/2012
+
+
+   Lubrisider Chile S.A.                                                                                    FECHA DE MUESTRA:              CODIGO INTERNO
+
+                                                                                                           9 de septiembre de 2015                01110915
+
+                                                     TRANSFORMADOR DE POTENCIA
+                                                                MANTENIMIENTO PREDICTIVO
+  Cliente:      TRANSELEC                                                                 Potencia:          10.000 KVA
+  Ciudad:       S/E VALLENAR, III REGIÓN (S/E VALLENAR)                                   Marca:       SINDELEN
+  Unidad:       TR1                                                                       Número de Serie:          7408001
+  Tension Primaria(Volts):           110.000 Tension Secundaria(Volts):            13.200 Volúmen de Aceite:                   9.402 Lts.
+  Año de Fabricación:               1974     Tensión del Terciario(Volts):   N/D          Respiración:               SIN ASIGNAR
+  Clase de Transformador:       POTENCIA
+  Tipo de Liquido Refrigerante: ACEITE DIELÉCTRICO
+  Localizacion: EXTERIOR        Conmutador:                 Refrigerac.:     RAD.VENT.
+  Otros Datos: MUESTRA FINAL
+                DURANTE EL SERVICIO SE AGREGÓ 16,3 KG DE BHT
+
+
+
+                              RESULTADOS DE LOS ANÁLISIS FISICOQUÍMICOS Y CROMATOGRÁFICOS DEL ACEITE
+
+                                                                              FÍSICOS
+
+
+                   TENSIÓN                                                                                               PESO
+                                    FACTOR DE POTENCIA        DIELÉCTRICO                                 COLOR                            VISUAL
+                 INTERFACIAL                                                                                           ESPECÍFICO
+                                    A 25 ºC:        0,011
+                      45,1                                         68,6                                      2            0,887            CLARO
+                                    A 90 ºC:        0,180
+                                                      ,
+                     Nota:
+
+
+
+
+                                                                             QUÍMICOS
+
+                 ESTABILIDAD        HORAS          72 Hrs        168Hrs        TEMPERATURA DE LA                          5M2F              N/D
+                                                                                                         FUR TOTAL
+                  OXIDACION         LODOS           N/D            N/D           MUESTRA EN ºC                            5H2F              N/D
+                                    TG 90ºC         N/D            N/D                                                    2FOL              N/D
+                                                                                         60                N/D
+                                    ACIDEZ          N/D            N/D                                                    2FAL              N/D
+                                                                                                                          2ACF              N/D
+                    ACIDEZ                HUMEDAD               INHIBIDOR      HUMEDAD DEL PAPEL         CONT. PCB      AZUFRE C.
+
+                                    <69 KV           0,0
+                      0,01                                         0,3                   0,30              N/D             N/D
+                                   69-345 KV         9,5
+                                    >345 KV          0,0
+
+
+                     Nota:
+
+
+                                                                     CROMATOGRÁFICOS
+
+     GASES:      HIDRÓGENO        ACETILENO       METANO         ETANO        ETILENO         MONÓXIDO                 GASES COMB.TOTALES
+     (p.p.m.)       0,0001          0,0001           0,8          0,0001       0,0001            7,7
+                                                                                                                                     8,5
+       (%)           0,00            0,00           9,41           0,00         0,00            90,58
+
+
+     GASES:       PROPILENO       PROPANO                       DIOXIDO       OXÍGENO      NITRÓGENO                       GASES TOTALES
+     (p.p.m.)        N/D            N/D
+                                                                    94          978,9           3238,5                            4319,9
+       (%)           N/D            N/D
+
+
+                     Nota:                                         EL PORCENTAJE DE GASES TOTALES ES 0,4%.
+
+
+
+
+RG-LBS-IAF Versión 1 25/05/2012
+
+
+    Lubrisider Chile S.A.                                                                    FECHA DE MUESTRA:                    CODIGO INTERNO
+                                                                                             9 de septiembre de 2015                  01110915
+                                                    TRANSFORMADOR DE POTENCIA
+                                                                MANTENIMIENTO PREDICTIVO
+    Cliente:          TRANSELEC                                                                  Potencia:            10.000 KVA
+    Ciudad:           S/E VALLENAR, III REGIÓN (S/E VALLENAR)                                    Marca:        SINDELEN
+    Unidad:           TR1                                                                        Número de Serie:            7408001
+    Tension Primaria(Volts):            110.000 Tension Secundaria(Volts):                13.200 Volúmen de Aceite:                 9.402
+    Año de Fabricación:                    1974                                                  Respiración:  SIN ASIGNAR
+    Clase de Transformador:       POTENCIA
+    Tipo de Liquido Refrigerante: ACEITE DIELÉCTRICO
+                                        RESULTADOS DE ANÁLISIS FISICOQUÍMICOS Y CROMATOGRÁFICOS
+
+                                                                    VALOR DEL          VALORES LÍMITES
+                                    TIPO DE ENSAYO
+                                                                      ENSAYO       S/ASTM (1)        Unidades           IEC
+                           ACIDEZ (ÍNDICE DE NEUTR)                    0,01           <=0.05      (mgr.KOH/gr.)
+                           TENSIÓN INTERFACIAL (IFT)                   45,1            >=32         (Dinas/Cm)
+                                                                        0,0       <=30 (<69 Kv)
+                           HUMEDAD (K FISCHER)                          9,5      <=20 (69-345 Kv)      (Ppm)
+                                                                        0,0       <=15 (>345 Kv)
+                           DIELÉCTRICO (3)                             68,6            >=30             (Kv)
+                                                                       0,011       <0.10 (25 ºC)
+                           FACTOR DE POTENCIA                                                           (%)
+                                                                       0,180       <2.99 (90ºC)
+                           COLOR                                        2,0            <=3.5        (Adimens.)
+                           PESO ESPECÍFICO (SP GRAV)                   0,887      >=0.84; <=0.91     (Kg/dm3)
+                           INHIB DE LA OXID (DBPC)                      0,3                        (% por peso)        >=0.20
+                           VISUAL                                     CLARO            Claro        (Adimens.)
+                           PCBs                                         N/D            <=50            (Ppm)
+                           AZUFRE CORROSIVO                             N/D            azul         (Adimens.)
+                           FURANOS TOTALES                              N/D           <=250            (Ppb)
+                           FURANOS 5M2F                                 N/D           <=100            (Ppb)
+                           FURANOS 5H2F                                 N/D           <=100            (Ppb)
+                           FURANOS 2FOL                                 N/D           <=100            (Ppb)
+                           FURANOS 2FAL                                 N/D           <=100            (Ppb)
+                           FURANOS 2ACF                                 N/D           <=100            (Ppb)
+                           OXID. ACEL. A 72 H TG 90ºC                   N/D                              %
+                           OXID. ACEL. A 72 H ACIDEZ                    N/D            <=0,4      (mgr.KOH/gr.)
+                           OXID. ACEL. A 72 H LODOS                     N/D           <=0,15             %
+                           OXID. ACEL. A 168 H TG 90ºC                  N/D                              %
+                           OXID. ACEL. A 168 H ACIDEZ                   N/D            <=0,6      (mgr.KOH/gr.)
+                           OXID. ACEL. A 168 H LODOS                    N/D           <=0,25             %
+
+       Hidrógeno             Metano       Etano          Etileno     Propileno      Propano         Acetileno     M.de Carb.    Anh.Carb.   Oxígeno    Nitrógeno   T.G.C
+           H2                  CH4        C2H6            C2H4         C3H6          C3H8             C2H2            CO           CO2         O2          N2
+        (p.p.m.)             (p.p.m.)    (p.p.m.)        (p.p.m.)     (p.p.m.)      (p.p.m.)         (p.p.m.)      (p.p.m.)      (p.p.m.)   (p.p.m.)    (p.p.m.)   (p.p.m.)
+         200 (4)              50 (4)      15 (4)          60 (4)         40          30 (4)           15 (4)        400 (4)       10000      25000       75000      500 (5)
+           0,0                  0,8         0,0             0,0         N/D           N/D               0,0           7,7          94,0      978,9       3238,5        9
+
+          TEMPERATURA                                   HUMEDAD                   HUMEDAD                          CÓDIGO DE COLORES:
+     DEL ACEITE EN CUBA (KF)                           DEL ACEITE                DEL PAPEL (7)                         ACEPTABLE
+              (ºC )                                      (p.p.m.)                     (%)                            CUESTIONABLE
+     Valor Aconsejado(6)                                    0,0                                                       INACEPTABLE
+                               65                                                     0,30
+     de Funcionamiento:                                     9,5                                                         SIN DATOS
+                                                            0,0                       #N/A
+
+    Nota:
+    (1) Valores Límites dados para comparar con los de los aceites usados.
+    (2) Valores Límites dados para aceites nuevos.
+    (3) El valor del ensayo se deberá comparar con el Valor Límite dado por ASTM.
+    (4) Valores límites (S.D.MYERS)
+    (5) Valor límite aconsejado por D.R.Pugh de la Doble Engineering Co.(1973)
+         (No se debe considerar como suma de los Valores Límites dados por S.D.Myers)
+    (6) Valor Aconsejado de Funcionamiento: Lo indica el fabricante del transformador.
+    (7) Valor extraído de la curva del multiplicador de SD Myers de Junio de 1985
+
+
+
+
+RG-LBS-IAF Versión 1 25/05/2012
+
+
+  Lubrisider Chile S.A.                                                          FECHA DE MUESTRA                   CODIGO INTERNO
+
+                                                                                  9 de septiembre de 2015         01110915
+  Cliente:    TRANSELEC                                                                       Potencia:        10.000 KVA
+  Ciudad:     S/E VALLENAR, III REGIÓN (S/E VALLENAR)                                         Marca:      SINDELEN
+  Unidad:     TR1                                                                             Número de Serie:        7408001
+  Volumen de Aceite (Lt.):       9.402 Cl.de transf.: POTENCIA
+                                                      ENSAYOS FISICOQUÍMICOS DEL ACEITE
+
+
+                                                                         GUÍA PRÁCTICA
+                                                                         PARA EVALUAR
+                                                                          ACEITES DE
+                                                                        TRANSFORMADOR
+
+
+                                            50
+                                                         ACIDEZ       IFT 1        IFT 2
+                                                       (mgrKOH/gr) (Dinas/cm)   (dinas/cm)
+                                            45               0          45           31
+                                                            0,1         34          26,5                MUY BUENO
+                                                            0,2        27,5         23,3
+                                            40       ¡SU ACEITE!
+                                                            0,3         24          20,5
+                                                            0,4         22          18,6
+                                                            0,5         20          17,1
+           Tensión Interfasial (dinas/cm)
+
+
+
+
+                                            35              0,6        18,5         16,1
+                                                                                                            BUENO
+                                                            0,7        17,7         15,5
+                                                            0,8         17          14,9
+                                            30              0,9        16,5         14,7                 REGULAR
+                                                             1         16,1         14,4
+                                                           0,01        45,1
+                                            25              0,3         44
+                                                                                                            MALO
+                                            20
+
+                                                                                                         MUY MALO
+                                            15
+
+                                                                                                         EXTR.MALO
+                                            10
+
+                                                                                                            MARGINAL
+                                            5
+
+
+                                            0
+                                                 0   0,1   0,2    0,3     0,4   0,5     0,6       0,7       0,8     0,9   1
+
+                                                                 Acidez (mgrKOH/gr de aceite)
+
+
+
+
+RG-LBS-IAF Versión 1 25/05/2012
+
+
+Lubrisider Chile S.A.                        FECHA DE LA MUESTRA              CODIGO INTERNO
+                                               9 de septiembre de 2015            01110915
+Cliente:     TRANSELEC                       Potencia:         10.000 KVA
+Ciudad:      S/E VALLENAR, III REGIÓN (S/E VALLENAR)
+                                             Marca:       SINDELEN
+Unidad:      TR1                             Número Fca.:                   7408001
+                       DIAGNÓSTICO FINAL FISICOQUÍMICO Y CROMATOGRÁFICO
+
+Observaciones
+                          MUESTRA FINAL
+
+
+
+
+Diagnóstico actual
+                          ACEITE EN BUEN ESTADO
+
+
+
+
+Medidas a tomar
+
+
+
+
+                                                                                      Melissa Rojas
+Marcelo Pérez                               Verónica Martínez                         Verónica Martínez
+Aprobó                                      Revisó                                    Efectúo
+
+
+
+
+RG-LBS-IAF Versión 1 25/05/2012
+

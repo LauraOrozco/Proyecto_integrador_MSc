@@ -1,0 +1,103 @@
+       JORPA INGENIERÍA S.A.                                        RL-17 V2019 R1
+             Servicios de Ingeniería
+        Fonos: (2) 29598900 -29598913             CARACTERÍSTICAS FÍSICO QUÍMICAS
+Dresden N° 4688 - 4672 – San Miguel – Santiago    ACEITE MINERAL DE CAMBIADOR DE
+                      CHILE
+                       1/1                           DERIVACIONES BAJO CARGA
+
+  EMPRESA:          TRANSELEC S.A.                                         FECHA:           09/12/2019
+                                                                           EQUIPO / DIAGNÓSTICO
+  ID. EQUIPO: CDBC MR N°1839301 (Autotransformador SIEMENS N°892019)
+                                                                             13359      47655
+  POT. MÁXIMA:               250                        MVA FECHA MUESTREO:                 22/11/2019
+  VOLTAJE:                   525√3                      kV    FECHA RECEPCIÓN:              27/11/2019
+  LUGAR:                     S/E Los Changos                  FECHA ANÁLISIS:               06/12/2019
+  DIAGNÓSTICO ANTERIOR: 47517                                 AÑO FABRICACIÓN:              2017
+  FECHA:                     04/12/2019                       ULTIMO DESGASIFICADO:         No informado
+  Nº ORDEN DE TRABAJO:       6160                             REGIMEN DE CARGA:             0                                                          %
+  MODELO :                   RI3003-300/D-10193W              TEMPERATURA ACEITE:           36                                                         ºC
+  LUGAR DE MUESTREO:         Nivel inferior CDBC              HUMEDAD RELATIVA              43                                                         %
+  VOL. MUESTRA:              1000                       mL    VOL. ACEITE CDBC:             No informado                                                L
+
+
+                                                                                             Límites                        Conexión al       Conexión al
+                                                                         Resultado                          Conexión al
+               Prueba                  UNIDAD     Método ASTM                              nuevo antes                      terminal <        terminal >
+                                                                           25 °C                              neutro
+                                                                                           de energizar                        69 kV             69 kV
+
+
+  Humedad                               mg/kg       D 1533-12                  8                ≤10             ≤30*            ≤30*             ≤30*
+
+  Rigidez dieléctrica 2.0 mm.             kV        D 1816-12                 62                ≥55              ≥27            ≥35              ≥45
+
+  Rigidez dieléctrica 2.5 mm.             kV         VDE 0370                  -               ≥70*              ≥40            ≥40              ≥40
+
+  Densidad                               g/mL       D 1298-12               0,871                 -                -              -                -
+
+  Aspecto visual                                    D 1524-10          claro y brillante          -                -              -                -
+                                                                        amarillo claro
+  OBSERVACIONES:
+  - Muestra tomada por Transelec S.A.
+  - Restos de muestra con descarte inmediato.
+
+
+
+  Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+  SITUACIÓN ACTUAL:                                                           ACCIÓN A SEGUIR:
+  - Aceite en buenas condiciones para servicio.                               - Analizar al cabo de un año.
+
+
+
+
+  Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+         Carola Núñez D.                                                                                               Cristian Aramburu R.
+               Aprobó                                                                                                          Revisó
+
+
+                                       ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                         13359
+Descripción Equipo:               CDBC MR N°1839301 (Autotransformador SIEMENS N°892019)
+Potencia (MVA):                   250
+Voltaje (kV):                     525√3
+
+                                  Datos análisis anteriores:
+                 Análisis >             47655           47517
+                 Fecha >            22-11-2019        08-11-2019
+Humedad                                     8                5
+RD                                         62            68
+Densidad                                0,871           0,873
+Tº del aceite                              36            20
+
+
+
+
+                                                                                    Rigidez Dieléctrica RD
+                                   Humedad
+        40                                                                   80
+
+        30                                                                   60
+
+        20                                                                   40
+
+                                                                             20
+        10
+                                                                             0
+          0                                                                         1                        2
+                              1                          2
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+
+JORPA INGENIERÍA S.A.
+

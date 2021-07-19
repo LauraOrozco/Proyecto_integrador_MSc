@@ -1,0 +1,137 @@
+      JORPA INGENIERÍA S.A.                                           RL-39 V2019 R1
+            Servicios de Ingeniería
+        Fonos: (2)29598900 – 29598913
+Dresden N° 4688- 4672 – San Miguel – Santiago
+                                                     ANÁLISIS DE CONCENTRACIÓN DE
+                     CHILE                                     ADITIVOS
+                      1/1
+
+
+
+EMPRESA:     TRANSELEC S.A.                                                                            FECHA:             16/08/2019
+OT:          5730                                                                                      EQUIPO / DIAGNÓSTICO
+ID. EQUIPO:  Autotransformador TAG ATR-1 ALSTHOM N° 217443-01                                             44        1923
+POT. MÁXIMA: 75                        MVA                                                             FECHA MUESTREO:       14/07/2019
+VOLTAJE:     220/115/13,8              kV                                                              FECHA RECEPCIÓN:      22/07/2019
+LUGAR:       S/E Cardones                                                                              FECHA ANÁLISIS:       08/08/2019
+DIAGNÓSTICO ANTERIOR: 1178                                                                             AÑO FABRICACIÓN:          1979
+FECHA:                    21/11/2014                                                                   PUNTO MUESTREO: Nivel inferior estanque
+
+
+                                                                                                         LIMITE ACEITE         LIMITE ACEITE EN
+           PRUEBA                     UNIDAD               MÉTODO                  RESULTADO
+                                                                                                            NUEVO                 SERVICIO
+
+  Análisis de contenido de
+                                          %              ASTM D 2668                     NR                 0,08 a 0,40               >0,18
+   inhibidor BHT - DBPC
+
+
+Análisis de contenido de BTA             ppm        Cigré WG A2.32 TF 02                 <1                    20 a 45                 >10
+
+
+  Análisis de contenido de
+                                         ppm        Cigré WG A2.32 TF 02                 14                       *                     *
+         Irgamet 39
+
+
+*La concentración de Irgamet 39 recomendada para transformadores con presencia de dibencil disulfuro es 100 ppm.
+*El nombre comercial del pasivador metálico puede ser Irgamet 39, o Nypass o BTA.
+
+
+                                                                                                         LIMITE ACEITE         LIMITE ACEITE EN
+           PRUEBA                     UNIDAD               MÉTODO                  RESULTADO
+                                                                                                            NUEVO                 SERVICIO
+
+  Análisis de contenido de                                                                                 no detectable
+                                         ppm                 DOBLE                        6                                         <25 ppm
+            DBDS                                                                                            (<5 ppm)
+
+Notas:
+ND: no detectado
+NR : no realizado
+* Limites para aceite nuevo de acuerdo a IEC 60296-2012 "Fluids for electrotechnical applications - Unused mineral insulating oils
+ for transformers and switchgear".
+* Limites para aceite en servicio de acuerdo a IEC 60422-2013 "Mineral Insulating Oils in Electrical Equipment".
+* Dos aceites con la misma concentración de DBDS pueden tener comportamientos distintos, ya que la generación de
+sulfuro de cobre depende de varios factores: temperatura de operación, cantidad de oxigeno presente y presencia de
+pasivadores.
+* De acuerdo a estudios realizados por IEEE TC, la contaminación con sulfuro de cobre aumenta con el tiempo.
+* El límite de concentración de DBDS en aceite en servicio solo aplica para aceite contaminado por manipulación o equipos a los cuales
+se les ha cambiado el aceite.
+OBSERVACIONES:
+- Existen diferentes posibilidades: el DBDS reacciono y formó sulfuro de cobre, el aceite se contaminó con DBDS por relleno o
+    manipulación, o se eliminó el aceite original contaminado con DBDS del equipo.
+- Muestra tomada por Transelec S.A., y analizada en Laboratorio Doble Engineering Company.
+- Restos de muestra con descarte inmediato.
+SITUACIÓN ACTUAL:                                                          ACCIÓN A SEGUIR:
+- Aceite en condiciones para servicio.                                     - Analizar al cabo de un año. Evitar sobre-voltajes y/o
+                                                                               aumento de carga en el equipo. Añadir pasivador para
+                                                                               restaurar concentración recomendada de 100 ppm.
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                Cristian Aramburu R.
+             Aprobó                                                                                                           Revisó
+
+
+ESTADISTICAS DE ANÁLISIS ANTERIORES
+
+Equipo Nº                                                 44
+Descripción Equipo:                                       Autotransformador TAG ATR-1 ALSTHOM N° 217443-01
+Potencia (MVA):                                           75
+Voltaje (kV):                                             220/115/13,8
+
+                                                          Datos análisis anteriores:
+                                             Análisis >        1923         1178                974                  792              765             580
+                                             Fecha >       14-07-2019    21-11-2014    11-11-2013                02-01-2013       01-10-2012       03-01-2012
+Contenido de inhibidor (%)                                     NR            NR                 NR                   NR               NR              NR
+Contenido de BTA (ppm)                                         <1            <1                 <2                   <3               <4              <5
+Contenido de Irgamet 39 (ppm)                                   14           41                 103                  147               3              NR
+Contenido de DBDS (ppm)                                         6             5                  5                    5                5               4
+
+
+
+
+                          Contenido de inhibidor (%)                                                          Contenido de DBDS (ppm)
+      1,0
+      0,9                                                                              30
+      0,8                                                                              25
+      0,7
+      0,6                                                                              20
+      0,5                                                                              15
+      0,4
+      0,3                                                                              10
+      0,2
+                                                                                       5
+      0,1
+      0,0                                                                              0
+                 1           2          3             4    5         6                           1           2        3       4           5    6
+
+
+
+
+                           Contenido de BTA (ppm)                                                         Contenido de Irgamet 39 (ppm)
+
+      12                                                                               200
+      10
+                                                                                       150
+        8
+        6                                                                              100
+        4
+                                                                                        50
+        2
+        0                                                                                   0
+                 1           2           3            4    5         6                                1          2        3       4        5   6
+
+
+
+
+(*) El eje inferior indica el análisis correlativo.
+
+
+
+JORPA INGENIERÍA S.A.
+

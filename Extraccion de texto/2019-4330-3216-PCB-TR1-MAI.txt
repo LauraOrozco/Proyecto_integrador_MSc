@@ -1,0 +1,59 @@
+       JORPA INGENIERÍA S.A.                                     RL-018 Versión 2019 Rev-01
+            Servicios de Ingeniería
+        Fonos: (2)29598900 – 29598913
+Dresden N° 4688- 4672 – San Miguel – Santiago          ANÁLISIS DE CONTENIDO DE PCB
+                     CHILE
+                      1/1
+
+
+
+EMPRESA: TRANSELEC S.A.                                                                                 FECHA:            06/05/2019
+OT:         5431                                                                                        EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: Autotransformador TAG ATR-1 ABB Nº 89391                                                      4330       3216
+POT. MÁXIMA: 90                           MVA                                                           FECHA MUESTREO:       08/04/2019
+VOLTAJE:       220/115/13,2               kV                                                            FECHA RECEPCIÓN:      10/04/2019
+LUGAR:         S/E Maitencillo                                                                          FECHA ANÁLISIS:       25/04/2019
+DIAGNÓSTICO ANTERIOR:          No tiene                                                                 AÑO FABRICACIÓN:         2005
+FECHA:                         No tiene                                                                 PUNTO MUESTREO:      Nivel inferior
+
+
+
+           PRUEBA                     UNIDAD                MÉTODO                               RESULTADO                               LÍMITE
+
+
+
+Análisis de contenido de PCB             ppm              ASTM D 4059                                  <1                                  <50
+
+
+
+Notas:
+Concentraciones
+<1 ppm: Libre de PCB.
+<50 ppm, aceite con PCB aceptable.
+>50 - <500 ppm, aceite contaminado con PCB.
+>500 ppm, aceite que es considerado como PCB.
+
+Equipamiento utilizado: Cromatógrafo Perkin Elmer Autosystem XL.
+Patrones: Aroclor 1242, 1254 y 1260.
+Límite de detección: 1 ppm
+
+
+
+
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+CONCLUSIÓN:
+- Aceite libre de PCB.
+
+
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+
+
+
+       Carola Núñez D.                                                                                                    Cristian Aramburu R.
+             Aprobó                                                                                                               Revisó
+

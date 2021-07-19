@@ -1,0 +1,89 @@
+                                                                                   REGISTRO DE EJECUCION DE MANTENIMIENTO
+
+
+
+                           TRANSFORMADOR DE PODER HASTA 10 MVA TRIFÁSICO, REFRIGERACION ONAN - REDUCIDO                                                         Unidad de Obra
+
+                                                 FECHA EJECUCION              14-04-2015                                   INFORME N°                            PEDIDO SAP N°
+ANTECEDENTES
+
+
+
+
+                                                  GERENCIA ZONAL              Norte Chico                                 SUBESTACION                                VALLENAR
+                                        DESIGNACION UNILINEAL                     T1                                    REALIZADO POR                            ERASMO ARAYA
+                                                                                                         INSPECTOR DE TRANSELEC
+                                                                                                     CARACTERISTICAS DEL EQUIPO
+                                                      MARCA                            SINDELEN                                    POTENCIA EN [MVA]                               10
+                                  TENSIONES NOMINALES EN [KV]                           110-13.8                                        Nº DE SERIE                             7408001
+
+                            ÍTEM                                                                                DESCRIPCIÓN
+
+                                    INSPECCIÓN COLOR DEL ACEITE
+                                        Observaciones                                                                     AMARILLO OSCURO
+                             10
+
+
+
+                                    MEDIDA RIGIDEZ DIELÉCTRICA DEL ACEITE
+                                        Medida en [KV]                   42                   Observaciones                                          NORMA ASTM 1816
+                             20
+
+
+
+                                    MEDIDA FACTOR DE POTENCIA DEL ACEITE
+                                                                       Miliamperes                                            Watts                                                Factor de Potencia
+                                         [KV]
+ÍTEMES DEL MANTENIMIENTO
+
+
+
+
+                                                         Lectura       Multiplicador          [mA]            Lectura      Multiplicador         [Watt]      sin corregir     F. corrección     a 20ºC
+                                           5                                                  0,44                                           0,0042             0,09             0,09            1,00
+                             30
+                                     Temperatura ambiente en [ºC]                            Humedad Relativa en [%]                                Observaciones
+
+
+
+
+                                    VERIFICACIÓN ESTADO INSTRUMENTOS E INDICADORES DE NIVEL
+                                               Observaciones                                                            INDICADORES EN BUEN ESTADO
+                             40
+
+
+
+                                                                                            EQUIPOS DE PRUEBAS Y MEDIDAS EMPLEADOS
+                                                           Descripcion                                            Marca                    Modelo               N° de Serie           Certificado Vigente
+
+
+
+
+                                    OBSERVACIONES GENERALES
+                           FILTRACIÓN DE ACEITE POR RADIADOR FLANGE SUPERIOR
+                           INDICADORES DE NIVEL EN FUNCIONAMIENTO NORMAL
+                           EQUIPO SIN FALLA APARENTE.
+
+
+
+
+                                                                                                                                 Jefe Técnico Contratista                   Inspector de TRANSELEC
+ CONCLUSIONES
+
+
+
+
+                            Equipo normal y sin restricciones                                                                                X                                          X
+
+                            Equipo con restricciones u observaciones ( ver observaciones )
+
+                            Equipo no puede entrar al servicio
+
+                            Equipo en observacion durante                                                     horas
+
+                                                        REALIZADO POR                                           APROBADO POR                                  RECIBIDO POR (TRANSELEC)
+                           FIRMA
+               NOMBRE                                    ERASMO ARYA                                              JAIME LATIN                                           ARIEL LOPEZ
+                           CARGO                      MANDO DE BRIGADA                                            JEFE Técnico                                      SUPERVISOR EQUIPOS
+                           FECHA                    martes, 14 de abril de 2015                                    14-04-2015
+
