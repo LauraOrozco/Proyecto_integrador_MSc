@@ -1,0 +1,6 @@
+numpy
+re
+nltk
+sklearn
+pickle
+pandas
