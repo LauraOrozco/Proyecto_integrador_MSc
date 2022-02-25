@@ -1,0 +1,157 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+
+ID. EQUIPO: Autotransformador TAG BCO-ATR2-FASE2 SIEMENS NO 812024
+
+FECHA: 12/02/2020
+EQUIPO / DIAGNOSTICO
+13246 062196
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 250 MVA FECHA MUESTREO: 20/12/2019
+VOLTAJE: 525230/66 kv FECHA RECEPCION: 30/12/2019
+LUGAR: S/E Kimal FECHA ANALISIS: 14/01/2020
+DIAGNOSTICO ANTERIOR: — 061036 AÑO DE FABRICACION: 2017
+FECHA: 30/10/2019 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: 6266 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 46 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 63800 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 7691 Lím< 50000 | Etano: C2H6= 18 Lím< 50
+Oxígeno: 02= 2485 Lím< 2500 | | Etileno: C2H4= 2 Lím< 50
+Dioxido de Carbono: CO2= 148 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 18 Lím< 400 | Propano: C3H8= D Lím< 25
+Hidrógeno: H2= 3 Lím< 50 | | Propileno: C3H6= D Lím< 25
+Metano: CH4= 1 Lím< 50
+TGC= 42 Lím< 601 | | TG (%): 1,04 CO (L): 1,15
+TGC-CO= 24 Lím< 201 | | TGC(%): 0,00 nTG (mL): 0,16
+S(C1-C2)= 21 Lím< 151 PTG (atm): 0,08
+RELACIONES:
+CH4/H2: 0,33 C2H4/C2H6: 0,11 %H2: 12,50
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 4,17
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 75,00
+C2H2/C2H6: 0,00 %C2H4: 8,33
+C2H4/CH4: 2,00 CO2/CO: 8,22 %C2H2: 0,00
+C2H6/CH4: 18,00 N2/02: 3,09
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente.
+OBSERVACIONES:
+Muestra tomada por Transelec S.A.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El autotransformador puede continuar en servicio. -Analizar al cabo de un año.
+-Indicar régimen de carga.
+Sergio Palacios V. Jalvet Mendez.
+Aprobó Ejecutó
+

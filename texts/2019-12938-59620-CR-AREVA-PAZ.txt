@@ -1,0 +1,157 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598901
+
+Dresden 46884672 San igual ANALISIS POR GASES DISUELTOS
+
+Santiago - CHILE
+Hoja 1 de 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A. FECHA: 05/07/2019
+
+» o E EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Transformador AREVA N? 08.5065-01 12038 050620
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: — MVA FECHA MUESTREO: 26/06/2019
+VOLTAJE: 0.245 kv FECHA RECEPCION: 27/06/2019
+LUGAR: S/E Pan de azúcar FECHA ANALISIS: 01/07/2019
+DIAGNOSTICO ANTERIOR: —-—- AÑO DE FABRICACION: 2008
+FECHA: - ULTIMO DESGASIFICADO: — -—-
+N* ORDEN TRABAJO: 5647 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/colchon de aire. TEMPERATURA ACEITE: - “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 112 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.860 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 62445  Lím< 75000 | | Etano: C2H6= O Lím< 50
+Oxígeno: 02= 20987 Lím< 25000 | | Etileno: C2H4= O Lím< 50
+Dioxido de Carbono: CO2= 81 Lím< 10000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 31 Lím< 1000 | | Propano: C3H8= O Lím< 50
+Hidrógeno: H2= 6 Lím< 50 | | Propileno: C3H6= 0 Lím< 50
+Metano: CH4= 1 Lím< 50
+TGC= 38 Lím< 1201 | | TG (%): 8.36 CO (L): 0.00
+TGC-CO= 7 Lím< 201 | | TEC (%): 0.00 nTG (mL): 1.25
+S(C1-C2)= 1 Lím< 151 PTG (atm): 0.71
+RELACIONES:
+CH4/H2: 0.17 C2H4/C2H6: 0.00 %H2: 85.71
+C2H2/CH4: 0.00 C2H4/C3H6: 0.00 %CH4: 14.29
+C2H2/C2H4: 0.00 C3H6/C3H8: 0.00 %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 0.00
+C2H4/CH4: 0.00 CO2/CO: 2.61 %C2H2: 0.00
+C2H6/CH4: 0.00 N2/02: 2.98
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 YGAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) — = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El transformador puede continuar en servicio. -Analizar al cabo de un año.
+“Indicar régimen de carga.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+    
+
+ergio Palacios V. Janet Mendez.
+Aprobó Ejecutó
+

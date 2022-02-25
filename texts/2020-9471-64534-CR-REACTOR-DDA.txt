@@ -1,0 +1,174 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 22/06/2020
+. . EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Reactancia GENERAL ELECTRIC N% 84382 09471 064534
+POT. MAXIMA: 30 MVA FECHA MUESTREO: 12/06/2020
+VOLTAJE: 242 kv FECHA RECEPCION: 17/06/2020
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 19/06/2020
+DIAGNOSTICO ANTERIOR: — (058731 AÑO DE FABRICACION: 1980
+FECHA: 14/05/2019 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: 6805 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Con respiradero libre. TEMPERATURA ACEITE: - “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 95498 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 64152 Lím< 75000 | | Etano: C2H6= D  Lím< 30
+Oxígeno: 02= 21381 Lím< 25000 | | Etileno: C2H4= D  Lím< 35
+Dioxido de Carbono: CO2= 683 Lím< 10000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 68 Lím< 1000 | | Propano: C3H8= D  Lím< 25
+Hidrógeno: H2= 4 Lím< 35 | | Propileno: C3H6= D Lím< 25
+Metano: CH4= 1 Lím< 35
+TGC= 73 Lím< 1136 | | TG (%): 8,63 CO (L): 6,50
+TGC-CO= 5 Lím< 136 | | TGC (%): 0,01 nTG (mL): 1,29
+S(C1-C2)= 1 Lím< 101 PTG (atm): 0,72
+RELACIONES:
+CH4/H2: 0,25 C2H4/C2H6: 0,00 %H2: 80,00
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 20,00
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 0,00
+C2H4/CH4: 0,00 CO2/CO: 10,04 %C2H2: 0,00
+C2H6/CH4: 0,00 N2/02: 3,00
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GASA(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C02H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+Muestra tomada por Transelec S.A.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-La reactancia no puede continuar en servicio, ya que
+
+-Reactancia con elevado riesgo operacional.
+
+ 
+
+presenta aceite en mínimas condiciones fisicoquímicas.
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+
+-Según análisis cromatográfico se recomienda analizar al cabo
+de seis meses, pero el estado del aceite según el análisis
+fisicoquímico recomienda realizar tratamiento de secado,
+filtrado y desgasificado.
+
+“Indicar régimen de carga.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+    
+
+Sergio Palacios V.
+Aprobó
+
+dez.
+Ejecutó
+
+Ja
+

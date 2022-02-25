@@ -1,0 +1,166 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+RL-006 Versión: 9
+
+ 
+
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: —TRANSELEC S.A FECHA: 21/03/2019
+. EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador ATR4 HYOSUNG NO TB80184807 06430 58224
+POT. MAXIMA: 120 MVA FECHA MUESTREO: 08/03/2019
+VOLTAJE: 220/115/25 kv FECHA RECEPCION: 13/03/2019
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 18/03/2019
+DIAGNOSTICO ANTERIOR: — 045209 AÑO DE FABRICACION: 2009
+FECHA: 28/04/2016 ULTIMO DESGASIFICADO: 08/2010
+N* ORDEN TRABAJO: 5108 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: 35 “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 57143 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 32102 Lím< 50000 | Etano: C2H6= D  Lím< 50
+Oxígeno: 02= 4870 Lím< 2500 | | Etileno: C2H4= 4  Lím< 50
+Dioxido de Carbono: CO2= 1794 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 616 Lím< 400 | Propano: C3H8= 1 Lím< 25
+Hidrógeno: H2= 6 Lím< 50 | | Propileno: C3H6= 1 Lím< 25
+Metano: CH4= 8 Lím< 50
+TGC= 634 Lím< 601 | | TG (%): 3.94 CO (L): 35.76
+TGC-CO= 18 Lím< 201 | | TGC(%): 0.06 nTG (mL): 0,59
+S(C1-C2)= 12 Lím< 151 PTG (atm): 0.35
+RELACIONES:
+CH4/H2: 1.33 C2H4/C2H6: 0.00 %H2: 33.33
+C2H2/CH4: 0.00 C2H4/C3H6: 4.00 %CH4: 44,44
+C2H2/C2H4: 0.00 C3H6/C3H8: 1.00 %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 22.22
+C2H4/CH4: 0.50 CO2/CO: 2.91 %C2H2: 0.00
+C2H6/CH4: 0.00 N2/02: 6.59
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+
+ 
+
+-El autotransformador puede continuar en servicio.
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+-Analizar al cabo de un año.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+ 
+
+Sergio Palacios V.
+Aprobó
+
+Janet Mendez.
+Ejecutó
+

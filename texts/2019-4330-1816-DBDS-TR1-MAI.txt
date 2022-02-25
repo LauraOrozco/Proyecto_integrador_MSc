@@ -1,0 +1,133 @@
+ 
+
+JORPA INGENIERÍA S.A. RL-039 Versión 2019 Rev-1
+
+Servicios de Ingeniería 4
+Fonos; (2)29598900 — 29598913 Á - ) (69) R Pp
+Dresden N 4688- 4672 - San Miguel - Santiago ANALISIS DE CONCENTRACIÓN DE / Í
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHILE ADITIVOS
+1/1
+EMPRESA: TRANSELEC S.A. FECHA: 00/01/1900
+Or: 5431 EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: Autotransformador TAG ATR-1 ABB NO 89351 4330 1816
+POT. MÁXIMA: 90 MVA FECHA MUESTREO: 08/04/2019
+VOLTAJE: 220/115/13,2 kv FECHA RECEPCIÓN: 10/04/2019
+LUGAR: S/E Maitencillo FECHA ANÁLISIS: 22/04/2019
+DIAGNOSTICO ANTERIOR: — 1134 ANO FABRICACION: 2005
+FECHA: 27/08/2014 PUNTO MUESTREO: Nivel inferior
+E LIMITE ACEITE | LIMITE ACEITE EN
+PRUEBA UNIDAD METODO RESULTADO NUEVO SERVICIO
+Análisis de contenido de
+inhibidor BHT - DBPC % ASTM D 2668 NR 0,08 a 0,40 >0,18
+Análisis de contenido de BTA ppm Cigré WG A2.32 TF 02 NR 20a45 >10
+Análisis de contenido de z
+ii * *
+Irgamet 39 ppm Cigré WG A2.32 TF 02 NR
+*La concentración de Irgamet 39 recomendada para transformadores con presencia de dibencil disulfuro es 100 ppm.
+*El nombre comercial del pasivador metálico puede ser Irgamet 39, o Nypass o BTA.
+E LIMITE ACEITE | LIMITE ACEITE EN
+PRUEBA UNIDAD METODO RESULTADO NUEVO SERVICIO
+Análisis de contenido de no detectable
+DBDS ppm DOBLE 109 (<5 ppm) <25 ppm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notas:
+
+ND: no detectado
+
+NR : no realizado
+
+* Limites para aceite nuevo de acuerdo a IEC 60296-2012 "Fluids for electrotechnical applications - Unused mineral insulating oils
+for transformers and switchgear".
+
+* Limites para aceite en servicio de acuerdo a IEC 60422-2013 "Mineral Insulating Oils in Electrical Equipment".
+
+* Dos aceites con la misma concentración de DBDS pueden tener comportamientos distintos, ya que la generación de
+
+sulfuro de cobre depende de varios factores: temperatura de operación, cantidad de oxigeno presente y presencia de
+pasivadores.
+
+* De acuerdo a estudios realizados por IEEE TC, la contaminación con sulfuro de cobre aumenta con el tiempo.
+
+* El límite de concentración de DBDS en aceite en servicio solo aplica para aceite contaminado por manipulación o equipos a los cuales
+se les ha cambiado el aceite.
+
+ 
+
+OBSERVACIONES:
+
+- Con esta concentración de DBDS es probable que el proceso de formación de sulfuro de cobre no ha ocurrido aún, siendo
+el mejor momento para cambiar el aceite o adicionar pasivador.
+
+- Muestra tomada por Transelec S.A., y analizada en Laboratorio Doble Engineering Company.
+
+- Restos de muestra con descarte inmediato.
+
+ 
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+
+- Aceite en condiciones para servicio. - Analizar al cabo de un año. Evitar sobre-voltajes y/o
+aumento de carga en el equipo. Si el aceite ha sido
+pasivado, analizar el contenido de pasivador y si el líquido
+aislante no contiene aditivos para evitar la corrosión del
+cobre, considerar la adición de pasivador o cambiar el
+aceite.
+
+ 
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Encla hacian) DA
+
+Carola Núñez D. Cristian/Aramburu R.
+Aprobó Revisó
+
+ 
+
+ 
+

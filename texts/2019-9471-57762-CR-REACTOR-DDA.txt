@@ -1,0 +1,168 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA:
+
+TRANSELEC S.A.
+ID. EQUIPO: Reactor GENERAL ELECTRIC NO 84382
+
+FECHA: 15/02/2019
+EQUIPO / DIAGNOSTICO
+09471 057762
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 30 MVA FECHA MUESTREO: 01/02/2019
+VOLTAJE: 242 kv FECHA RECEPCION: 06/02/2019
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 14/02/2019
+DIAGNOSTICO ANTERIOR: — 042088 AÑO DE FABRICACION: 1980
+FECHA: 08/07/2015 ULTIMO DESGASIFICADO: — —
+N2 ORDEN TRABAJO: —5103 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Con respiradero libre. TEMPERATURA ACEITE: 85 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 95498 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.854 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 64403  Líim< 75000 | | Etano: C2H6= 16 Lím< 30
+Oxígeno: 02= 2170 Lím< 25000 | | Etileno: C2H4= 3 Lím< 35
+Dioxido de Carbono: CO2= 4684 Lím< 10000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 582 Lím< 1000 | | Propano: C3H8= 15 Lím< 25
+Hidrógeno: H2= 4 Lím< 35 | | Propileno: C3H6= 29 Lím< 25
+Metano: CH4= 39 Lím< 35
+TGC= 644  Lím< 1136 | | TG (%): 7.19 CO (L): 56.03
+TGC-CO= 62 Lím< 136 | | TGC (%): 0.06 nTG (mL): 1.08
+S(C1-C2)= 58 Lím< 101 PTG (atm): 0.62
+RELACIONES:
+CH4/H2: 9.75 C2H4/C2H6: 0.19 0% H2: 6.45
+C2H2/CH4: 0.00 C2H4/C3H6: 0.10 %CH4: 62.90
+C2H2/C2H4: 0.00 C3H6/C3H8: 1.93 %C2H6: 25.81
+C2H2/C2H6: 0.00 %C2H4: 4.84
+C2H4/CH4: 0.08 CO2/CO: 8.05 %C2H2: 0.00
+C2H6/CH4: 0.41 N2/02: 29.68
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente. “Proceso que consume oxígeno.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-El reactor puede continuar en servicio.
+
+ACCION A SEGUIR:
+-Analizar al cabo de seis meses.
+-Indicar régimen de carga.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+Janet Mendez.
+Ejecutó
+
+ 
+

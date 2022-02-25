@@ -1,0 +1,130 @@
+ 
+
+JORPA INGENIERÍA S.A. RL-019 Versión 2019 Rev-01
+
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913 z Y R p
+Dresden N? 4672-4688 San Miguel - Santiago ANALISIS DE CONTENIDO DE FURANOS J ( ) A
+
+CHILE
+1/1
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A. FECHA: 22/04/2019
+ID. EQUIPO: Autotransformador ATR- 4 HYOSUNG N% TB80184807 EQUIPO / DIAGNÓSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6430 1779
+
+POT. MÁXIMA: 120,0 MVA  |FECHA MUESTREO: 08/03/2019
+VOLTAJE: 220/115/25 kv [FECHA RECEPCIÓN: 13/03/2019
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 26/03/2019
+DIAGNOSTICO ANTERIOR: No tiene ANO FABRICACIÓN: 2009
+FECHA: No tiene ULTIMO DESGASIFICADO: 01-08-2010
+NO ORDEN DE TRABAJO: 5108 REGIMEN DE CARGA: No informado %
+TIPO DE EQUIPO: Hermético con bolsa de goma TEMPERATURA ACEITE: 35 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 48 %
+VOL. MUESTRA: 30 mL [VOL. ACEITE ESTANQUE: 57143 L
+
+COMPUESTO MÉTODO ASTM REsuLTADOS — || LIMITE ACEITE NUEVO
+5-HIDROXIMETIL-2FURFURAL (5HMF) D 5837-12 <1 No detectable (< 50 ppb)
+2-FURFURIL ALCOHOL (2FOL) D 5837-12 <1 No detectable (< 50 ppb)
+2-FURFURAL (FURALDEHIDO) (2FAL) D 5837-12 15 No detectable (< 50 ppb)
+2-ACETILFURFURAL (2ACF) D 5837-12 <1 No detectable (< 50 ppb)
+5-METIL-2-FURFURAL (5MEF) D 5837-12 2 No detectable (< 50 ppb)
+Límite de detección: 1 ppb (microgramos/litro)
+Equipo utilizado: Sistema cromatografía líquida de alto rendimiento marca Agilent serie 1200
+Peso del papel -
+Grado de polimerización promedio: 786
+Esperanza de vida en años 30 (Fabricados antes de 1980: 40 años. Desde 1980: 30 años)
+Reducción de vida útil en años 3
+
+ 
+
+ 
+
+ 
+
+Nota 1: En transformadores nuevos la reducción de vida en años calculada desde la concentración de 2-furfural debe considerase como el cero para
+futuras estimaciones de la vida residual.
+
+Nota 2: El papel esta compuesto de cadenas de celulosa, esta en su momento inicial tiene 1000 eslabones y en su momento final tiene solo 200. Este
+valor se conoce como grado de polimerización.
+
+Nota 3: La vida futura del transformador dependerá en gran medida de la temperatura de los enrollados y de la humedad del papel que los cubre. En
+menor proporción, de la contaminación del aceite con ácidos y oxígeno presentes.
+
+Nota 4: Cuando el aceite es sometido a tratamiento de secado, desgasificado y filtrado pierde alrededor del 20 al 40% de la concentración de los
+compuestos furánicos. Si es sometido a regeneración pierde alrededor del 90 a 100% de la concentración de compuestos furánicos. Por lo tanto no
+tenemos antecedentes históricos para estimar la vida útil remanente de manera más acertada.
+
+ 
+
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+ 
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+- El transformador presenta una reducción de vida de 3 años, respecto |- Analizar al cabo de un año.
+de su vida útil considerada en 30 años.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+A
+A
+
+0 PO
+Creta huía) LA
+Carola Núñez D. Cristian/ Aramburu R.
+Aprobó evisó
+

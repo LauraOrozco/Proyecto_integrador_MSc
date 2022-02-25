@@ -1,0 +1,153 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598901
+Dresden a eel 7 ANALISIS POR GASES DISUELTOS
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 15/05/2019
+ID. EQUIPO: CDBC ALSTHOM N* 232054-03 (Tr. TAG T-3 ALSTHOM SAVOISIENNE N* 2 Eo / A OSTICO
+POT. MAXIMA: 40 MVA FECHA MUESTREO: 16/04/2019
+VOLTAJE: 220 kv FECHA RECEPCION: 18/04/2019
+LUGAR: S/E Maitencillo FECHA ANALISIS: 24/04/2019
+DIAGNOSTICO ANTERIOR: — — AÑO DE FABRICACION: 1980
+FECHA: - ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: 5454 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Cambiador de derivaciones bajo carga. TEMPERATURA ACEITE: 15.5 “Cc
+LUGAR MUESTREO: Nivel inferior CDBC VOL. ACEITE ESTANQUE: - L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.875 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 42759 Etano: C2H6= 137
+Oxígeno: 02= 2043 Etileno: C2H4= 13
+Dioxido de Carbono: CO2= 1451 Acetileno: C2H2= 1
+Monoxido de Carbono: CO= 230 Propano: C3H8= 154
+Hidrógeno: H2= 11 Propileno: C3H6= 45
+Metano: CH4= 94
+TGC= 486 TG (%): 4.69 CO (L): 0.00
+TGC-CO= 256 TEC (%): 0.05 nTG (mL): 0.70
+S(C1-C2)= 245 PTG (atm): 0.42
+RELACIONES:
+CH4/H2: 8.55 C2H4/C2H6: 0.09 0% H2: 4.30
+C2H2/CH4: 0.01 C2H4/C3H6: 0.29 %CH4: 36.72
+C2H2/C2H4: 0.08 C3H6/C3H8: 0,29 %C2H6: 53.52
+C2H2/C2H6: 0.01 %C2H4: 5.08
+C2H4/CH4: 0.14 CO2/CO: 6.31 %C2H2: 0.39
+C2H6/CH4: 1.46 N2/02: 20.93
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+s(C1-C2) = CH4+C2H6+C02H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL:
+Gases predominantes: C2H2 + C2H4 + CH4 = 108.0 [ppm(v/v)] = 100 %
+C2H2: 0.9%
+C2H4: 12.0%
+CH4 : 87.0%
+“Sin sobrecalentamiento interno. Operación normal.
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-CDBC modelo MAC 27. Número de operaciones: 6806.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El CDBC puede continuar en servicio. -Analizar al cabo de un año. Realizar mantenimiento cada
+50.000 operaciones o cada cuatro años, lo que ocurra
+primero.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+   
+
+io Palacios V. Janet Mendez.
+Aprobó Ejecutó
+

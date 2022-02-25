@@ -1,0 +1,246 @@
+y
+
+)J¡OD000:1
+
+)J00.
+
+)
+
+)
+
+)
+
+)
+
+)O
+
+)JO000
+
+)
+
+¿0000000000000
+
+O
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 3 €
+Servicios de Ingeniería TG A cum:
+Ese 2, Pe sa DIAGNOSTICO DE FALLA POR GASES 1? JORP, |
+Hoja 1 de 1 DISUELTOS Lal
+EMPRESA: —TRANSELEC S.A. FECHA: 17/04/2012
+ID. EQUIPO: Transformador T-2 Rhona NO 36516 oa / o
+
+  
+     
+  
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+
+    
+
+ 
+
+N* ORDEN TRABAJO: — 244-12
+TIPO EQUIPO:
+
+LUGAR MUESTREO:
+
+VOL. MUESTRA: 15
+
+CH4/H2:
+
+ 
+
+Hermético c/bolsa de goma.
+Nivel inferior estanque
+
+ 
+  
+
+   
+       
+  
+  
+    
+
+cc DENSIDAD:
+
+ 
+
+ 
+
+  
+    
+  
+
+ 
+
+ 
+
+ 
+
+C2H4/C2H6:
+
+  
+
+ 
+
+REGIMEN DE CARGA:
+TEMPERATURA ACEITE:
+VOL. ACEITE ESTANQUE:
+
+POT. MAXIMA: 10 MVA FECHA MUESTREO: 04/04/2012
+VOLTAJE: 110/23-13.8 KV FECHA RECEPCION: 09/04/2012
+LUGAR: S/E Vallenar FECHA ANALISIS: 12/04/2012
+DIAGNOSTICO ANTERIOR: — 29821 PUESTA EN SERVICIO: 2007
+
+FECHA: 30/08/2011 ULTIMO DESGASIFICADO: — 30/08/2010
+
+   
+
+?
+?
+
+D
+
+GAS DISUELTO [ppm(v/v)]: Concentración mínima de gas detectable equivalente 02: 0,236 % v/v.
+Nitrógeno: N2= 63050  Lím< 50000 | | Etano: C2H6= 0,DO  Lím< 50
+Oxígeno: 02= 24956  Lím< 2500 | | Etileno: C2H4= 1,62  Lím< 50
+Dioxido de Carbono: CO2= 1824  Lím< 4000 | | Acetileno: C2H2= 0,00  Lím< 1,0
+Monoxido de Carbono: CO= 193,37  Lím< 400 | | Propano: C3H8= 0,12  Lím< 29
+Hidrógeno: H2= 10,33 Lím< 50 | | Propileno: C3H6= 5,27  Lím< 25
+Metano: CH4= 3,28  Lím< 50
+TGC= 209  Lím< 601 || TG(%): 9,00 CO (Lt): 2,15
+TGC-CO= 15 Lím< 201 || TGC(%): 0,02 nTG (cc): 1,39
+S(C1-C2)= S Lím< 151 PTG (atm): 0,72
+RELACIONES:
+
+11085
+¿273
+
+   
+
+eE
+Lt
+gr/cc
+
+    
+
+ 
+
+  
+  
+     
+     
+ 
+     
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+C2H2/CH4: 0,00 C2H4/C3H6: 0,31 %CH4: 21,54
+C2H2/C2H4: 0,00 C3H6/C3H8: 43,92 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 10,64
+C2H4/CH4: 0,49 C02/CO: 9,43 %C2H2: 0,00
+.C2H6/CHA4: N2/02:
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 %GAS = GASI(S(C1-C2)+H2)x100
+S(C1-C2) — =CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente. -Pérdida de hermeticidad,
+OBSERVACIONES:
+-Muestra tomada por Transelec S.4,
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El transformador puede continuar servicio, -Analizar al cabo de un año.
+“Indicar régimen de carga.
+Metodo: ASTM D3612. Procedimientos: JORPA, Laborelec, LCIE, Duval ES o
+
+e a
+
+8 8)
+
+e E
+
+, ]
+jecutó
+
+ 
+
+ 
+

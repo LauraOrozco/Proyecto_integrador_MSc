@@ -1,0 +1,151 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)2959890C
+sden NO 4688- Miguel -
+Dresden o LE Migue ANALISIS POR GASES DISUELTOS
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 03/12/2019
+. Y EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador TAG ATR3-Fase 1 SIEMENS N* 892016 13352 ' 061447
+POT. MAXIMA: 250 MVA FECHA MUESTREO: 08/11/2019
+VOLTAJE: 500 kV FECHA RECEPCION: 14/11/2019
+LUGAR: S/E Los Changos FECHA ANALISIS: 28/11/2019
+DIAGNOSTICO ANTERIOR: —-- AÑO DE FABRICACION: 2017
+FECHA: - ULTIMO DESGASIFICADO: — —
+| N ORDEN TRABAJO: — 6105 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: 40 “Cc
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 64750 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.872 gr/mL|
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 30228 Lím< 50000 | | Etano: C2H6= O Lím< 50
+Oxígeno: 02= 5911 Lím< 2500 | | Etileno: C2H4= 0 Lím< 50
+Dioxido de Carbono: CO2= 276 Lím< 4000 || Acetileno: C2H2= 0 Lím< 1
+Monoxido de Carbono: CO= 54 Lím< 400 | | Propano: C3H8= 0 Lím< 25
+Hidrógeno: H2= 7 Lím< 50 | | Propileno: C3H6= 0 Lím< 25
+Metano: CH4= 1 Lím< 50
+TGC= 62 Lím< 601 || TG (%): 3,65| CO(L): 3,50
+TGC-CO= 8 Lím< 201 | | TGC (%): 0,01 nTG (mL): 0,55
+S(C1-C2)= 1 Lím< 151 PTG (atm): 0,33
+RELACIONES:
+CH4/H2: 0,14 C2H4/C2H6: 0,00 %H2: 87,50
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 12,50
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 0,00
+C2H4/CH4: 0,00 CO2/CO: 5,11 %C2H2: 0,00
+C2H6/CH4: 0,00 N2/02: 5,11
+TGC = CO+H2+CH4+4C2H64+C2H4+4C2H2 %GAS =GAS/(S(C1-C2)+H2)x100
+S(C1-C2) — =CH4+C2H6+C2H44+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente.
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A., posterior a la primera energización.
+-El gas subrayado que está sobre el límite no indica ciertamente la evolución de una falla incipiente.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El autotransformador puede continuar en servicio. -Analizar al cabo de un año.
+-Indicar régimen de carga.
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+Janet Mendez.
+
+ 
+
+Ejecutó
+

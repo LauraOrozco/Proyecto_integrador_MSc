@@ -1,0 +1,155 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)2959890(
+
+Dresden NO 469.467 San Maue- ANALISIS POR GASES DISUELTOS
+
+Santiago - CHILE
+Hoja 1 de 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. FECHA: 20/08/2020
+
+ID. EQUIPO: Transformador TAG 19 (ATR4) ABB N* 515045 EQUIPO / DA NOSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 150 MVA FECHA MUESTREO: 10/08/2020
+VOLTAJE: 220/110/13.8 kv FECHA RECEPCION: 12/08/2020
+LUGAR: S/E Pan de Azúcar FECHA ANALISIS: 17/08/2020
+DIAGNOSTICO ANTERIOR: — 065358 AÑO DE FABRICACION: 2016
+FECHA: 06/08/2020 ULTIMO DESGASIFICADO: — —
+N2 ORDEN TRABAJO: —6963 REGIMEN DE CARGA: 48 %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: 34 “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 41912 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 17905 Lím< 50000 | Etano: C2H6= 10 Lím< 50
+Oxígeno: 02= 1782 Lím< 2500 | | Etileno: C2H4= D  Lím< 50
+Dioxido de Carbono: CO2= 375 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 30 Lím< 400 | | Propano: C3H8= D  Lím< 25
+Hidrógeno: H2= 10 Lím< 50 | | Propileno: C3H6= D Lím< 25
+Metano: CH4= 2 Lím< 50
+TGC= 52 Lím< 601 | | TG (%): 2,01 CO (L): 1,26
+TGC-CO= 22 Lím< 201 | | TGC(%): 0,01 nTG (mL): 0,30
+S(C1-C2)= 12 Lím< 151 PTG (atm): 0,18
+RELACIONES:
+CH4/H2: 0,20 C2H4/C2H6: 0,00 %H2: 45,45
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 9,09
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 45,45
+C2H2/C2H6: 0,00 %C2H4: 0,00
+C2H4/CH4: 0,00 CO2/CO: 12,50 %C2H2: 0,00
+C2H6/CH4: 5,00 N2/02: 10,05
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+Muestra tomada por Transelec S.A.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El transformador puede continuar en servicio. -Analizar al cabo de un año.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+   
+
+io Palacios V. Janet Mendez.
+Aprobó Ejecutó
+
+ 
+

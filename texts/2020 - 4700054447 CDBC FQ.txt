@@ -1,0 +1,68 @@
+JORPA INGENIERÍA S.A. RL-17 V2019 R1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Servicios de Ingeniería £ e £
+
+Fonos: (2) 29598900 -29598913 CARACTERISTICAS FISICO QUIMICAS J G) BR PA
+
+resden N? 4688 - A Miguel — Santiago ACEITE MINERAL DE CAMBIADOR DE
+1/1 DERIVACIONES BAJO CARGA
+EMPRESA: —TRANSELEC S.A. FECHA: 07/04/2020
+ID. EQUIPO: CDBC ABB NC E 83.628 (Transformador TAG T-1 ABB NO 59607) PS / AS
+POT. MÁXIMA: 24 MVA [FECHA MUESTREO: 18/03/2020
+VOLTAJE: 220/24 kv FECHA RECEPCIÓN: 23/03/2020
+LUGAR: S/E Laguna FECHA ANÁLISIS: 03/04/2020
+DIAGNÓSTICO ANTERIOR: 44396 ANO FABRICACIÓN: 1996
+FECHA: 15/03/2019 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6574 REGIMEN DE CARGA: 5,7 %
+MODELO : ERN380/600 "TEMPERATURA ACEITE: 40 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 12 %
+VOL. MUESTRA: 1000 mL__ |¡VOL. ACEITE CDBC: No informado L
+Resultado Límites Conexión al Conexión al | Conexión al
+Prueba UNIDAD | Método ASTM 25 9 nuevo antes neutro terminal < | terminal >
+de energizar 69 kV 69 kV
+Humedad mg/kg D 1533-12 11 <10 <30* <30* <30*
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 - 255 227 235 245
+Rigidez dieléctrica 2.5 mm. kv VDE 0370 58 >70* >40 240 240
+Densidad g/mL D 1298-12 0,871 - - - -
+Aspecto visual D 1524-10 claro y brillante - - - -
+amarillo
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+- Aceite en buenas condiciones para servicio. - Analizar al cabo de un año.
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Eulalia) A
+
+Carola Núñez D. Cristian/Aramburu R.
+Aprobó evisó
+

@@ -1,0 +1,169 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890
+Dresden N* 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A,
+ID. EQUIPO: Transformador TAG T-1 ABB NO 59607
+
+ 
+
+FECHA: 07/04/2020
+EQUIPO / DIAGNOSTICO
+01068 063753
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 24 MVA FECHA MUESTREO: 18/03/2020
+VOLTAJE: 220/24 kv FECHA RECEPCION: 23/03/2020
+LUGAR: S/E Lagunas FECHA ANALISIS: 06/04/2020
+DIAGNOSTICO ANTERIOR: — (58419 AÑO DE FABRICACION: 1996
+FECHA: 03/04/2019 ULTIMO DESGASIFICADO: 08/11/1996
+N* ORDEN TRABAJO: 6574 REGIMEN DE CARGA: 9.7 %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 40 “e
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: — 30050 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.861 gr/mL.
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 26273  Lím< 50000 | | Etano: C2H6= O Lím< 50
+Oxígeno: 02= 2005 Lím< 2500 | |Etileno: C2H4= 2 Lím< 50
+Dioxido de Carbono: CO2= 1213 Lím< 4000 | | Acetileno: C2H2= 1 Lím< 1
+Monoxido de Carbono: CO= 249 Lím< 400 | | Propano: C3H8= D  Lím< 25
+Hidrógeno: H2= 9 Lím< 50 | | Propileno: C3H6= 2 Lím< 25
+Metano: CH4= 6 Lím< 50
+TGC= 267 Lím< 601 | [TG (%): 2,98 CO (L): 7,56
+TGC-CO= 18 Lím< 201 | | TGC (%): 0,03 nTG (mL): 0,45
+S(C1-C2)= 9 Lím< 151 PTG (atm): 0,27
+RELACIONES:
+CH4/H2: 0,67 C2H4/C2H6: 0,00 %H2: 50,00
+C2H2/CH4: 0,17 C2H4/C3H6: 1,00 %CH4: 33,33
+C2H2/C2H4: 0,50 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 11,11
+C2H4/CH4: 0,33 CO2/CO: 4,87 %C2H2: 5,36
+C2H6/CH4: 0,00 N2/02: 13,10
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/KS(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+eléctrico.
+
+-Con respecto al análisis anterior se mantiene la concentración de Acetileno (C2H2) sobre su límite, gas indicativo de arco
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-El transformador puede continuar en servicio.
+
+ 
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+-Analizar en un plazo no superior a tres meses para evaluar la
+concentración de Acetileno.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+ 
+
+Jañet Meridez.
+-jecutó
+

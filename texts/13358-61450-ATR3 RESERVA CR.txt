@@ -1,0 +1,159 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+
+Servicios de Ingeniería Fono:(2)29598900
+¡o 4688. -
+O ANALISIS POR GASES DISUELTOS
+
+Hoja 1 de 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. FECHA: 03/12/2019
+ID. EQUIPO: Autotransformador TAG BCO ATR3-RVA SIEMENS N? 892019 EQUIPO / DIAGNOSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13358 061450
+POT. MAXIMA: 250 MVA FECHA MUESTREO: 08/11/2019
+VOLTAJE: 500 kV FECHA RECEPCION: 14/11/2019
+LUGAR: S/E Los Changos FECHA ANALISIS: 29/11/2019
+DIAGNOSTICO ANTERIOR: —-- AÑO DE FABRICACION: 2017
+FECHA: - ULTIMO DESGASIFICADO: — —
+| N ORDEN TRABAJO: — 6105 REGIMEN DE CARGA: 0 %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: 20 “Cc
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 64750 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.870 gr/mL
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 8356 Lím< 50000 || Etano: C2H6= 0 Lím< 50
+Oxígeno: 02= 1398 Lím< 2500 | | Etileno: C2H4= 0 Lím< 50
+Dioxido de Carbono: CO2= 176 Lím< 4000 || Acetileno: C2H2= 0 Lím< 1
+Monoxido de Carbono: CO= 52 Lím< 400 | | Propano: C3H8= 0 Lím< 25
+Hidrógeno: H2= 5 Lím< 50 | | Propileno: C3H6= 0 Lím< 25
+Metano: CH4= 2 Lím< 50
+TGC= 59 Lím< 601 || TG (%): 1,001  CO(L): 3,39
+
+TGC-CO= 7 Lím< 201 | | TGC (%): 0,01 nTG (mL): 0,15
+
+S(C1-C2)= 2 Lím< 151 PTG (atm): 0,10
+RELACIONES:
+CH4/H2: 0,40 C2H4/C2H6: 0,00 %H2: 71,43
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 28,57
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 0,00
+C2H4/CH4: 0,00 CO2/CO: 3,38 %C2H2: 0,00
+C2H6/CH4: 0,00 N2/02: 5,98
+TGC = CO+H2+CH4+4C2H64+C2H4+4C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) — =CH4+C2H6+C2H44+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+-Autotransformador apto para continuar en servicio. -Analizar al cabo de un año.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+Janet Mendez.
+Ejecutó
+
+ 
+

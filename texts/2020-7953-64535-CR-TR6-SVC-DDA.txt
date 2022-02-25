@@ -1,0 +1,150 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden EN ANALISIS POR GASES DISUELTOS
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 22/06/2020
+. EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Transformador TAG T-6 SIEMENS N0% P186240 07953 064535
+POT. MAXIMA: 100 MVA FECHA MUESTREO: 12/06/2020
+VOLTAJE: 220/13.9 kv FECHA RECEPCION: 17/06/2020
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 19/06/2020
+DIAGNOSTICO ANTERIOR: — (059186 AÑO DE FABRICACION: 2012
+FECHA: 30/05/2019 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: 6805 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: - “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 34880 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 49673 Lím< 50000 | Etano: C2H6= D  Lím< 50
+Oxígeno: 02= 4988 Lím< 2500 | | Etileno: C2H4= 1 Lím< 50
+Dioxido de Carbono: CO2= 2630 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 863 Lím< 400 | | Propano: C3H8= D Lím< 25
+Hidrógeno: H2= 15 Lím< 50 | | Propileno: C3H6= 3 Lím< 25
+Metano: CH4= 13 Lím< 50
+TGC= 892 Lím< 601 | | TG (%): 5,82 CO (L): 30,56
+TGC-CO= 29 Lím< 201 | | TGC(%): 0,09 nTG (mL): 0,87
+S(C1-C2)= 14 Lím< 151 PTG (atm): 0,50
+RELACIONES:
+CH4/H2: 0,87 C2H4/C2H6: 0,00 %H2: 51,72
+C2H2/CH4: 0,00 C2H4/C3H6: 0,33 %CH4: 44,83
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 3,45
+C2H4/CH4: 0,08 CO2/CO: 3,05 %C2H2: 0,00
+C2H6/CH4: 0,00 N2/02: 9,96
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente. -Aire en su interior.
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+-Se aprecia elevado contenido de CO, por probable deterioro térmico de la celulosa.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El transformador puede continuar en servicio. -Analizar al cabo de un año.
+-Indicar régimen de carga.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+    
+
+5 rgio Palacios V. Jaíret Mendez.
+Aprobó jecutó
+

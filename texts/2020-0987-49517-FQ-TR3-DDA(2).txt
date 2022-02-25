@@ -1,0 +1,118 @@
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+
+CHILE
+111
+
+Dresden N* 4672-4688 San Miguel — Santiago
+
+ 
+
+RL-12B V2019 R1
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+MINERAL EN EQUIPOS CLASE >69 A <230 kV
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amarillo claro
+
+EMPRESA: —TRANSELEC S.A. FECHA: 12/03/2020
+ID. EQUIPO: Autotransformador TAG 19 EFACEC N* S-13111 EQUIPO / DIAGNÓSTICO
+987 49517
+POT. MÁXIMA: 120 MVA [FECHA MUESTREO: 03/03/2020
+VOLTAJE: 220/115/13,8 Kv [FECHA RECEPCIÓN: 09/03/2020
+LUGAR: S/E Diego de Almagro FECHA ANÁLISIS: 11/03/2020
+DIAGNOSTICO ANTERIOR: 44171 AÑO FABRICACIÓN: 1995
+FECHA: 03/05/2019 ULTIMO DESGASIFICADO: 01/09/2010
+NO ORDEN DE TRABAJO: 6513 REGIMEN DE CARGA: 38,3 %
+"TIPO DE EQUIPO: Hermético con bolsa de goma "TEMPERATURA ACEITE: 39 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 23 %
+VOL. MUESTRA: 1000 mL [VOL. ACEITE ESTANQUE: 35429 L
+LÍMITES NUEVO ;
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE CIO
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 4 <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 64 255 247
+Tensión interfacial mN/m D 971-12 43 > 38 >30
+Número neutralización mgKOH/g D 974-14 <0,02 <0,03 <0,15
+Factor de potencia 100 “C % D 924-15 0,709 <0,4 <5
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 5,4E+12 <0,40 <5
+Densidad g/mL D 1298-12 0,875 - -
+Color - D 1500-07 LO,5 - -
+Saturación % - 2,90 - -
+H/PS % - 0,22 <1,0 -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+
+ 
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A.
+- En base al % de saturación relativa del aceite, se estima que el aislamiento sólido se encuentra seco.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL:
+
+ 
+
+- Aceite en buenas condiciones para servicio.
+
+ACCIÓN A SEGUIR:
+- Analizar al cabo de un año.
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Esclo huía)
+Carola Núñez D.
+Aprobó
+
+A
+
+LA
+
+Cristian/Aramburu R.
+evisó
+
+ 
+

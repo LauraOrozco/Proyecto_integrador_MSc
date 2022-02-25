@@ -1,0 +1,276 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)29598906
+Dresden N% 4688-4672 San.Miguel -
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+
+Santiago - CHILE ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+
+   
+
+ 
+   
+    
+ 
+
+POT. MAXIMA:
+
+LUGAR: S/E Vallenar
+
+DIAGNOSTICO ANTERIOR: — 039092
+FECHA:
+
+ 
+
+   
+
+ 
+
+VOL. MUESTRA: 15
+
+     
+
+GAS DISUELTO [ppm(v/v)]:
+
+  
+
+Nitrógeno: N2= 45035
+Oxígeno: 02= 19150
+Dioxido de Carbono: CO2= 2465
+Monoxido de Carbono: CO= 145
+Hidrógeno: H2=
+Metano: CH4=
+
+   
+
+TGC= 154
+TGC-CO=
+S(C1-C2)=
+
+ 
+
+RELACIONES:
+CH4/H2:
+
+C2H2/CH4: D.00
+C2H2/C2H4: 0.00
+C2H2/C2H6: 0.00
+C2H4/CH4: 1.50
+
+C2H6/CH4:
+
+ 
+
+ 
+
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2
+S(C1-C2) = CH4+C02H5+C2H4+C2H2
+
+ 
+
+DIAGNOSTICO PRINCIPAL:
+Sin falla aparente.
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+ 
+
+SITUACION ACTUAL:
+-El transformador puede continuar servicio.
+
+ 
+
+10.0 MVA
+VOLTAJE: 110/23-13.8 kv
+
+13/08/2014
+
+mL
+
+ 
+      
+     
+ 
+  
+ 
+
+ID. EQUIPO: Transformador T-2 RHONA M* 36516
+
+   
+        
+    
+
+N2 ORDEN TRABAJO: — 1806
+TIPO EQUIPO: Hermético c/bolsa de goma.
+LUGAR MUESTREO: Nivel inferior estanque
+
+Lim<
+Lím<
+Lim<
+Lim<
+
+Lim<
+
+C2H4/C2H6:
+
+C2H4/C3H6:
+
+CO2/CO:
+N2/02:
+
+C3H6/C3H8:
+
+ 
+
+FECHA:
+
+EQUIPO / DIAGNOSTICO
+04869 043597
+
+FECHA MUESTREO:
+
+       
+  
+     
+  
+
+FECHA ANALISIS:
+AÑO DE FABRICACI
+
+DENSIDAD:
+
+Etano: C2H6=
+Etileno: C2H4=
+Acetileno: C2H2=
+Propano: C3H8=
+Propileno: C3H6=
+
+ 
+  
+       
+     
+
+0C2H2:
+
+YGAS = GAS/(S(C1-C2)+H2):100
+= Presión Total Gas
+
+DIAGNOSTICO ADICIONAL:
+Pérdida de hermeticidad.
+
+ 
+
+ACCION A SEGUIR:
+-Analizar al cabo de un año.
+“Indicar régimen de carga.
+
+ 
+
+FECHA RECEPCION:
+
+ULTIMO DESGASIFICADO:
+
+REGIMEN DE CARGA: ?
+TEMPERATURA ACEITE: 45
+VOL. ACEITE ESTANQUE:
+
+       
+
+  
+
+ 
+
+  
+ 
+
+    
+   
+  
+  
+     
+ 
+
+Lim<
+Lim<
+Lim<
+Lim<
+Lim<
+
+00ouo
+
+ 
+     
+ 
+
+CO (L):
+nTG (mL):
+PTG (atm):
+
+  
+ 
+
+22.22
+
+3
+
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+
+     
+  
+ 
+
+24/11/2015
+
+05/11/2015 |
+17/11/2015 |
+23/11/2015
+ON: 2007
+30/08/2010
+
+11085 L
+
+   
+
+ 
+  
+
+   
+   
+   
+  
+
+“e
+
+  
+  
+
+0.00
+3.33
+0.00
+
+ 
+
+ 
+
+ 
+
+Cutó
+

@@ -1,0 +1,58 @@
+ 
+
+ 
+
+— JORPA INGENIERÍA S.A. o - RL-019 Versión 6
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913 A |
+Dresden N* 4672-4688 San Miguel - Santiago ANALISIS DE CONTENIDO DE FURANOS |
+CHILE |
+z A LE
+EMPRESA: — TRANSELEC S.A. o FECHA: 01/07/2015
+ID. EQUIPO: Transformador Trifásico TR-1 SINDELEN NO 7408001 pl / E
+POT. MÁXIMA: 10 MVA [FECHA MUESTREO: 23/06/2015
+VOLTAJE: 110/24-13,8 kv FECHA RECEPCION: 30/06/2015
+LUGAR: S/E Vallenar _| FECHA ANÁLISIS: 01/07/2015
+DIAGNOSTICO ANTERIOR: 1181 AÑO FABRICACIÓN: 1974
+FECHA: 27/06/2007 ¡ULTIMO DESGASIFICADO: no informado |
+NO ORDEN DE TRABAJO: 1425 REGIMEN DE CARGA: 74 %
+TIPO DE EQUIPO: con respiradero libre TEMPERATURA ACEITE: no informado oe
+¡LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA no informado %
+VOL. MUESTRA: 10 mL__ |[VOL. ACEITE ESTANQUE: 18000 L |
+- RESULTADOS LÍMITE ACEITE NUEVO
+COMPUESTO METODO ASTM (ppb) (ppb) IEC 60296-12
+|
+5-HIDROXIMETIL-2FURFURAL (5HMF) D 5837-12 | <1 No detectable (< 50 ppb)
+2-FURFURIL ALCOHOL (2FOL) | D 5837-12 <1 | No detectable (< 50 ppb)
+2-FURFURAL (FURALDEHIDO) (2FAL) | D 5837-12 | 136 | No detectable (< 50 ppb)
+2-ACETILFURFURAL (2ACF) D 5837-12 <1 No detectable (< 50 ppb)
+5-METIL-2-FURFURAL (SMEF) D 5837-12 | 10 No detectable (< 50 ppb)
+Límite de detección: 1 ppb (microgramos/litro)
+Equipo utilizado: Sistema cromatografía líquida de alto rendimiento marca Agilent serie 1200
+Grado de polimerización promedio: 537
+¡Esperanza de vida en años 40 (Fabricados antes de 1980: 40 años. Desde 1980: 30 años)
+Reducción de vida útil en años 14
+
+Nota 1: En transformadores nuevos la reducción de vida en años calculada desde la concentración de 2-furfural debe considerase como el cero para
+futuras estimaciones de la vida residual.
+
+Nota 2: El papel esta compuesto de cadenas de celulosa, esta en su momento inicial tiene 1000 eslabones y en su momento final tiene solo 200. Este
+valor se conoce como grado de polimerización.
+
+Nota 3: La vida futura del transformador dependerá en gran medida de la temperatura de los enrollados y de la humedad del papel que los cubre. En
+menor proporción, de la contaminación del aceite con ácidos y oxígeno presentes.
+
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+-  Eltransformador presenta una reducción de vida de 14 años respecto - Analizar al cabo de un año.
+de su vida útil considerada en 40 años.
+
+EV) pe
+Karina Torres R.
+Efectuó
+
+ 
+

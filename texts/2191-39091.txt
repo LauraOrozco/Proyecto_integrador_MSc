@@ -1,0 +1,224 @@
+ 
+
+ 
+
+JORPA INGENIERIA S.A.
+Servicios de Ingeniería Fono:(2)29598906
+
+Santiago - CHILE
+Hoja 1 de 1
+
+ 
+
+Dresden N0 4688-4672 San Miguel - DIAGNOSTICO DE FALLA POR GASES
+
+RL-006 Versión: 7
+
+DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+
+ID. EQUIPO: Transformador T-1 Sindelen N* 7408001
+
+FECHA:
+
+  
+    
+
+POT. MAXIMA: 10.0 MVA
+VOLTAJE: 110/24-13.8 Kv
+LUGAR: S/E Vallenar
+
+DIAGNOSTICO ANTERIOR: — 035564
+FECHA: 02/09/2013
+
+   
+
+   
+
+  
+
+   
+  
+  
+    
+
+N* ORDEN TRABAJO: — 578
+
+TIPO EQUIPO: Con respiradero libre.
+LUGAR MUESTREO: Nivel inferior estanque
+VOL. MUESTRA: 15 es
+
+GAS DISUELTO [ppm(v/v)]:
+
+ 
+
+Nitrógeno: N2= 38215 Lím<
+Oxígeno: 02= 1935 Lím<
+Dioxido de Carbono: CO2= 2555  Lím<
+Monoxido de Carbono: CO= 264  Lím<
+Hidrógeno: H2= 44 Lí
+Metano: CH4=
+
+   
+
+TGC= 323
+TGC-CO=
+S(C1-C2)=
+
+ 
+
+RELACIONES:
+
+  
+
+C2H6/CH4:
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+TGC = CO+H2+CH4+C2H5+C2H4+C2H2
+S(C1-C2) = CH4+C2H5+C2H4+C2H2
+
+DIAGNOSTICO PRINCIPAL:
+Sin falla aparente.
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+SITUACION ACTUAL:
+-El transformador puede continuar en servicio.
+
+ 
+
+N2/02:
+
+    
+      
+     
+
+   
+
+ 
+
+REGIMEN DE CARGA:
+
+     
+   
+   
+     
+      
+
+75000 | | Etano: C2H6= DO Lím< 30
+25000 | | Etileno: C2H4= 3 Lím< 35
+10000 | | Acetileno: C2H2= 0 Lím< 1
+1000 | | Propano: C3H8= 0D Lím< 25
+Propileno: C3H6= 0 Lím< 25
+
+CO (Lt):
+nTG (cc):
+PTG (atm):
+
+     
+     
+     
+ 
+     
+   
+      
+
+CH4/H2: C2H4/C2H6: . %H2:
+C2H2/CH4: 0.00 C2H4/C3H6: 0.00 %CH4:
+C2H2/C2H4: 0.00 C3H6/C3H8: . %C2H6:
+C2H2/C2H6: 0.00 %C2H4:
+C2H4/CH4: 0.25 CO2/CO: 9.68 %C2H2:
+
+= GAS/(S(C1-C2)+H2)>:100
+= Presión Total Gas
+DIAGNOSTICO ADICIONAL:
+
+   
+
+ 
+
+-Se aprecia una concentración de Hidrógeno (H2) sobre su límite, gas indicativo de hidrólisis en el aceite.
+
+   
+  
+
+ACCION A SEGUIR:
+-Analizar al cabo de un año.
+-Indicar régimen de carga.
+
+EQUIPO / DIAGNOSTICO
+02191 039091
+
+FECHA MUESTREO: 17/07/2014
+FECHA RECEPCION: 21/07/2014
+FECHA ANALISIS: 08/08/2014
+
+AÑO DE FABRICACION: 1974
+ULTIMO DESGASIFICADO: — --
+
+TEMPERATURA ACEITE: — ec
+VOL. ACEITE ESTANQUE: 18000 Lt
+DENSIDAD: 0.886  gr/cc
+
+ 
+    
+ 
+  
+
+14/08/2014
+
+      
+
+ 
+      
+
+  
+
+  
+  
+
+74.58
+20.34
+0.00
+5.08
+0.00
+
+ 
+
+  
+    
+
+ 
+
+ 
+
+     
+
+rgio Palacios!
+Aprobó
+
+ 
+
+Jañet Mendez.
+
+Ejecttó
+

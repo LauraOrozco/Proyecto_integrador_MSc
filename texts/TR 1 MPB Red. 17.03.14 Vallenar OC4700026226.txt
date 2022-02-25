@@ -1,0 +1,325 @@
+ 
+
+ 
+
+db
+
+REGISTRO DE EJECUCION DE MANTENIMIENTO
+
+ 
+
+transelec
+
+EMPRESA MANDANTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRANSFORMADOR DE PODER HASTA 10 MVA TRIFÁSICO, REFRIGERACION ONAN - REDUCIDO
+
+Unidad de Obra
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+m FECHA EJECUCION 17-03-2014 INFORME N* PEDIDO SAP N*
+e GERENCIA ZONAL| Norte Chico SUBESTACION Vallenar
+ú DESIGNACION UNILINEAL| 1R1 REALIZADO POR Erasmo Araya Antiquera
+Q INSPECTOR DE TRANSELEC Jorge Cabrera Cubillo
+E CARACTERISTICAS DEL EQUIPO
+5 MARCA Sindelem POTENCIA ENIMVA] 10
+= TENSIONES NOMINALES EN [KV] 110118,8 N'DE SERE 7408001
+TEM DESCRIPCIÓN
+INSPECCIÓN COLOR DEL ACEITE
+1 Observaciones
+MEDIDA RIGIDEZ DIELÉCTRICA DEL ACEITE
+20 Medida en [KV] 39,3 KV Observaciones Medida de rigidez dieléctrica del aceite normal, realizada con la noma ASTM 1816
+MEDIDA FACTOR DE POTENCIA DEL ACEITE
+Millamperes Wars Factor de Potencia
+e 1 Lectura | Muliplicador [mA] Lectura — | Muliplicador (Wat sin corregir | F.corección | a20%0
+ú 30 5 0,44 0,0028 0,07 0,07 1,00
+= Temperatura ambiente en [*C] 20 Humedad Relativa en [%] 42 Observaciones
+ú
+z
+<X
+>
+d VERIFICACIÓN ESTADO INSTRUMENTOS E INDICADORES DE NIVEL
+S Observaciones Se realiza inspeccion general a los indicadores de temperatura, tanto de enrrollado y aceite (Aceite 460 y
+1 enrrollado 480).
+>=
+E
+EQUIPOS DE PRUEBAS Y MEDIDAS EMPLEADOS
+Descripcion Marca Modelo N'de Serio Certificado Vigente
+Medidor de rigidez dielectrica del aceite Baur DTA 100 7290307 oK
+Medidor de factor de potencia Megger Delta 3000 62030609 oK
+OBSERVACIONES GENERALES
+Se realiza inspeccion general del equipo, no enecontrando anomalias en este.
+Se encuentran indicios de filtraciones antiguas por el lado de radiadores, lado de media tension.
+Equipo sin falla aparente.
+o Jefe Técnico Contratista Inspector de TRANSELEC
+3, | Equipo normaly sinrestricciones Xx
+S Equipo con restricciones u observaciones ( ver observaciones )
+8, | Eauipo no puede entrar al servicio
+9. [Equipo en observacion durante horas
+REALIZADO POR APROBADO POR RECIBIDO POR (TRANSELEC)
+FIRMA
+NOMBRE Erasmo Araya Antiquera Jaime Latin
+CARGO Mando de Brigada Jefe Tecnico
+FECHA 17-03-2014 17-03-2014
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

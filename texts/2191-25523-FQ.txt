@@ -1,0 +1,102 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| JORPA INGENIERÍA S.A. RL-012 Versión 7 -
+| Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913 z Í Í
+Dresden 11? 4672-4688. San Miguel = Santiago CARACTERISTICAS FÍSICO QUÍMICAS ACEITE
+CHILE MINERAL EN EQUIPOS CLASE >69 A <230 kV
+1/1 - o
+EMPRESA: —TRANSELEC S.A. . FECHA: 08/08/2014 |
+: EQUIPO / DIAGNÓSTICO
+” Sl o
+an EQUIPO: Transformador T-1 ANO N 08001 o o 2191 25523
+POT. MAXIMA: 10,0 MVA  'FECHA MUESTREO: 17/07/2014
+VOLTAJE: 110/24-13,8 kv FECHA RECEPCIÓN: 21/07/2014
+'LUGAR: o S/E Vallenar FECHA ANÁLISIS: 05/08/2014 |
+DIAGNOSTICO ANTERIOR: 22006 AÑO FABRICACIÓN: 1974
+|FECHA: 22/08/2013 ULTIMO DESGASIFICADO: — Noinformado
+NO ORDEN DE TRABAJO: 578 [REGIMEN DE CARGA: No informado %
+TIPO DE EQUIPO: Con respiradero libre TEMPERATURA ACEITE: No informado oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA No informado %
+¡VOL. MUESTRA: 1000 Ml mL___ VOL. ACEITE ESTANQUE: 18000. L
+LÍMITES NUEVO -
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE e
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 43! <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 38 >52 >47
+Tensión interfacial dinas/cm D 971-12 17 >38 >30
+Número neutralización mgKOH/g D974-12 0,16 <0,015 <0,15
+Factor de potencia 200C % D 924-08 - <0,05 <0,5
+Factor de potencia 1000C % D 924-08 7,626 <0,40 <5
+Resistividad volumétrica 200C ohm*cm D 1169-11 = + -
+Resistividad volumétrica 1000C ohm*cm D 1169-11 3,3 E+11 - -
+Densidad g/mL D 1298-12 0,886 - ”
+Color D 1500-07 3,5 <1i -
+IN o marrón claro o
+OBSERVACIONES:
+
+Aspecto visual D 1524-10 claro y brillante claro y brillante claro y brillante
+- Rigidez dieléctrica, tensión interfacial y factor de potencia fuera de límite para aceite en servicio.
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+'Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment" ]
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+- Aceite en mínimas condiciones para servicio. - Cambiar o regenerar el aceite.
+- Aceite con degradación fuerte.
+él
+
+es sin la autorizació. por ito de Jorpa Ingeniería S.A. .
+EZ -
+> N | Qs
+o A 3
+| k Mauricio Muñoz A.
+? PL
+
+J
+4) evisó Efectuó
+$/
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parci
+
+y
+
+ 
+
+ 
+
+  
+    
+  
+
+  
+ 
+

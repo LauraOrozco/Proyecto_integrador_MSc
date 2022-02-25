@@ -1,0 +1,161 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+
+ID. EQUIPO: Autotransf. Monofásico TAG BCO ATR3-RVA SIEMENS N? 892019
+
+FECHA: 05/12/2019
+EQUIPO / DIAGNOSTICO
+13358 061581
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 250 MVA FECHA MUESTREO: 22/11/2019
+VOLTAJE: 525/V3/230/V3/66 kv FECHA RECEPCION: 27/11/2019
+LUGAR: S/E Los Changos FECHA ANALISIS: 28/11/2019
+DIAGNOSTICO ANTERIOR: — 061450 AÑO DE FABRICACION: 2017
+FECHA: 03/12/2019 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: 6160 REGIMEN DE CARGA: 0 %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: 36 “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 64750 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.871 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 5681 Lím< 50000 | Etano: C2H6= D  Lím< 50
+Oxígeno: 02= 1300 Lím< 2500 | | Etileno: C2H4= D  Lím< 50
+Dioxido de Carbono: CO2= 119 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 36 Lím< 400 | | Propano: C3H8= D  Lím< 25
+Hidrógeno: H2= 4 Lím< 50 | | Propileno: C3H6= D Lím< 25
+Metano: CH4= 1 Lím< 50
+TGC= 41 Lím< 601 | | TG (%): 0.71 CO (L): 2.33
+TGC-CO= 5 Lím< 201 | | TGC(%): 0.00 nTG (mL): 0.11
+S(C1-C2)= 1 Lím< 151 PTG (atm): 0.07
+RELACIONES:
+CH4/H2: 0.25 C2H4/C2H6: 0.00 %H2: 80.00
+C2H2/CH4: 0.00 C2H4/C3H6: 0.00 %CH4: 20.00
+C2H2/C2H4: 0.00 C3H6/C3H8: 0.00 %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 0.00
+C2H4/CH4: 0.00 CO2/CO: 3.31 %C2H2: 0.00
+C2H6/CH4: 0.00 N2/02: 4.37
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GASA(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente.
+OBSERVACIONES:
+Muestra tomada por Transelec S.A.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-Autotransformador apto para continuar en servicio. -Analizar al cabo de un año.
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+PA
+AO >
+—— Sergio Palacios V. Janet Mendez.
+Aprobó Ejecutó
+

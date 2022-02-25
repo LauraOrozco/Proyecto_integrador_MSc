@@ -1,0 +1,115 @@
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+
+Dresden N* 4672-4688 San Miguel — Santiago
+
+ 
+
+RL-012B Versión 2019 Rev-01
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amarillo oscuro
+
+CHILE MINERAL EN EQUIPOS CLASE >69 A <230 kV
+1/1
+EMPRESA: —TRANSELEC S.A. FECHA: 29/04/2019
+ID. EQUIPO: Autotransformador TAG 4 ACEC NO 12TF15608-41752 EQUIPO / O
+POT. MÁXIMA: 42 MVA [FECHA MUESTREO: 27/03/2019
+VOLTAJE: 154/110/13,8 Kv [FECHA RECEPCIÓN: 29/03/2019
+LUGAR: S/E Cardones FECHA ANÁLISIS: 24/04/2019
+DIAGNOSTICO ANTERIOR: 28079 AÑO FABRICACIÓN: 1952
+FECHA: 27/05/2015 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 5401 REGIMEN DE CARGA: 0 %
+"TIPO DE EQUIPO: Hermético con bolsa de goma "TEMPERATURA ACEITE: No informado oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 48 %
+VOL. MUESTRA: 1000 mL [VOL. ACEITE ESTANQUE: 18000 L
+LÍMITES NUEVO ;
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE CIO
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 5 <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 62 255 247
+Tensión interfacial mN/m D 971-12 21 > 38 >30
+Número neutralización mgKOH/g D 974-14 0,07 <0,03 <0,15
+Factor de potencia 100 “C % D 924-15 6,970 <0,4 <5
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 3,8E+11 <0,40 <5
+Densidad g/mL D 1298-12 0,880 - -
+Color - D 1500-07 L2,5 - -
+Saturación % - - - -
+H/PS % - - <1,0 -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+
+ 
+
+OBSERVACIONES:
+
+- Tensión interfacial fuera de límite para aceite en servicio.
+- Muestra tomada por Transelec S.A., a transformador fuera de servicio.
+- El % de saturación relativa del aceite no pudo ser estimado debido a que la T? del líquido aislante no fue informada.
+- Restos de muestra con descarte inmediato.
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL:
+
+ 
+
+- Aceite en condiciones para servicio.
+- Aceite con degradación moderada.
+
+ 
+
+ACCIÓN A SEGUIR:
+- Analizar al cabo de un año.
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Cela huájis)
+Carola Núñez D.
+Aprobó
+
+DA
+
++ .£
+Cristian/Aramburu R.
+evisó
+
+ 
+

@@ -1,0 +1,173 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+    
+     
+ 
+
+ 
+
+   
+  
+
+JORPA INGENIERIA S.A. RL-006 Versión: 7
+ES DIAGNOSTICO DE FALLA POR GASES
+Seribago - CHILE DISUELTOS
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 13/08/2014
+ID. EQUIPO: Transformador T-2 Rhona N? 36516 O Ia
+POT. MAXIMA: 10.0 MVA FECHA MUESTREO: 17/07/2014
+
+VOLTAJE: 110/23-13.8 kv
+LUGAR: S/E Vallenar
+
+DIAGNOSTICO ANTERIOR: — 035565
+
+FECHA RECEPCION: 21/07/2014
+FECHA ANALISIS: 08/08/2014
+
+AÑO DE FABRICACION: 2007
+
+  
+
+    
+
+ 
+    
+  
+  
+  
+   
+
+FECHA: 02/09/2013 ULTIMO DESGASIFICADO: — 30/08/2010
+
+N* ORDEN TRABAJO: — 578 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: — *C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 11085 Lt
+VOL. MUESTRA: 15 cc DENSIDAD: 0.871 gr/cc
+
+     
+    
+
+   
+   
+  
+  
+  
+
+ 
+
+GAS DISUELTO [ppm(v/v)]:
+
+Nitrógeno: N2= 42997 Lim< 50000 | | Etano: C2H6= 0 Lím< 50
+Oxígeno: 02= 11393 Lím< 2500 | | Etileno: C2H4= 0 Lím< 50
+Dioxido de Carbono: CO2= 1699 Lím< 4000 | | Acetileno: C2H2= 0 Lím< 1
+Monoxido de Carbono: CO= 108 Lím< 400 | | Propano: C3H8= 1 Lím< 25
+Hidrógeno: H2= 5 Lím< Propileno: C3H6= 3 Lím< 25
+Metano: CH4= 2 Lím<
+
+      
+  
+     
+
+ 
+ 
+ 
+ 
+
+TGC= CO (Lt): á
+TGC-CO= Lím< 201 nTG (cc): 0.84
+S(C1-C2)= 2 Lím< 151 PTG (atm): 46
+
+   
+  
+
+RELACIONES:
+
+   
+     
+     
+      
+ 
+  
+
+CH4/H2: C2H4/C2H6: 0.00 | %H2: 71.43
+C2H2/CH4: 0.00 C2H4/C3H6: 0.00 %CH4: 28.57
+C2H2/C2H4: 0.00 C3H6/C3H8: %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 0.00
+C2H4/CH4: 0.00 CO2/CO: 15.73 %C2H2: 0,00
+
+  
+  
+
+  
+
+C2H6/CH4: N2/02:
+
+   
+  
+
+   
+
+    
+ 
+
+ 
+ 
+
+TGC = CO+H2+CH4+C2H5+C02H4+C2H2 = GAS(S(C1-C2)+H2:100
+S(C1-C2) = CH4+C2H5+C2H4+C2H2 = Presión Total Gas
+
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente. -Aire en su interior.
+
+  
+  
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+
+       
+   
+  
+
+SITUACION ACTUAL:
+-El transformador puede continuar servicio.
+
+ACCION A SEGUIR:
+-Analizar al cabo de un año.
+“Indicar régimen de carga.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval,
+
+ARQUO
+rgio Palaciosiv. .
+
+Aprobó
+
+ 
+

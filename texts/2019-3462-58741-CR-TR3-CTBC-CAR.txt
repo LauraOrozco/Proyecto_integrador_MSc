@@ -1,0 +1,176 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería. Fono:(2)29598901
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+ID. EQUIPO: CDBC Fase N*2 (Autotransf. ATR-3 GE N* 84189)
+
+FECHA: 02/05/2019
+EQUIPO / DIAGNOSTICO
+03462 058741
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 75 MVA FECHA MUESTREO: 02/04/2019
+VOLTAJE: 220/110/13.8 kv FECHA RECEPCION: 08/04/2019
+LUGAR: S/E Cardones FECHA ANALISIS: 22/04/2019
+DIAGNOSTICO ANTERIOR: — 014330 AÑO DE FABRICACION: 1980
+FECHA: 17/03/2005 ULTIMO DESGASIFICADO: — 1981
+N“ ORDEN TRABAJO: —5401 REGIMEN DE CARGA: 43 %
+TIPO EQUIPO: Cambiador de derivaciones bajo carga. TEMPERATURA ACEITE: 36.5 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: - L
+VOL. MUESTRA: - mL DENSIDAD: 0.875 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 54899 Etano: C2H6= 1
+Oxígeno: 02= 3644 Etileno: C2H4= 60
+Dioxido de Carbono: CO2= 1867 Acetileno: C2H2= 456
+Monoxido de Carbono: CO= 237 Propano: C3H8= 1
+Hidrógeno: H2= 907 Propileno: C3H6= 8
+Metano: CH4= 50
+TGC= 1711 TG (%): 6.21 CO (L): 0.00
+TGC-CO= 1474 TEC (%): 0.17 nTG (mL): 0.93
+S(C1-C2)= 567 PTG (atm): 0.56
+RELACIONES:
+CH4/H2: 0.06 C2H4/C2H6: 60.00 %H2: 61.53
+C2H2/CH4: 9.12 C2H4/C3H6: 7.50 %CH4: 3.39
+C2H2/C2H4: 7.60 C3H6/C3H8: 8.00 %C2H6: 0.07
+C2H2/C2H6: 456.00 %C2H4: 4.07
+C2H4/CH4: 1.20 CO2/CO: 7.88 %C2H2: 30.94
+C2H6/CH4: 0.02 N2/02: 15.07
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 YoGAS = GAS/A(S(C1-C2)+H2)x100
+S(C1-C2)  =CH4+C2H5+C2H4+C2H2 PTG = Presión Total Gas
+
+ 
+
+ 
+
+DIAGNOSTICO PRINCIPAL:
+
+ 
+
+ 
+
+Gases predominantes: C2H2 + C2H4 + CH4 =
+C2H2: 80.6%
+C2H4: 10.6%
+CH4: 8.8%
+“Sin sobrecalentamiento interno. Operación normal.
+
+566.0 [ppm(v/v)] = 100 %
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-El CDBC puede continuar en servicio.
+
+ 
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+
+Analizar al cabo de un año. Se recomienda la mantención
+cada 50.000 operaciones o cada cuatro años, lo que ocurra
+primero si no cuenta con unidad de filtrado. Indicar número
+de operaciones CDBC.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+ 
+
+Jan endez.
+
+Jecutó
+

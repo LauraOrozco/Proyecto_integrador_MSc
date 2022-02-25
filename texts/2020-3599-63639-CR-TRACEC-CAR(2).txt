@@ -1,0 +1,164 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería. Fono:(2)29598901
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 24/03/2020
+. EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador TAG NO 18 FERRANTI PACKARD NO 90058-1 03599 063639
+POT. MAXIMA: 80 MVA FECHA MUESTREO: 13/03/2020
+VOLTAJE: 220/154 kv FECHA RECEPCION: 17/03/2020
+LUGAR: S/E Cardones FECHA ANALISIS: 23/03/2020
+DIAGNOSTICO ANTERIOR: — 044512 AÑO DE FABRICACION: 2005
+FECHA: 04/03/2016 ULTIMO DESGASIFICADO: 04/2005
+N* ORDEN TRABAJO: —6551 REGIMEN DE CARGA: 0 %
+TIPO EQUIPO: Hermético c/colchon de N2 y CDBC sellado. TEMPERATURA ACEITE: 23 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 83279 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 77459 Lím< 100000 | Etano: C2H6= 2  Lím< 247
+Oxígeno: 02= 6961 Lím< 5000 | | Etileno: C2H4= 17 Lím< 50
+Dioxido de Carbono: CO2= 1254 Lím< 4000 | | Acetileno: C2H2= 1 Lím< 1
+Monoxido de Carbono: CO= 114 Lím< 400 | | Propano: C3H8= D  Lím< 25
+Hidrógeno: H2= 5 Lím< 118 | | Propileno: C3H6= 3 Lím< 25
+Metano: CH4= 3 Lím< 50
+TGC= 142 Lím< 866 | | TG (%): 8,58 CO (L): 9,50
+TGC-CO= 28 Lím< 466 | | TGC (%): 0,01 nTG (mL): 1,29
+S(C1-C2)= 23 Lím< 348 PTG (atm): 0,77
+RELACIONES:
+CH4/H2: 0,60 C2H4/C2H6: 8,50 0% H2: 17,86
+C2H2/CH4: 0,33 C2H4/C3H6: 5,67 %CH4: 10,71
+C2H2/C2H4: 0,06 C3H6/C3H8: 0,00 %C2H6: 7,14
+C2H2/C2H6: 0,50 %C2H4: 60,71
+C2H4/CH4: 5,67 CO2/CO: 11,00 %C2H2: 3,57
+C2H6/CH4: 0,67 N2/02: 11,13
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+
+-Muestra tomada por Transelec S.A., a autotransformador fuera de servicio.
+-Se aprecia una concentración de Acetileno (C2H2) sobre su límite, gas indicativo de arco eléctrico.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-Autotransformador apto para continuar en servicio.
+
+ 
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+-Analizar al cabo de 48 horas después de energizado.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+    
+
+10 Palacios V.
+Aprobó
+
+Janet Mendez.
+Ejecutó
+

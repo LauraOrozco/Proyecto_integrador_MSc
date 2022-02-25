@@ -1,0 +1,62 @@
+ 
+
+ 
+
+ 
+
+JORPA INGENIERÍA S.A. RL-026 Versión 3 ,
+| Servicios de Ingeniería "l em E
+Fqnos: (2)5557761 — 5542670 / Fax: (2) 5561876 | D< |] |
+Dresden N* 4672 — a Miguel == Santiago | ANALISIS DE AZUFRE CORROSIVO | | y |
+EMPRESA: —TRANSELEC S.A... o FECHA: . 23/12/2010
+Or: 716-10 EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Transformador Rhona NO 36516 _4869 1139
+POT. MAXIMA: 10 MVA ¡FECHA MUESTREO: 02/12/2010
+VOLTAJE: 110/23 kv ¡FECHA RECEPCION: 07/12/2010
+LUGAR: S/E Vallenar [FECHA ANÁLISIS: 23/12/2010
+[DIAGNÓST. ICO ANTERIOR: — 1056 ¡AÑO FABRICACION: 2007
+¡FECHA: 06/09/2010 ¡PUNTO MUESTREO: nivel inferior
+|
+PRUEBA | UNIDAD MÉTODO RESULTADO LIMITE
+| |
+" |
+Azufre Corrosivo n/a ASTM 2 1275-06 No Corrosivo No Corrosivo |
+método B |
+Nivel de deslustre n/a ASTM D 130 1b Hasta 3 b deslustre profundo
+|
+Azufre Corrosivo | n/a TEC 62535-08 No Corrosivo No Corrosivo
+
+¡OBSERVACIONES:
+
+- — Por el método ASTM las láminas son de color naranja oscuro.
+
+- — Por el método IEC el conductor es de color naranja oscuro, el papel no presenta depósitos metálicos.
+- Muestra tomada por Transelec S.A.
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+¡- Aceite en buenas condiciones para servicio. - Analizar al cabo de un año.
+
+Clasificación de nivel de deslustre de la tira de cobre de acuerdo a ASTM D 1275-06
+
+ 
+
+Clasificación ¡Descripción ¡Designación
+Tira recién pulida ¡No se proporciona
+1 a. naranja claro, similar a la tira recién pulida Deslustre leve |
+| [b. naranja oscuro
+12 ¡a. rojo claro Deslustre moderado
+| b. lavanda
+c. multicoloreado con lavanda azul o plata, o ambos, sobre puesto en rojo claro
+d. plateado
+¡e. bronceado o dorado... |
+3 a. magenta en tira bronceada Deslustre profundo
+2 |b. multicoloreado con rojo y verde, pero no gris o Y
+4 la. negro transparente, gris o café oscuro con partes verdes ¡Corrosión |
+
+'b. grafito o negro lustroso
+c. negro brillante
+
+ 
+
+  
+

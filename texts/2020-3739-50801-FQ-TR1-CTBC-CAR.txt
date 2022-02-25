@@ -1,0 +1,123 @@
+ 
+
+JORPA INGENIERIA S.A.
+Servicios de Ingeniería
+
+Fonos: (2) 29596900 29598913 CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+esden N? 4688 --4672 - San Miguel - Santiago] MINERAL DE CAMBIADOR DE DERIVACIONES
+
+CHILE
+1/1
+
+ 
+
+RL-17 V2019 R1
+
+ 
+
+BAJO CARGA
+
+JORPA
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A.
+
+ID. EQUIPO: CDBC N* 232075013 (Autotransf. ATR-1 ALSTHOM NO 21744301)
+
+FECHA:
+
+26/06/2020
+
+EQUIPO / DIAGNÓSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3739 50801
+POT. MÁXIMA: 75 MVA [FECHA MUESTREO: 10/06/2020
+VOLTAJE: 220 kv FECHA RECEPCIÓN: 19/06/2020
+LUGAR: S/E Cardones FECHA ANÁLISIS: 25/06/2020
+DIAGNÓSTICO ANTERIOR: — 49674 AÑO FABRICACIÓN: 1979
+FECHA: 14/03/2020 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6805 REGIMEN DE CARGA: 53 %
+MODELO : MAG 27 TEMPERATURA ACEITE: No informado oc
+LUGAR DE MUESTREO: Nivel inferior CDBC HUMEDAD RELATIVA No informado %
+VOL. MUESTRA: 1000 mL VOL. ACEITE CDBC: 300 L
+Resultado Límites nuevo Conexión al Conexión al | Conexión al
+Prueba UNIDAD | Método ASTM 25 C antes de t terminal < | terminal >
+
+energizar neutro 69 kV 69 kV
+Humedad mg/kg D 1533-12 11 <10 <30* <30* <30*
+Rigidez dieléctrica 2.0 mm. kV D 1816-12 36 255 227 >35 >45
+Rigidez dieléctrica 2.5 mm. kV VDE 0370 - >70%* 240 >40 >40
+Densidad g/mL D 1298-12 0,875 - - - -
+Aspecto visual D 1524-10 claro y brillante - - - -
+
+amarillo claro
+
+OBSERVACIONES:
+
+-  Rigidez dieléctrica fuera de límite para aceite en servicio.
+
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+ 
+
+SITUACIÓN ACTUAL:
+- Aceite en mínimas condiciones para servicio.
+
+ACCIÓN A SEGUIR:
+- Cambiar el aceite.
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Esla aiii?
+
+Carola Núñez D.
+Aprobó
+
+Cristian/Aramburu R.
+
+A
+
+evisó
+
+ 
+

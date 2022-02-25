@@ -1,0 +1,160 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería. Fono:(2)29598901
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+RL-006 Versión: 9
+
+ 
+
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+ID. EQUIPO: Transformador TAG TR-2 RHONA N* 36516
+
+FECHA: 15/04/2020
+EQUIPO / DIAGNOSTICO
+04869 063879
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 10 MVA FECHA MUESTREO: 23/03/2020
+VOLTAJE: 110/13.8 kv FECHA RECEPCION: 03/04/2020
+LUGAR: S/E Vallenar FECHA ANALISIS: 14/04/2020
+DIAGNOSTICO ANTERIOR: — (058167 AÑO DE FABRICACION: 2007
+FECHA: 19/03/2019 ULTIMO DESGASIFICADO: — 30/08/2010
+N2 ORDEN TRABAJO: 6610 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: 41 “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 11085 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 71629 Lím< 50000 | Etano: C2H6= 1 Lím< 50
+Oxígeno: 02= 14279 Lím< 2500 | | Etileno: C2H4= 6 Lím< 50
+Dioxido de Carbono: CO2= 2536 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 270 Lím< 400 | | Propano: C3H8= D  Lím< 25
+Hidrógeno: H2= 16 Lím< 50 | | Propileno: C3H6= 3 Lím< 25
+Metano: CH4= 2 Lím< 50
+TGC= 295 Lím< 601 | | TG (%): 8,87 CO (L): 3,00
+TGC-CO= 25 Lím< 201 | | TGC(%): 0,03 nTG (mL): 1,33
+S(C1-C2)= 9 Lím< 151 PTG (atm): 0,75
+RELACIONES:
+CH4/H2: 0,13 C2H4/C2H6: 6,00 0% H2: 64,00
+C2H2/CH4: 0,00 C2H4/C3H6: 2,00 %CH4: 8,00
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 4,00
+C2H2/C2H6: 0,00 %C2H4: 24,00
+C2H4/CH4: 3,00 CO2/CO: 9,39 %C2H2: 0,00
+C2H6/CH4: 0,50 N2/02: 5,02
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente. -Aire en su interior.
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El transformador puede continuar servicio. -Analizar al cabo de un año.
+-Indicar régimen de carga.
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+Janét)Mendez.
+
+ 
+
+Ejecutó
+

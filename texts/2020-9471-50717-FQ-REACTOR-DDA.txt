@@ -1,0 +1,119 @@
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+iresden N* 4672-4688 San Miguel — Santiago
+
+ 
+
+RL-13B V2020 R1
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHILE MINERAL EN EQUIPOS CLASE > 230 kV
+1/1
+EMPRESA: —TRANSELEC S.A. FECHA: 19/06/2020
+. EQUIPO / DIAGNÓSTICO
+. o
+ID. EQUIPO: Reactancia GENERAL ELECTRIC N% 84382 9471 50717
+POT. MÁXIMA: 30 MVA [FECHA MUESTREO: 12/06/2020
+VOLTAJE: 220 kv FECHA RECEPCIÓN: 17/06/2020
+LUGAR: S/E Diego de Almagro FECHA ANÁLISIS: 19/06/2020
+DIAGNÓSTICO ANTERIOR: 46067 AÑO FABRICACIÓN: 1980
+FECHA: 18/02/2019 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6805 REGIMEN DE CARGA: No informado %
+TIPO DE EQUIPO: con respiradero libre "TEMPERATURA ACEITE: 51 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 42 %
+VOL. MUESTRA: 1000 mL |[VOL. ACEITE ESTANQUE: 25300 L
+LÍMITES NUEVO :
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE VICIO.
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 4 <10 <20
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 47 > 60 2 50
+Tensión interfacial mN/m D 971-12 22 > 38 >32
+Número neutralización mgKOH/g D 974-14 0,02 <0,03 <0,10
+Factor de potencia 100 “C % D 924-15 4,598 <0,30 <5,0
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 4,6E+11 - -
+Densidad g/mL D 1298-12 0,857 - -
+Color - D 1500-07 13,0 <0,5 -
+Saturación % - 2,20 - -
+H/PS % - 0,15 - -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+
+marrón claro
+
+ 
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A.
+-  Rigidez dieléctrica y tensión interfacial fuera de límite para aceite en servicio.
+
+- En base al % de saturación relativa del aceite, se estima que el aislamiento sólido se encuentra seco.
+
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment”
+
+ 
+
+SITUACIÓN ACTUAL:
+
+- Aceite en mínimas condiciones para servicio.
+
+ACCIÓN A SEGUIR:
+
+ 
+
+- Realizar tratamiento de secado, filtrado y desgasificado.
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Cela aiii?
+Carola Núñez D.
+Aprobó
+
+AN
+
+gAÁA
+
+Cristian/Aramburu R.
+'evisó
+
+ 
+

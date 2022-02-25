@@ -1,0 +1,128 @@
+ 
+
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+
+JORPA INGENIERÍA S.A.
+
+Dresden N* 4672-4688 San Miguel — Santiago
+
+ 
+
+RL-13B V2019 R1
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+
+JORPA
+
+ 
+
+ 
+
+ 
+
+ID. EQUIPO: Reactor TAG R-1 GENERAL ELECTRIC NO 84382
+
+CHILE MINERAL EN EQUIPOS CLASE > 230 kV
+1/1
+EMPRESA: —TRANSELEC S.A. FECHA: 12/03/2020
+
+EQUIPO / DIAGNÓSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amarillo oscuro
+
+37 49516
+POT. MÁXIMA: 30 MVA [FECHA MUESTREO: 03/03/2020
+VOLTAJE: 242 kv FECHA RECEPCIÓN: 09/03/2020
+LUGAR: S/E Diego de Almagro FECHA ANÁLISIS: 11/03/2020
+DIAGNOSTICO ANTERIOR: 28423 AÑO FABRICACIÓN: 1980
+FECHA: 07/07/2015 ULTIMO DESGASIFICADO: 01/08/1981
+NO ORDEN DE TRABAJO: 6513 REGIMEN DE CARGA: 100 %
+"TIPO DE EQUIPO: Hermético c/bolsa de goma "TEMPERATURA ACEITE: 52 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 23 %
+VOL. MUESTRA: 1000 mL [VOL. ACEITE ESTANQUE: 29660 L
+LÍMITES NUEVO ;
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE CIO
+ENERGIZAR
+Humedad mg/kg D 1533-12 5 <10 <20
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 47 > 60 2 50
+Tensión interfacial mN/m D 971-12 22 > 38 >32
+Número neutralización mgKOH/g D 974-14 0,04 <0,03 <0,10
+Factor de potencia 100 “C % D 924-15 3,675 <0,30 <5,0
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 5,5E+11 - -
+Densidad g/mL D 1298-12 0,854 - -
+Color - D 1500-07 2,5 <0,5 -
+Saturación % - 2,30 - -
+H/PS % - 0,14 - -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+
+ 
+
+OBSERVACIONES:
+
+-  Rigidez dieléctrica y tensión interfacial fuera de límite para aceite en servicio.
+- Muestra tomada por Transelec S.A.
+- En base al % de saturación relativa del aceite, se estima que el aislamiento sólido se encuentra seco.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL:
+
+- Aceite con degradación leve
+
+ 
+
+- Aceite en mínimas condiciones para servicio.
+
+ACCIÓN A SEGUIR:
+- Analizar nuevamente para
+dieléctrica.
+
+ 
+
+verificar valor de rigidez
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Cela huájic)
+Carola Núñez D.
+Aprobó
+
+N
+A
+
+LA
+
+Cristian/Aramburu R.
+evisó
+
+ 
+
+ 
+

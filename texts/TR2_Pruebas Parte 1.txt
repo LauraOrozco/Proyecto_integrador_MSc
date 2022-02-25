@@ -1,0 +1,369 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+| y AA
+
+1 € REGISTRO DE EJECUCION DE MANTENIMIENTO transe Lec
+
+l cobra EMPRESA MANDANTE
+CAMBIADOR DE TOMAS SIN CARGA DE TRANSFORMADOR DE PODER - NORMAL | Unidad de Obra S872730V
+To FECHA EJECUCION 23/06/2013 INFORME N'| [PEDIDO SAP] 4700019349
+
+E GERENCIA ZONAL] Norte Chico Coquimbo SUBESTACION| Vallenar
+
+1á DESIGNACION UNILINEAL| TR2 REALIZADO POR] Erasmo Araya Antiquera
+
+E INSPECTOR DE TRANSELEC| Jorge Cabrera Cubillo
+
+18 CARACTERISTICAS DEL EQUIPO
+
+lz MARCA Rhona o
+|< TENSIONES NOMINALES EN [K! 110 N? DE SERIE
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+| ÍTEM
+
+ 
+
+ 
+
+OPERACIÓN CAMBIADOR DE TOMAS
+
+ 
+
+Posición
+TAP N* 1
+Observaciones
+
+20
+
+ 
+
+   
+
+ 
+
+DESCRIPCIÓN
+
+ 
+
+ 
+
+Toma encontrada TAP N91 Toma dejada TAP N01 Se realizan las medicas eléctricas
+
+10 [de acuerdo a la unidad de obra en el TAP encontrado, no se realizan cambios de TAP.
+
+ 
+
+ 
+
+ 
+
+MEDIDA DE LA RAZÓN DE TRANSFORMACIÓN (EN LA POSICIÓN DE TRABAJO DEL CAMBIADOR)
+
+    
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+   
+
+ 
+
+ 
+
+MEDIDA DE LA RESISTENCIA ÓHMICA DE LOS ENROLLADOS (EN LA POSICIÓN DE TRABAJO DEL CAMBIADOR)
+
+ 
+    
+
+    
+
+ 
+
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Medidor de resistecias ohmica de los enrrollados
+
+Posición Temperatura Ambiante en *C
+TAP EA lo ll
+30 E
+EQUIPOS DE PRUEBAS Y MEDIDAS EMPLEADOS
+Descripcion N? de Serie | Certificado Vigente
+Medidor de razon de transformacion oK
+
+ 
+
+DLRO 10X
+
+ 
+ 
+   
+
+ 
+
+IÍTEMES DEL MANTENIMIENTO
+
+ 
+ 
+
+ 
+
+OBSERVACIONES GENERALES
+normales para este tipo de equipos.
+
+¡Se efectuaron pruebas eléctricas de acuerdo a la unidad de obra del CTSC, pruebas efectuadas
+
+ 
+
+Equipo sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a Jefe Técnico Contratista Inspector de TRANSELEC
+3 Equipo normal y sin restricciones Xx
+2 Equipo con restricciones u observaciones ( ver observaciones )
+A
+| 2 Equipo no puede entrar al servicio | [
+1 8 Equipo en observacion durante horas
+[ REALIZAD! APROBADO POR CIBIBO POR LEC)
+| FIRMA] A 06
+| NOMBRE iquera Irigi 4
+CARGO Mando de brigada Jefe|Tecni
+FECHA] 23/06/2013 23/08/2013
+mietian Sepilv”
+Ci isuan »t P
+
+  
+    
+
+TRANS
+
+ 
+     
+    
+    
+

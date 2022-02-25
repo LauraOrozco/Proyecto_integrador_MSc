@@ -1,0 +1,154 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598901
+
+Dresden 46884672 San igual ANALISIS POR GASES DISUELTOS
+
+Santiago - CHILE
+Hoja 1 de 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. FECHA: 24/03/2020
+
+ID. EQUIPO: Autotransformador TAG ATR-1 ALSTHOM NO 217443-01 as / O TICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 75 MVA FECHA MUESTREO: 13/03/2020
+VOLTAJE: 220/110/13.8 kv FECHA RECEPCION: 17/03/2020
+LUGAR: S/E Cardones FECHA ANALISIS: 23/03/2020
+DIAGNOSTICO ANTERIOR: — (058739 AÑO DE FABRICACION: 1979
+FECHA: 02/05/2019 ULTIMO DESGASIFICADO: 07/10/2014
+N* ORDEN TRABAJO: —6551 REGIMEN DE CARGA: 53 %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 50 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 34500 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 58410 Lím< 50000 | Etano: C2H6= 4 Lím< 50
+Oxígeno: 02= 4687 Lím< 2500 | | Etileno: C2H4= 5 Lím< 50
+Dioxido de Carbono: CO2= 1586 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 283 Lím< 400 | | Propano: C3H8= 4  Lím< 25
+Hidrógeno: H2= 9 Lím< 50 | | Propileno: C3H6= 6 Lím< 25
+Metano: CH4= 13 Lím< 50
+TGC= 314 Lím< 601 | | TG (%): 6,50 CO (L): 9,81
+TGC-CO= 31 Lím< 201 | | TGC(%): 0,03 nTG (mL): 0,98
+S(C1-C2)= 22 Lím< 151 PTG (atm): 0,58
+RELACIONES:
+CH4/H2: 1,44 C2H4/C2H6: 1,25 %H2: 29,03
+C2H2/CH4: 0,00 C2H4/C3H6: 0,83 %CH4: 41,94
+C2H2/C2H4: 0,00 C3H6/C3H8: 1,50 %C2H6: 12,90
+C2H2/C2H6: 0,00 %C2H4: 16,13
+C2H4/CH4: 0,38 CO2/CO: 5,60 %C2H2: 0,00
+C2H6/CH4: 0,31 N2/02: 12,46
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-Los gases subrayados que están sobre el límite no indican ciertamente la evolución de una falla incipiente.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El autotransformador puede continuar en servicio. -Analizar al cabo de un año.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sergio Palacios V. Janet Mendez.
+Aprobó Ejecutó
+
