@@ -1,0 +1,169 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598901
+
+Dresden N? 4658-4672 San-Miguel - ANALISIS POR GASES DISUELTOS
+
+Santiago - CHILE
+Hoja 1 de 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. FECHA: 15/02/2019
+
+ID. EQUIPO: CDBC MR N*146543 (Transf. TAG T-17 GEC ALSTHOM N* 31K3998/1) O O
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 10 MVA FECHA MUESTREO: 29/01/2019
+VOLTAJE: 220 kv FECHA RECEPCION: 04/02/2019
+LUGAR: S/E Encuentro FECHA ANALISIS: 14/04/2019
+DIAGNOSTICO ANTERIOR: — 027169 AÑO DE FABRICACION: 1998
+FECHA: 10/09/2010 ULTIMO DESGASIFICADO: 02/2000
+N* ORDEN TRABAJO: — 5122 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Cambiador de derivaciones bajo carga. TEMPERATURA ACEITE: 36 “e
+LUGAR MUESTREO: Nivel inferior CDBC VOL. ACEITE ESTANQUE: x= L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.875 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 58006 Etano: C2H6= 20
+Oxígeno: 02= 7342 Etileno: C2H4= 427
+Dioxido de Carbono: CO2= 1093 Acetileno: C2H2= 4684
+Monoxido de Carbono: CO= 294 Propano: C3H8= 2
+Hidrógeno: H2= 6646 Propileno: C3H6= 77
+Metano: CH4= 380
+TGC= 12451 TG (%): 7.90 CO (L): 0.00
+TGC-CO= 12157 TEC (%): 1.25 nTG (mL): 1.18
+S(C1-C2)= 5511 PTG (atm): 0.69
+RELACIONES:
+CH4/H2: 0.06 C2H4/C2H6: 21.35 %H2: 54.67
+C2H2/CH4: 12.33 C2H4/C3H6: dida %CH4: 3.13
+C2H2/C2H4: 10.97 C3H6/C3H8: 38.50 %C2H6: 0.16
+C2H2/C2H6: 234.20 %C2H4: 3.51
+C2H4/CH4: 1.12 CO2/CO: 3.72 %C2H2: 38.53
+C2H6/CH4: 0.05 N2/02: 7.90
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 YGAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+
+ 
+
+ 
+
+ 
+
+ 
+
+DIAGNOSTICO PRINCIPAL:
+
+Gases predominantes: C2H2 + C2H4 + CH4 = 5491.0 [ppm(v/v)] = 100 %
+C2H2: 85.3%
+
+C2H4: 7.8%
+
+CH4 : 6.9%
+
+“Sin sobrecalentamiento interno. Operación normal.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-N0 de operaciones de CDBC: 45046 modelo 1XVIM350Y.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+
+-El CDBC puede continuar en servicio. -Analizar al cabo de un año.
+
+-Se recomienda la mantención cada 50.000 operaciones o
+cada cuatro años, lo que ocurra primero si no cuenta con
+unidad de filtrado.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+   
+
+Sergio Palacios V. Janet Mendez.
+Aprobó Ejecutó
+

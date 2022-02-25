@@ -1,0 +1,100 @@
+ 
+
+JORPA INGENIERÍA S.A. RL-35 V2020 Ri
+
+ 
+
+ 
+
+ 
+
+ 
+
+A O a0O POO8O1S CARACTERÍSTICAS FÍSICO QUÍMICAS J R P
+
+resden N 4688 - 4672 — San Miguel -Santiago|— ACEITE MINERAL DE CAMBIADOR DE A
+al DERIVACIONES BAJO CARGA
+
+EMPRESA: —TRANSELEC S.A. FECHA: 28/08/2020
+
+ID. EQUIPO: CDBC FP NO 29043-1 (Autotransf. FERRANTI PACKARD NO 90058-1) EQUIPO / DIAGNÓSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12869 51569
+POT. MÁXIMA: 80 MVA  |FECHA MUESTREO: 03/08/2020
+VOLTAJE: 220 kv FECHA RECEPCIÓN: 05/08/2020
+LUGAR: S/E Cardones FECHA ANÁLISIS: 27/08/2020
+DIAGNÓSTICO ANTERIOR: — 49668 AÑO FABRICACIÓN: 1980
+FECHA: 02/04/2020 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6948 REGIMEN DE CARGA: 0 %
+MODELO : 138RT32 "TEMPERATURA ACEITE: No informado “Cc
+LUGAR DE MUESTREO: Nivel inferior CDBC HUMEDAD RELATIVA No informado %
+VOL. MUESTRA: 1000 mL__ |¡VOL. ACEITE CDBC: 3220 L
+Resultad Límites C ión al Conexión al | Conexión al
+Prueba UNIDAD | Método ASTM Ss oe o nuevo antes neutro 2! | terminal < | terminal >
+
+de energizar | "SU“o 69 kV 69 kV
+Humedad mg/kg D 1533-12 13 <10 <30* <30* <30*
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 31 255 227 235 245
+Rigidez dieléctrica 2.5 mm. kv VDE 0370 - >70* 240 240 240
+Densidad g/mL D 1298-12 0,889 - - - -
+Aspecto visual D 1524-10 claro y brillante - - - -
+
+amarillo
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A., a transformador fuera de servicio.
+-  Rigidez dieléctrica fuera de límite para CDBC conectado al terminal BT y AT.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+- Aceite en mínimas condiciones para servicio. - Cambiar el aceite.
+
+ 
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Erclo Mii) DA
+
+Carola Núñez D. Cristian/Aramburu R.
+
+Aprobó 'evisó
+
+ 
+

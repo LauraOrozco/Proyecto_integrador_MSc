@@ -1,0 +1,168 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 01/06/2019
+. o EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador TAG ATR-2 ABB N* 89352 03689 058649
+POT. MAXIMA: 90 MVA FECHA MUESTREO: 08/04/2019
+VOLTAJE: 220/115/13.2 kv FECHA RECEPCION: 10/04/2019
+LUGAR: S/E Maitencillo FECHA ANALISIS: 24/04/2019
+DIAGNOSTICO ANTERIOR: — 045299 AÑO DE FABRICACION: 2005
+FECHA: 11/05/2016 ULTIMO DESGASIFICADO: — 07/2006
+N* ORDEN TRABAJO: — 3659 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 34 “Cc
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 39306 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.865 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 24422 Lím< 50000 | Etano: C2H6= D  Lím< 50
+Oxígeno: 02= 3343  Lím< 2500 | | Etileno: C2H4= 1 Lím< 50
+Dioxido de Carbono: CO2= 1749 Lím< 4000 | | Acetileno: C2H2= 1 Lím< 1
+Monoxido de Carbono: CO= 202 Lím< 400 | Propano: C3H8= D Lím< 25
+Hidrógeno: H2= 8 Lím< 50 | | Propileno: C3H6= 2 Lím< 25
+Metano: CH4= 5 Lím< 50
+TGC= 217 Lím< 601 | | TG (%): 2.97 CO (L): 7.99
+TGC-CO= 15 Lím< 201 | | TGC(%): 0.02 nTG (mL): 0.45
+S(C1-C2)= 7 Lím< 151 PTG (atm): 0.27
+RELACIONES:
+CH4/H2: 0.63 C2H4/C2H6: 0.00 %H2: 53.33
+C2H2/CH4: 0.20 C2H4/C3H6: 0.50 %CH4: 33.33
+C2H2/C2H4: 1.00 C3H6/C3H8: 0.00 %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 6.67
+C2H4/CH4: 0.20 CO2/CO: 8.66 %C2H2: 6.67
+C2H6/CH4: 0.00 N2/02: 7.31
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+s(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+“Con respecto al análisis anterior la concentración de Acetileno (C2H2) se ha mantenido estable.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+
+ 
+
+-El autotransformador puede continuar en servicio.
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+
+-Analizar al cabo de tres meses para evaluar la concentración
+
+de Acetileno (C2H2).
+-Indicar régimen de carga.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+ 
+
+Aprobó
+
+JanetMendez.
+Ejecutó
+

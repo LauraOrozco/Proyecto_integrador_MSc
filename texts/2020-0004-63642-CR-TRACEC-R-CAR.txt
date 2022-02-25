@@ -1,0 +1,171 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería. Fono:(2)29598901
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+RL-006 Versión: 9
+
+ 
+
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A.
+ID. EQUIPO: Autotransformador T-Reserva ACEC N% 12TF15608-41752
+
+FECHA: 24/03/2020
+EQUIPO / DIAGNOSTICO
+00004 063642
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 42 MVA FECHA MUESTREO: 13/03/2020
+VOLTAJE: 154/110/13.8 kv FECHA RECEPCION: 17/03/2020
+LUGAR: S/E Cardones FECHA ANALISIS: 23/03/2020
+DIAGNOSTICO ANTERIOR: — 041729 AÑO DE FABRICACION: 1952
+FECHA: 28/05/2015 ULTIMO DESGASIFICADO: 03/2005
+N* ORDEN TRABAJO: —6551 REGIMEN DE CARGA: 0 %
+TIPO EQUIPO: Con respiradero libre. TEMPERATURA ACEITE: 24 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 18000 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 74661  Lím< 75000 | | Etano: C2H6= D  Lím< 30
+Oxígeno: 02= 22687 Lím< 25000 | Etileno: C2H4= 3 Lím< 35
+Dioxido de Carbono: CO2= 1009 Lím< 10000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 130 Lím< 1000 | | Propano: C3H8= D Lím< 25
+Hidrógeno: H2= 12 Lím< 35 | | Propileno: C3H6= D Lím< 25
+Metano: CH4= 1 Lím< 35
+TGC= 146 Lím< 1136 | | TG (%): 9,85 CO (L): 2,34
+TGC-CO= 16 Lím< 136 | | TGC (%): 0,01 nTG (mL): 1,48
+S(C1-C2)= 4 Lím< 101 PTG (atm): 0,83
+RELACIONES:
+CH4/H2: 0,08 C2H4/C2H6: 0,00 %H2: 75,00
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 6,25
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 18,75
+C2H4/CH4: 3,00 CO2/CO: 7,76 %C2H2: 0,00
+C2H6/CH4: 0,00 N2/02: 3,29
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+
+-Muestra tomada por Transelec S.A., a autotransformador fuera de servicio.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+
+ 
+
+-Autotransformador apto para continuar en servicio.
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+
+-Analizar al cabo de 48 horas después de energizado.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+    
+
+Sergio Palacios V.
+Aprobó
+
+Janet Mendez.
+Ejecutó
+

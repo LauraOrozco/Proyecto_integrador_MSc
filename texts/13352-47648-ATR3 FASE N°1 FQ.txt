@@ -1,0 +1,122 @@
+ 
+
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+resden N* 4672-4688 San Miguel — Santiago
+CHILE
+1/1
+
+ 
+
+RL-13 V2019 R1
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+MINERAL EN EQUIPOS CLASE > 230 kV
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A.
+
+ID. EQUIPO: Autotransformador TAG ATR3-Fase 1 SIEMENS N*892016
+
+FECHA:
+
+09/12/2019
+
+EQUIPO / DIAGNÓSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13352 47648
+POT. MAXIMA: 250 MVA  |FECHA MUESTREO: 22/11/2019
+VOLTAJE: 5251V3/230V3/66 kV [FECHA RECEPCIÓN: 27/11/2019
+LUGAR: S/E Los Changos FECHA ANÁLISIS: 05/12/2019
+DIAGNOSTICO ANTERIOR: 47510 AÑO FABRICACIÓN: 2017
+FECHA: 04/12/2019 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6160 REGIMEN DE CARGA: 6,4 %
+TIPO DE EQUIPO: Hermético con bolsa de goma TEMPERATURA ACEITE: 48 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 42 %
+VOL. MUESTRA: 1000 mL VOL. ACEITE ESTANQUE: 64750 L
+LÍMITES NUEVO :
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE CIO.
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 5 <10 <20
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 80 > 60 > 50
+Tensión interfacial mN/m D 971-12 41 > 38 >32
+Número neutralización mgKOH/g D 974-14 <0,02 <0,03 <0,10
+Factor de potencia 25 “C % D 924-15 - <0,05 <0,5
+Factor de potencia 100 0C % D 924-15 0,346 <0,30 <5
+Resistividad volumétrica 25 0C ohm*cm D 1169-11 - - -
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 9,4 E+12 - -
+Densidad g/mL D 1298-12 0,871 - -
+Color D 1500-07 LO,5 <0,5 -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+
+amarillo claro
+
+ 
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL:
+
+- Aceite en buenas condiciones para servicio.
+
+ACCIÓN A SEGUIR:
+- Analizar al cabo de un año.
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+asclo /hiiin)
+Carola Núñez D.
+Aprobó
+
+MN
+
+Cristian Jarambara R.
+
+evisó
+
+ 
+

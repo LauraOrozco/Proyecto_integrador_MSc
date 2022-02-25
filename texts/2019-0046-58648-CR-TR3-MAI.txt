@@ -1,0 +1,176 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 13/05/2019
+. . EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Transformador TAG T-3 ALSTHOM SAVOISIENNE N* 217444-03 00046 058648
+POT. MAXIMA: 40 MVA FECHA MUESTREO: 8/04/2019
+VOLTAJE: 220/13.8 kv FECHA RECEPCION: 10/04/2019
+LUGAR: S/E Maitencillo FECHA ANALISIS: 24/04/2019
+DIAGNOSTICO ANTERIOR: — 045300 AÑO DE FABRICACION: 1980
+FECHA: 11/05/2016 ULTIMO DESGASIFICADO: 07/1980
+N% ORDEN TRABAJO: 5454 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: - “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 24900 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.885 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 53362 Lím< 50000 | Etano: C2H6= 132 Lím< 50
+Oxígeno: 02= 2542 Lím< 2500 | | Etileno: C2H4= 13 Lím< 50
+Dioxido de Carbono: CO2= 1451 Lím< 4000 | | Acetileno: C2H2= 1 Lím< 1
+Monoxido de Carbono: CO= 220 Lím< 400 | | Propano: C3H8= 150 Lím< 25
+Hidrógeno: H2= 9 Lím< 50 | | Propileno: C3H6= 44 Lím< 25
+Metano: CH4= 89 Lím< 50
+TGC= 464 Lím< 601 | | TG (%): 5.80 CO (L) 5.52
+TGC-CO= 244  Lím< 201 | | TGC(%): 0.05 nTG (mL): 0.87
+S(C1-C2)= 235 Lím< 151 PTG (atm): 0.52
+RELACIONES:
+CH4/H2: 9.89 C2H4/C2H6: 0.10 0% H2: 3.69
+C2H2/CH4: 0.01 C2H4/C3H6: 0.30 %CH4: 36.48
+C2H2/C2H4: 0.08 C3H6/C3H8: 0,29 %C2H6: 54.10
+C2H2/C2H6: 0.01 %C2H4: 5.33
+C2H4/CH4: 0.15 CO2/CO: 6.60 %C2H2: 0.41
+C2H6/CH4: 1.48 N2/02: 20.99
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+-Sobrecalentamiento local de 150 a 200 grad.C., probabilidad:
+90%
+“Sobrecalentamiento local de 200 a 300 grad.C., probabilidad:
+80%
+
+ 
+
+ 
+
+-Sin compromiso de la celulosa.
+-SEVERIDAD FALLA (%TGC): Pequeña.
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+-Con respecto al análisis anterior la concentración total de los gases de falla TGC-CO aumentó un 18%. Mientras que la
+concentración de Acetileno (C2H2) se ha mantenido sobre su límite.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-El transformador puede continuar en servicio.
+
+ 
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+
+-Analizar en un plazo no superior a tres meses para evaluar la
+concentración de Acetileno.
+
+-Indicar régimen de carga.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+ 
+   
+
+—Sergio'Palacios V.
+Aprobó
+
+Janet' Mendez.
+Ejecutó
+

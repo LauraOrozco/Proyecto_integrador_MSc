@@ -1,0 +1,55 @@
+JORPA INGENIERÍA S.A. y RL-012 Versión 7
+
+ 
+
+Servicios de Ingeniería > y E. bi A
+Fonos: (2) 29598900 - 29598913 í ¡ : PD y
+ración NE dara dERR don Moli <Sano56 CARACTERISTICAS FISICO QUIMICAS ACEITE | fi
+CHILE MINERAL EN EQUIPOS CLASE >69 A <230 kV |
+1/1 o Ñ | AA
+EMPRESA: — TRANSELEC S.A. o y FECHA: 11/09/2015
+1D. EQUIPO: Transformador TR-1 SINDELEN NO 7408001 EQUIPO.) DIAGNOSTICO
+a o 2191 29171
+POT. MÁXIMA: 10,0 MVA ¡FECHA MUESTREO: 10/09/2015
+¡VOLTAJE: 110/24-13,8 kv [FECHA RECEPCIÓN: 11/09/2015
+LUGAR: S/E Vallenar 0% ¡FECHA ANÁLISIS: 11/09/2015
+[DIAGNÓSTICO ANTERIOR: 28418 [AÑO FABRICACIÓN: 1974
+FECHA: 01/07/2015 [ULTIMO DESGASIFICADO: 09/2015
+NO ORDEN DE TRABAJO: 1605 REGIMEN DE CARGA: 60 %
+TIPO DE EQUIPO: con respiradero libre ¡TEMPERATURA ACEITE: 42 o.
+LUGAR DE MUESTREO: Nivel inferior estanque ¡HUMEDAD RELATIVA 22 %
+VOL. MUESTRA: 1000 o mL |VOL. ACEITE ESTANQUE: 7000 L
+| LÍMITES NUEVO :
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE | patatas
+ENERGIZAR
+Humedad mg/kg D 1533-12 6 <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 59 >52 >47
+Tensión interfacial dinas/cm D 971-12 43 >38 >30
+Número neutralización mgKOH/g D 974-12 <0,02 <0,015 <0,15
+Factor de potencia 200C % D 924-08 - <0,05 <0,5
+Factor de potencia 1000C % D 924-08 0,620 <0,40 <5
+|
+Resistividad volumétrica 200C ohm*cm D 1169-11 - E .
+|
+Resistividad volumétrica 1000C ohm*cm D 1169-11 6,4 E+12 E .
+Densidad g/mL D 1298-12 0,881 - -
+Color D 1500-07 2 <1 -
+Aspecto visual D 1524-10 claro y brillante claro y brillante claro y brillante
+o 0% amarillo oscuro
+OBSERVACIONES:
+- — Muestra tomada por Transelec S.A., al final del tratamiento de aceite.
+- Restos de muestra con descarte inmediato.
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment" Ñ
+SITUACIÓN ACTUAL: ¡ACCIÓN A SEGUIR:
+- Aceite en buenas condiciones para servicio. - Analizar al cabo de un año.
+|
+|
+|
+
+ 
+
+Alejan oyola E.
+Efectu
+
+ 
+

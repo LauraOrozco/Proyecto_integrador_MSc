@@ -1,0 +1,355 @@
+7. ESTADÍSTICAS DE ANÁLISIS ANTERIORES
+
+ 
+
+ 
+
+Equipo No: 2191 | ,
+Descripción Equipo: Transformador T-1 Sindelen No 7408001 O
+Potencia (MVA): 10
+Voltaje (kV): 110/24-13.8
+Tipo de Equipo: Con respiradero libre.
+
+Datos análisis anteriores:
+Análisis > 23247 20543 19911 18049 15982] E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fecha > | 27/06/2008| 12/09/2007| 29/06/2007|16/11/2006| 27/12/2005 136.0
+Nitrógeno N2 72192 908.8
+681.6;
+Oxigeno 02 11494 Aa EAT
+Anhídrido Carbónico cO2 2968 cera
+Monóxido de Carbono co 471.56 2% % A $ $ 19
+2 TGC (ppm)
+Hidrógeno H2
+Metano CH4 E a]
+Etano C2H6 100.5,
+Etileno C2H4 a
+Acetileno C2H2 40.2
+7 ld C3H8 0
+Fn =0 2 4 6 8 10
+
+ 
+
+ 
+
+ 
+
+.pileno C3H6 E e 7
+co Litros ; 5 sel ix d A
+CcOo2/C0 - , E 7.05 7,16 il
+
+nTG (cc) a 1,62 , 120
+
+TG (0%) EXE] 10,79 Sa HERAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PTG (atm) , , 0,79 y 48|
+Total gas combustible TGC , 774,9 E
+0.0) 2 4 6 8 10
+TGC-CO 138,87 l TG (9%)
+S(C1-C2) 18,07 , Y)
+Régimen de Carga (%) p
+9.0;
+NOTAS: 72
+TGC: Total Gas Combustible= H2+C0+CH4+C2H6+C2H4+C2H2 -l
+S(C1-C2): Gases más importantes de falla= CH4+C2H6+C2H4+C2H2 18
+£ uo 2 4 6 8 10
+RELACIONES MÁS IMPORTANTES (PPM): CcO2/cO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C2H6 (ppm)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1000;
+800:
+600 => NM
+400
+200
+4 6 0 4 4 6 8 10
+C2H2 (ppm) CO (ppm)
+
+ 
+
+.
+
+ 
+
+[E
+SE Y
+
+JORPA INGENIERIA S.A.
+

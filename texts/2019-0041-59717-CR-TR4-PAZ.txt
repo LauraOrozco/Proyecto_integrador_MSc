@@ -1,0 +1,162 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+
+ID. EQUIPO: Autotransformador ATR-4 ALSTHOM SAVOISIENNE NO 217443-03
+
+FECHA: 11/07/2019
+EQUIPO / DIAGNOSTICO
+00041 059717
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 75 MVA FECHA MUESTREO: 02/07/2019
+VOLTAJE: 220/110/13.8 kv FECHA RECEPCION: 05/07/2019
+LUGAR: S/E Pan de Azúcar FECHA ANALISIS: 09/07/2019
+DIAGNOSTICO ANTERIOR: — (058876 AÑO DE FABRICACION: 1979
+FECHA: 11/05/2016 ULTIMO DESGASIFICADO: 05/1980
+N* ORDEN TRABAJO: —5680 REGIMEN DE CARGA: 103 %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 49 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 34500 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 36078 Lím< 50000 | Etano: C2H6= 115 Lím< 50
+Oxígeno: 02= 2635 Lím< 2500 | | Etileno: C2H4= 596 Lím< 50
+Dioxido de Carbono: CO2= 456 Lím< 4000 | | Acetileno: C2H2= D  Lím< 1
+Monoxido de Carbono: CO= 27 Lím< 400 | | Propano: C3H8= 145 Lím< 25
+Hidrógeno: H2= 10 Lím< 50 | | Propileno: C3H6= 389 Lím< 25
+Metano: CH4= 523 Lím< 50
+TGC= 1271 Lím< 601 | | TG (%): 4.10 CO (L): 0.95
+TGC-CO= 1244 Lím< 201 | | TGC(%): 0.13 nTG (mL): 0.61
+S(C1-C2)= 1234 Lím< 151 PTG (atm): 0.38
+RELACIONES:
+CH4/H2: 52.30 C2H4/C2H6: 5.18 %H2: 0.80
+C2H2/CH4: 0.00 C2H4/C3H6: 1.53 %CH4: 42.04
+C2H2/C2H4: 0.00 C3H6/C3H8: 2.68 %C2H6: 9.24
+C2H2/C2H6: 0.00 %C2H4: 47.91
+C2H4/CH4: 1.14 CO2/CO: 16.89 %C2H2: 0.00
+C2H6/CH4: 0.22 N2/02: 13.69
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+s(C1-C2) = CH4+C2H6+C02H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+-Sobrecalentamiento local de 500 a 1000 grad.C. (defectos -Sin compromiso de la celulosa.
+en el núcleo o calentamiento de junturas), probabilidad: 90% -SEVERIDAD FALLA (%TGC): Pequeña.
+Corriente de circulación entre núcleo y estanque.
+Calentamiento de junturas, probabilidad: 90%
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-Con respecto al análisis anterior la concentración total de los gases de falla TGC-CO se ha mantenido estable.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El autotransformador puede continuar en servicio. -Analizar al cabo de un año.
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+Janet Mendez.
+
+ 
+
+Ejecutó
+

@@ -1,0 +1,363 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a,
+¡O REGISTRO DE EJECUCION DE MANTENIMIENTO tansetec
+CO! ra EMPRESA MANDANTE
+TRANSFORMADOR DE PODER HASTA 10 MVA TRIFÁSICO, REFRIGERACION ONAN - NORMAL Unidad de Obra S842500L
+N FECHA EJECUCION 23/06/2013. INFORME N?| PEDIDO SAP N?| 4700019349
+Pp GERENCIA ZONAL] Norte Chico Coquimbo SUBESTACION: Vallenar
+ú DESIGNACION UNILINEAL| TR1 REALIZADO POR] Erasmo Araya Antiquera
+6 INSPECTOR DE TRANSELEC| Jorge Cabrera Cubillos
+a CARACTERISTICAS DEL EQUIPO
+5 MARCA, Sinedelem POTENCIA EN [MVA] 10
+< TENSIONES NOMINALES EN [KV] 110 [ N? DE SERIE: 7408001
+ÍTEM DESCRIPCIÓN
+LIMPIEZA E INSPECCIÓN DE BUSHINGS
+10 [Observaciones Se realiza inspeccion general de los bushing de poder, encontrandose con filtracion insipiente en el bushing
+X3, se realiza una limpieza con alcohol y se deja en observacion.
+BÚSQUEDA FILTRACIONES DE ACEITE PARTE SUPERIOR
+0 Observaciones Se encuentra filtracion de aceite por la parte superior del bushig X3, Filtracion por la torreta del bushinhg H1 y
+filtracion por radiadores parte superior.
+INSPECCIÓN ÓXIDOS Y PINTURAS PARTE SUPERIOR
+30 Observaciones Pintura del equipo descolorida.
+2 LIMPIEZA EXTERIOR
+z ¡Observaciones Se realiza limpieza de aislacion y limpieza de filtraciones en el parte superior del transformador.
+Wa
+s
+z
+p
+4 EQUIPOS DE PRUEBAS Y MEDIDAS EMPLEADOS
+= Descripcion Marca | Modelo | N* de Serie | Certificado Vigente
+A
+Z | | |
+S | | |
+y | | |
+5
+H OBSERVACIONES GENERALES Se realiza inspección general del equipo, encontrando filtraciones por torreta del Bushing H1, se
+recomienda intervenir el equipo y reemplazar empaquetaduras para evitar que la filtración siga avanzando.
+¡Se realiza limpieza y reapreté de válvulas de los radiadores parte superior, normalizando una filtración de aceite dielóctrico que mantenía el equipo.
+so reemplaza prensa de poder de la conexión del bushing X3, se encontró trisada, conexión queda normalizada.
+E Jefe Técnico Contratista Inspector de TRANSELEC
+w
+3 | Equipo normal y sin restricciones x [
+3 Equipo con restricciones u observaciones ( ver observaciones ) [
+3 Equipo no puede entrar al servicio
+9 [Equipo en observacion durante | El
+IBAI
+FIRMA!
+NOMBRE|
+CARGO Mando de Brigada
+FECHA 25/06/2013
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

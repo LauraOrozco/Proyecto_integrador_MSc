@@ -1,0 +1,146 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598901
+Dresden a el 7 ANALISIS POR GASES DISUELTOS
+Hoja 1 de 1
+EMPRESA: —TRANSELEC S.A, FECHA: 02/05/2019
+. S a EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador ATR-1 ALSTHOM NO 217443-01 00044 - 058739
+POT. MAXIMA: 73 MVA FECHA MUESTREO: 02/04/2019
+VOLTAJE: 220/110/13.8 kv FECHA RECEPCION: 08/04/2019
+LUGAR: S/E Cardones FECHA ANALISIS: 22/04/2019
+DIAGNOSTICO ANTERIOR: — 044130 AÑO DE FABRICACION: 1979
+FECHA: 15/01/2016 ULTIMO DESGASIFICADO: — 07/10/2014
+N“ ORDEN TRABAJO: —5401 REGIMEN DE CARGA: 64 %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 42 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 34500 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.882 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 30626 Lím< 50000 | | Etano: C2H6= 1 Lím< 50
+Oxígeno: 02= 1172 Lím< 2500 | | Etileno: C2H4= 4  Lím< 50
+Dioxido de Carbono: CO2= 2334 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 291 Lím< 400 | | Propano: C3H8= 4  Lím< 25
+Hidrógeno: H2= 7 Lím< 50 | | Propileno: C3H6= 4  Lím< 25
+Metano: CH4= 13 Lím< 50
+TGC= 316 Lím< 601 | | TG (%): 3.45 CO (L): 10.14
+TGC-CO= 25 Lím< 201 | | TEC (%): 0.03 nTG (mL): 0.52
+S(C1-C2)= 18 Lím< 151 PTG (atm): 0.31
+RELACIONES:
+CH4/H2: 1.86 C2H4/C2H6: 4.00 %H2: 28.00
+C2H2/CH4: 0.00 C2H4/C3H6: 1.00 %CH4: 52.00
+C2H2/C2H4: 0.00 C3H6/C3H8: 1.00 %C2H6: 4.00
+C2H2/C2H6: 0.00 %C2H4: 16.00
+C2H4/CH4: 0.31 CO2/CO: 8.02 %C2H2: 0.00
+C2H6/CH4: 0.08 N2/02: 26.13
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 YGAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) — = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+Sin falla aparente.
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El autotransformador puede continuar en servicio. -Analizar al cabo de un año.
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+: AE
+lo Palacios V.. Jaínet Mendez.
+Aprobó Ejecutó
+

@@ -1,0 +1,153 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+
+Servicios de Ingeniería. Fono:(2)29598901
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dresden a eel 7 ANALISIS POR GASES DISUELTOS
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 24/03/2020
+. EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador Fase 3 ACEC N0 12TF15608-41751 00001 063641
+POT. MAXIMA: 42 MVA FECHA MUESTREO: 13/03/2020
+VOLTAJE: 154/110/13.8 kv FECHA RECEPCION: 17/03/2020
+LUGAR: S/E Cardones FECHA ANALISIS: 23/03/2020
+DIAGNOSTICO ANTERIOR: — (055980 AÑO DE FABRICACION: 1952
+FECHA: 08/10/2018 ULTIMO DESGASIFICADO: 03/2005
+N* ORDEN TRABAJO: —6551 REGIMEN DE CARGA: 0 %
+TIPO EQUIPO: Con respiradero libre. TEMPERATURA ACEITE: 20 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 18000 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 69970 Líim< 75000 | | Etano: C2H6= D  Lím< 30
+Oxígeno: 02= 26393 Lím< 25000 | Etileno: C2H4= 4  Lím< 35
+Dioxido de Carbono: CO2= 943 Lím< 10000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 84 Lím< 1000 | | Propano: C3H8= D Lím< 25
+Hidrógeno: H2= 8 Lím< 35 | | Propileno: C3H6= 5 Lím< 25
+Metano: CH4= 1 Lím< 35
+TGC= 97 Lím< 1136 | | TG (%): 9,74 CO (L): 1,51
+TGC-CO= 13 Lím< 136 | | TGC (%): 0,01 nTG (mL): 1,46
+S(C1-C2)= 5 Lím< 101 PTG (atm): 0,81
+RELACIONES:
+CH4/H2: 0,13 C2H4/C2H6: 0,00 0% H2: 61,54
+C2H2/CH4: 0,00 C2H4/C3H6: 0,80 %CH4: 7,69
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,00 %C2H6: 0,00
+C2H2/C2H6: 0,00 %C2H4: 30,77
+C2H4/CH4: 4,00 CO2/CO: 11,23 %C2H2: 0,00
+C2H6/CH4: 0,00 N2/02: 2,65
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A., a autotransformador fuera de servicio.
+-El gas subrayado que está sobre el límite no indica ciertamente la evolución de una falla incipiente.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+-Autotransformador apto para continuar en servicio. -Analizar al cabo de 48 horas después de energizado.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+    
+
+Sergio Palacios V. Janet Mendez.
+Aprobó Ejecutó
+

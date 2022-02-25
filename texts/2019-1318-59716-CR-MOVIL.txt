@@ -1,0 +1,174 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A.
+ID. EQUIPO: Transformador TAG T-Movil ABB N0 16127
+
+FECHA: 11/07/2019
+EQUIPO / DIAGNOSTICO
+01318 059716
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 10 MVA FECHA MUESTREO: 02/07/2019
+VOLTAJE: 110/24-13.8 kv FECHA RECEPCION: 05/07/2019
+LUGAR: S/E Pan de Azúcar FECHA ANALISIS: 10/07/2019
+DIAGNOSTICO ANTERIOR: —031397 AÑO DE FABRICACION: 1989
+FECHA: 17/04/2012 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: —5680 REGIMEN DE CARGA: 0 %
+TIPO EQUIPO: Hermético c/bolsa de goma. TEMPERATURA ACEITE: - “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 6966 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.878  gr/mL
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 61139 Lím< 50000 | Etano: C2H6= 12 Lím< 50
+Oxígeno: 02= 1284 Lím< 2500 | | Etileno: C2H4= 2 Lím< 50
+Dioxido de Carbono: CO2= 220 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 56 Lím< 400 | Propano: C3H8= 8 Lím< 25
+Hidrógeno: H2= 20 Lím< 50 | | Propileno: C3H6= 2 Lím< 25
+Metano: CH4= 11 Lím< 50
+TGC= 101 Lím< 601 | | TG (%): 6.28 CO (L): 0,39
+TGC-CO= 45 Lím< 201 | | TGC(%): 0.01 nTG (mL): 0.94
+S(C1-C2)= 25 Lím< 151 PTG (atm): 0.60
+RELACIONES:
+CH4/H2: 0.55 C2H4/C2H6: 0.17 %H2: 44,44
+C2H2/CH4: 0.00 C2H4/C3H6: 1.00 %CH4: 24,44
+C2H2/C2H4: 0.00 C3H6/C3H8: 0.25 %C2H6: 26.67
+C2H2/C2H6: 0.00 %C2H4: 4.44
+C2H4/CH4: 0.18 CO2/CO: 3.93 %C2H2: 0.00
+C2H6/CH4: 1.09 N2/02: 47.62
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+
+-Muestra tomada por Transelec S.A., a transformador fuera de servicio.
+-El gas subrayado que está sobre el límite no indica ciertamente la evolución de una falla incipiente.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-Transformador apto para continuar en servicio.
+
+ 
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+-Analizar en un plazo no superior a 48 horas después de
+energizado.
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+  
+
+ 
+
+Sergio Palacios V.
+Aprobó
+
+Mendez.
+Ejecutó
+
+Ja
+

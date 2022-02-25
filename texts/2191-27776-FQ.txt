@@ -1,0 +1,97 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JORPA INGENIERÍA S.A. RL-012 Versión 7
+Servicios de Ingentería
+Fonos: (2) 29598900 - 29598913 Í í
+Dresden N' 4672-4688 San Miguel — Santiago CARACTERISTICAS FÍSICO QUÍMICAS ACEITE
+CHILE MINERAL EN EQUIPOS CLASE >69 A <230 kV
+_M J -
+EMPRESA: —TRANSELECS.A. | FECHA: 05/05/2015
+EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: sf - o
+EQ ; o: Tran ormador TR-1 SINDELEN N 7408001 - 2191 27776
+
+POT. MAXIMA: 10,0 MVA  |FECHA MUESTREO: 27/04/2015
+VOLTAJE: 110/24-13,8 kv FECHA RECEPCION: 05/05/2015
+LUGAR: | - S/E Vallenar Ñ _ [FECHA ANÁLISIS: 05/05/2015
+DIAGNOSTICO ANTERIOR: 25523 AÑO FABRICACIÓN: 1974
+FECHA: Ñ 08/08/2014 o ULTIMO DESGASIFICADO: no informado
+NO ORDEN DE TRABAJO: 1269 REGIMEN DE CARGA: no informado %
+"TIPO DE EQUIPO: con respiradero libre TEMPERATURA ACEITE: 44 ec
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 42 %
+VOL. MUESTRA: 1000 mL__ [VOL. ACEITE ESTANQUE: 18000 E,
+
+- SS. —— | LÍMITES NUEVO re
+
+PRUEBA | UNIDAD | MÉTODO ASTM RESULTADO ANTES DE TO
+
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 11 <10 <25
+¡Rigidez dieléctrica 2.0 mm. kv D 1816-12 62 >52 >47
+Tensión interfacial dinas/cm D 971-12 17 >38 >30
+Número neutralización mgKOH/g D 974-12 0,18 <0,015 <0,15
+Factor de potencia 200C % D 924-08 - <0,05 <0,5
+Factor de potencia 1000C % D 924-08 7,150 <0,40 <5
+Resistividad volumétrica 200C ohm*cm D 1169-11 - -
+Resistividad volumétrica 1000C ohm*cm D 1169-11 3,4 E+11 “ 5
+Densidad g/mL D 1298-12 0,886 + "
+Color D 1500-07 3/5 <1 e
+Aspecto visual D 1524-10 claro y brillante claro y brillante claro y brillante
+— A o marrón claro. o o
+OBSERVACIONES:
+
+¡- Tensión interfacial, número de neutralización y factor de potencia fuera de límite para aceite en servicio. |
+'- Muestra tomada por Transelec S.A. |
+- Restos de muestra con descarte inmediato.
+
+IBibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+SITUACIÓN ACTUAL:
+- Aceite en condiciones para servicio. [-
+- Aceite con degradación fuerte.
+
+ 
+
+ 
+
+[ACCIÓN A SEGUIR:
+Regenerar o cambiar el aceite.
+
+ 
+
+   
+    
+
+LN Palacios V.
+probó
+
+ 
+

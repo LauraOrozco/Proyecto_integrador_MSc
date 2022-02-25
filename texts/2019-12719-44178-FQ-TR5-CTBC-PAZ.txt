@@ -1,0 +1,112 @@
+ 
+
+JORPA INGENIERÍA S.A.
+
+Servicios de Ingeniería
+
+Fonos: (2) 29598900 -29598913
+“esden N* 4688 - 4672 — San Miguel — Santiago
+
+CHILE
+1/1
+
+ 
+
+RL-017 2018 Rev-01
+CARACTERÍSTICAS FÍSICO QUÍMICAS
+ACEITE MINERAL DE CAMBIADOR DE
+
+DERIVACIONES BAJO CARGA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A. FECHA: 21/03/2019
+ID. EQUIPO: CDBC MR (Transf. TAG TR-5 ALSTHOM SAVOISIENNE NO 217444-01) o, / O
+POT. MÁXIMA: 40 MVA [FECHA MUESTREO: 07/03/2019
+VOLTAJE: 220 kv FECHA RECEPCIÓN: 15/03/2019
+LUGAR: S/E Pan de Azúcar FECHA ANÁLISIS: 18/03/2019
+DIAGNOSTICO ANTERIOR: —Notiene ANO FABRICACIÓN: 1980
+FECHA: No tiene ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 5325 REGIMEN DE CARGA: 28 %
+MODELO : MRIII "TEMPERATURA ACEITE: No informado “oc
+LUGAR DE MUESTREO: Nivel inferior CDBC HUMEDAD RELATIVA 51 %
+VOL. MUESTRA: 1000 mL |[VOL. ACEITE CDBC: No informado L
+Resultad Límites C ión al Conexión al | Conexión al
+Prueba UNIDAD | Método ASTM Ss e o nuevo antes eutro 2 | terminal < | terminal >
+de energizar 69 kV 69 kV
+Humedad mg/kg D 1533-12 20 <10 <30* <30* <30*
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 - 255 227 235 245
+Rigidez dieléctrica 2.5 mm. kv VDE 0370 54 >70* 240 240 240
+Densidad g/mL D 1298-12 0,875 - - - -
+Aspecto visual D 1524-10 claro y brillante - - - -
+
+amarillo claro
+
+ 
+
+OBSERVACIONES:
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL: ACCIÓN A SEGUIR:
+- Aceite en buenas condiciones para servicio. -
+
+ 
+
+Analizar al cabo de un año.
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Éscla/huáas?
+
+Carola Núñez D.
+Aprobó
+
+MN
+
+LA
+
+Cristian/Aramburu R.
+
+'evisó
+
+ 
+

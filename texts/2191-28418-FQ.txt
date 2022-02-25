@@ -1,0 +1,70 @@
+| JORPA INGENIERÍA S.A.
+
+| Servicios de Ingeniería
+
+Fonos; (2) 29598900 - 29598913
+Dresden N* 4672-4688 San Miguel - Santiago
+
+RL-012 Versión 7
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+
+ 
+
+ 
+
+ 
+
+CHILE MINERAL EN EQUIPOS CLASE >69 A <230 kV
+11
+EMPRESA: — TRANSELEC S.A. y Ml FECHA: 01/07/2015 |
+ID. EQUIPO: Transformador TR-1 SINDELEN NO 7408001 EQUIPO / DIAGNÓSTICO
+| . . 2191 28418
+POT. MAXIMA: 10,0 MVA FECHA MUESTREO: 23/06/2015
+VOLTAJE: 110/24-13,8 kv |FECHA RECEPCION: 30/06/2015 |
+[LUGAR: S/E Vallenar FECHA ANÁLISIS: 01/07/2015
+DIAGNOSTICO ANTERIOR: 27776 AÑO FABRICACIÓN: 1974
+¡FECHA: 05/05/2015 ¡ULTIMO DESGASIFICADO: — noinformado
+NO ORDEN DE TRABAJO: 1425 REGIMEN DE CARGA: 74 %
+TIPO DE EQUIPO: con respiradero libre TEMPERATURA ACEITE: no informado E |
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA no informado %
+paña MUESTRA: 1000 'mL__ ¡VOL. ACEITE ESTANQUE: 18000 L
+LÍMITES NUEVO .
+| Z
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE piano
+| ENERGIZAR
+Humedad mg/kg D 1533-12 12 <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 45 >52 >47 |
+Tensión interfacial dinas/cm D 971-12 17 >38 >30 |
+Número neutralización mgKOH/g D 974-12 0,15 <0,015 <0,15
+¡Factor de potencia 200C % D 924-08 - <0,05 <0,5
+Factor de potencia 1000C % D 924-08 8,470 <0,40 <5
+|
+¡Resistividad volumétrica 200C ohm*cm D 1169-11 - » |
+Resistividad volumétrica 1000C ohm*cm D 1169-11 2,6 E+11 - -
+Densidad g/mL D 1298-12 0,885 a 5
+Color D 1500-07 3/9 <1 "
+Aspecto visual D 1524-10 claro y brillante claro y brillante claro y brillante
+
+OBSERVACIONES:
+
+marrón claro
+
+-  Rigidez dieléctrica, tensión interfacial, número de neutralización y factor de potencia fuera de límite para aceite en servicio.
+- Muestra tomada por Transelec S.A.
+
+ 
+
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57,106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+¡SITUACIÓN ACTUAL:
+- Aceite en mínimas condiciones para servicio.
+
+- Aceite con degradación fuerte.
+
+ 
+
+ACCIÓN A SEGUIR:
+-  Regenerar o cambiar el aceite.
+

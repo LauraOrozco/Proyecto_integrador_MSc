@@ -1,0 +1,156 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+ 
+
+RL-006 Versión: 9
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 12/03/2020
+. A. EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Transformador TAG T-5 MITSUBISHI NO 570203 01096 063406
+POT. MAXIMA: 10 MVA FECHA MUESTREO: 04/03/2020
+VOLTAJE: 110/24/13.8 kv FECHA RECEPCION: 09/03/2020
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 11/03/2020
+DIAGNOSTICO ANTERIOR: — (058222 AÑO DE FABRICACION: 1981
+FECHA: 21/03/2019 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: —6513 REGIMEN DE CARGA: 20 %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 31 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 9153 L
+VOL. MUESTRA: 15 mL DENSIDAD: 0.875 gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 29275 Lím< 50000 | Etano: C2H6= 134 Lím< 50
+Oxígeno: 02= 1168 Lím< 2500 | | Etileno: C2H4= D Lím< 50
+Dioxido de Carbono: CO2= 1756 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 162 Lím< 400 | Propano: C3H8= 89 Lím< 25
+Hidrógeno: H2= 4 Lím< 50 | | Propileno: C3H6= 4  Lím< 25
+Metano: CH4= 38 Lím< 50
+TGC= 338 Lím< 601 | | TG (%): 3,26 CO (L): 1,49
+TGC-CO= 176 Lím< 201 | | TGC(%): 0,03 nTG (mL): 0,49
+S(C1-C2)= 172 Lím< 151 PTG (atm): 0,30
+RELACIONES:
+CH4/H2: 9,50 C2H4/C2H6: 0,00 0% H2: 2,27
+C2H2/CH4: 0,00 C2H4/C3H6: 0,00 %CH4: 21,59
+C2H2/C2H4: 0,00 C3H6/C3H8: 0,04 %C2H6: 76,14
+C2H2/C2H6: 0,00 %C2H4: 0,00
+C2H4/CH4: 0,00 CO2/CO: 10,84 %C2H2: 0,00
+C2H6/CH4: 3,53 N2/02: 25,06
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C02H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+-Sobrecalentamiento local de 150 a 200 grad.C., probabilidad: -Sin compromiso de la celulosa.
+70% -SEVERIDAD FALLA (%TGC): Pequeña.
+“Sobrecalentamiento local de 200 a 300 grad.C., probabilidad:
+60%
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+-Con respecto al análisis anterior la concentración total de los gases de falla TGC-CO se ha mantenido estable.
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El transformador puede continuar en servicio. -Analizar al cabo de un año.
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+ndez.
+
+ 
+
+Ejecutó
+

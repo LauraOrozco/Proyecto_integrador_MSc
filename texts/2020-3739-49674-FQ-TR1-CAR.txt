@@ -1,0 +1,132 @@
+ 
+
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 -29598913
+'esden N* 4688 - 4672 — San Miguel — Santiago
+
+CHILE
+
+ 
+
+RL-17 V2019 R1
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+MINERAL DE CAMBIADOR DE DERIVACIONES
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1/1 BAJO CARGA
+
+EMPRESA: —TRANSELEC S.A. FECHA: 03/04/2020
+
+ID. EQUIPO: CDBC N* 232075013 (Autotransf. ATR-1 ALSTHOM NO 217443-01) pen / AOS
+
+POT. MAXIMA: 75 MVA [FECHA MUESTREO: 14/03/2020
+
+VOLTAJE: 220 kv FECHA RECEPCIÓN: 17/03/2020
+
+LUGAR: S/E Cardones FECHA ANÁLISIS: 31/03/2020
+
+DIAGNOSTICO ANTERIOR: 46064 ANO FABRICACIÓN: 1979
+
+FECHA: 31/07/2019 ULTIMO DESGASIFICADO: No informado
+
+NO ORDEN DE TRABAJO: 6551 REGIMEN DE CARGA: 53 %
+
+MODELO : Con respiradero libre TEMPERATURA ACEITE: No informado oc
+
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA No informado %
+
+VOL. MUESTRA: 1000 mL [VOL. ACEITE CDBC: 300 L
+
+Resultado Límites nuevo Conexión al Conexión al | Conexión al
+Prueba UNIDAD | Método ASTM 25 Cc antes de neutro terminal < | terminal >
+
+energizar 69 kV 69 kV
+
+Humedad mg/kg D 1533-12 15 <10 <30* <30* <30*
+
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 35 255 227 235 245
+
+Rigidez dieléctrica 2.5 mm. kv VDE 0370 - >70* >40 >40 >40
+
+Densidad g/mL D 1298-12 0,874 - - - -
+
+Aspecto visual D 1524-10 claro y brillante - - - -
+
+amarillo claro
+
+ 
+
+OBSERVACIONES:
+
+-  Rigidez dieléctrica fuera de límite para aceite en servicio.
+- Muestra tomada por Transelec S.A.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL:
+
+- Aceite en mínimas condiciones para servicio.
+
+ 
+
+ACCIÓN A SEGUIR:
+
+Analizar nuevamente para verificar valor de rigidez dieléctrica.
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Éscla/huáas?
+
+Carola Núñez D.
+Aprobó
+
+AN
+LA
+
+Cristian Aramburu R.
+evisó
+
+ 
+

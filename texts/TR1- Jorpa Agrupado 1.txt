@@ -1,0 +1,199 @@
+ 
+
+   
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+
+Servicios de Ingeniería Fono:(2)29598906
+Dresden NO 4688-4672 San.Miguel -
+Santiago - CHILE
+
+Hoja 1 de 1
+
+ANALISIS POR GASES DISUELTOS
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. FECHA: 11/09/2015
+
+E E Ja EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Transformador TR-1 SINDELEN N* 7408001 02191 042809
+
+ 
+
+       
+    
+    
+  
+  
+  
+    
+ 
+  
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 10.0 MVA FECHA MUESTREO: 10/09/2015
+VOLTAJE: 110/24-13.8 kV FECHA RECEPCION: 11/09/2015
+LUGAR: S/E Vallenar _ FECHA ANALISIS: 11/09/2015
+DIAGNOSTICO ANTERIOR: — 042083 AÑO DE FABRICACION: 1974
+
+FECHA: 01/07/2015 ULTIMO DESGASIFICADO: — 09/2015
+
+     
+
+ 
+
+N* ORDEN TRABAJO: — 1605 REGIMEN DE CARGA: 60 %
+TIPO EQUIPO: Con respiradero libre. TEMPERATURA ACEITE: 42 “C
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 7000 k
+VOL. MUESTRA: 15 mL DENSIDAD: 0,881 gr/mL
+
+ 
+
+GAS DISUELTO [ppm(v/v)]:
+
+        
+   
+   
+ 
+  
+  
+  
+ 
+
+   
+
+ 
+  
+
+ 
+     
+
+     
+ 
+
+   
+
+      
+ 
+
+ 
+
+   
+    
+     
+ 
+  
+
+Nitrógeno: N2= 2399 Lím< 75000 | | Etano: C2H6= O Lím<
+Oxígeno: 02= 1139 Lím< 25000 | | Etileno: C2H4= CES 35
+Dioxido de Carbono:  CO2= 103 Lím< 10000 | | Acetileno: C2H2= 0 Lím< 1
+Monoxido de Carbono: CO= 2 Lím< 1000 | | Propano: C3H8= 0 Lím< 25
+¡SHidrógeno: H2= 1 Lí Propileno: C3H6= DO Lím< 25
+a Metano: CH4= 0
+TGC= 3 TG (%): k CO (L): ñ
+TGC-CO= 1 TGC (%): 0.00 nTG (mL): 0.05
+h S(C1-C2)= 0 PTG (atm): %
+RELACIONES:
+CH4/H2: D.00 C2H4/C2H6: 0.00 %H2: 100.00
+C2H2/CH4: D.00 C2H4/C3H6: 0.00 %CH4: 0.00
+C2H2/C2H4: 0.00 C3H6/C3H8: . %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 0.00
+C2H4/CH4: 0.00 CO2/CO: 51.50 %C2H2: 0.00
+C2H6/CH4: . N2/02:
+
+  
+  
+
+     
+   
+
+        
+ 
+
+ 
+ 
+
+TGC
+s(C1-C2)
+
+= CO+H2+C0H4+02H6+C02H4+C2H2
+= CH4+C02H6+02H4+C2H2
+
+= GAS(S(C1-C2)+H2):100
+PTG = Presión Total Gas
+
+    
+
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+Sin falla aparente.
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A., al final del tratamiento del aceite.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+“Transformador apto para servicio. -Analizar al cabo de un año.
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+A
+E
+Y
+
+  
+
+Jane
+
+io Palacios V.
+Ó Jecutó
+
+Aprobó
+
+ 
+

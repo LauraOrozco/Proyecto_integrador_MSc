@@ -1,0 +1,292 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e.
+é A .cobra REGISTRO DE EJECUCION DE MANTENIMIENTO transetec
+TRANSFORMADOR DE PODER HASTA 10 MVA TRIFÁSICO, REFRIGERACION ONAN - REDUCIDO Unidad de Obra
+Nn FECHA EJECUCION 14-04-2015 INFORME N? PEDIDO SAP N?
+E GERENCIA ZONAL] Norte Chico SUBESTACION VALLENAR
+ú DESIGNACION UNILINEAL| Tm REALIZADO POR ERASMO ARAYA
+a INSPECTOR DE TRANSELEC
+2 CARACTERISTICAS DEL EQUIPO
+5 MARCA SINDELEN POTENCIA EN [MVA] 10
+< TENSIONES NOMINALES EN [KV] 110-13.8 N? DE SERIE 7408001
+TEM DESCRIPCION
+INSPECCIÓN COLOR DEL ACEITE
+10 Observaciones AMARILLO OSCURO
+MEDIDA RIGIDEZ DIELÉCTRICA DEL ACEITE
+20 Medida en [KV] 42 Observaciones NORMA ASTM 1816
+MEDIDA FACTOR DE POTENCIA DEL ACEITE
+Kv] Miliamperes Watts Factor de Potencia
+e Lectura Multiplicador [mA] Lectura Multiplicador [Wat] sin corregir | F. corrección a 200
+á 20 Bl 0,44 0,0042 0,09 0,09 1,00
+= Temperatura ambiente en [*C] Humedad Relativa en [%] Observaciones
+zZ
+u
+E
+Zz
+<X
+=
+a VERIFICACIÓN ESTADO INSTRUMENTOS E INDICADORES DE NIVEL:
+5 “0 Observaciones INDICADORES EN BUEN ESTADO.
+Lu
+=
+u
+E
+EQUIPOS DE PRUEBAS Y MEDIDAS EMPLEADOS
+Descripcion Marca Modelo N? de Serie Certificado Vigente
+OBSERVACIONES GENERALES
+FILTRACIÓN DE ACEITE POR RADIADOR FLANGE SUPERIOR
+INDICADORES DE NIVEL EN FUNCIONAMIENTO NORMAL
+EQUIPO SIN FALLA APARENTE.
+w Jefe Técnico Contratista Inspector de TRANSELEC
+uy
+8, | Equipo normal y sin restricciones x x
+2 | Equipo con restricciones u observaciones ( ver observaciones )
+>
+o
+8, | Esuipo no puede entrar al servicio
+o Equipo en observacion durante horas
+REALIZADO POR APROBADO POR
+FIRMA
+NOMBRE ERASMO ARYA JAIME LATIN
+CARGO MANDO DE BRIGADA JEFE Técnico SUPERVISOR EQUIPOS
+FECHA Martes, 14 de abril de 2015 14-04-2015
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

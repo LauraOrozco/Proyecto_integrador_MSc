@@ -1,0 +1,133 @@
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 -29598913
+'esden N* 4688 - 4672 — San Miguel — Santiago
+
+CHILE
+11
+
+ 
+
+RL-017 2019 Rev-01
+CARACTERÍSTICAS FÍSICO QUÍMICAS
+ACEITE MINERAL DE CAMBIADOR DE
+
+DERIVACIONES BAJO CARGA
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+EMPRESA:
+
+ID. EQUIPO: CDBC FP N* 29043-1 (Autotransf. FERRANTI PACKARD NO 90058-1)
+
+TRANSELEC S.A.
+
+FECHA:
+
+02/04/2020
+
+EQUIPO / DIAGNÓSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12869 49668
+POT. MAXIMA: 80 MVA [FECHA MUESTREO: 13/03/2020
+VOLTAJE: 220 kv FECHA RECEPCIÓN: 17/03/2020
+LUGAR: S/E Cardones FECHA ANÁLISIS: 30/03/2020
+DIAGNÓSTICO ANTERIOR: 44746 'ANO FABRICACIÓN: 1980
+FECHA: 03/05/2019 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6551 REGIMEN DE CARGA: 0 %
+MODELO : 138RT32 "TEMPERATURA ACEITE: 23 oc
+LUGAR DE MUESTREO: Nivel inferior CDBC HUMEDAD RELATIVA 20 %
+VOL. MUESTRA: 1000 mL |[VOL. ACEITE CDBC: 3220 L
+Resultado Límites Conexión al Conexión al | Conexión al
+Prueba UNIDAD | Método ASTM 25 ec nuevo antes neutro terminal < | terminal >
+de energizar 69 kV 69 kV
+Humedad mg/kg D 1533-12 17 <10 <30* <30* <30*
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 30 255 227 235 245
+Rigidez dieléctrica 2.5 mm. kv VDE 0370 >70* 240 240 240
+Densidad g/mL D 1298-12 0,885 - - - -
+Aspecto visual D 1524-10 claro y brillante - - - -
+
+amarillo oscuro
+
+ 
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A., con transformador fuera de servicio.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2006 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment”
+
+ 
+
+ 
+
+SITUACIÓN ACTUAL:
+
+- Aceite en mínimas condiciones para servicio.
+
+ 
+
+ACCIÓN A SEGUIR:
+
+Analizar nuevamente para verificar valor de rigidez dieléctrica.
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Éscla/huáas?
+
+Carola Núñez D.
+Aprobó
+
+A
+Y
+
+IN
+
+LA
+
+q
+
+a
+evisó
+
+Aramburu R.
+
+ 
+

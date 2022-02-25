@@ -1,0 +1,80 @@
+JORPA INGENIERÍA S.A.
+
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+
+Dresden N* 4672-4688 San Miguel — Santiago
+
+CHILE
+1/1
+
+EMPRESA: —TRANSELEC S.A.
+
+RL-31B V2020 Ri
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+MINERAL EN EQUIPOS CLASE >69 A <230 kV
+
+ID. EQUIPO: Transformador TAG 19 ABB N* 515045
+
+FECHA:
+
+JORPA
+
+06/08/2020
+
+EQUIPO / DIAGNÓSTICO
+
+13617 51546
+POT. MÁXIMA: 150 MVA [FECHA MUESTREO: 04/08/2020
+VOLTAJE: 220/115/13,8 kv FECHA RECEPCIÓN: 05/08/2020
+LUGAR: S/E Pan de Azúcar FECHA ANÁLISIS: 06/08/2020
+DIAGNÓSTICO ANTERIOR: 50555 AÑO FABRICACIÓN: 2016
+FECHA: 29/05/2020 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 6944 REGIMEN DE CARGA: 31,3 %
+TIPO DE EQUIPO: Hermético con bolsa de goma TEMPERATURA ACEITE: 30 oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 45 %
+VOL. MUESTRA: 1000 mL VOL. ACEITE ESTANQUE: 43856 L
+LÍMITES NUEVO :
+PRUEBA UNIDAD MÉTODO ASTM RESULTADO ANTES DE CIO.
+ENERGIZAR
+Humedad mg/kg D 1533-12 3 <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 68 255 247
+Tensión interfacial mN/m D 971-12 36 >38 >30
+Número neutralización mgKOH/g D 974-14 <0,02 <0,03 <0,15
+Factor de potencia 100 %C % D 924-15 0,600 <0,4 <5
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 1,2E+13 <0,40 <5
+Densidad g/mL D 1298-12 0,841 - -
+Color - D 1500-07 L1,0 - -
+Saturación % - 3,00 - -
+H/PS % - 0,30 <1,0 -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+amarillo claro
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A.
+- En base al % de saturación relativa del aceite, se estima que el aislamiento sólido se encuentra seco.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+SITUACIÓN ACTUAL:
+
+- Aceite en buenas condiciones para servicio.
+
+ACCIÓN A SEGUIR:
+- Analizar al cabo de un año.
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Esto Macs? BA
+
+Carola Núñez D. Cristi
+
+Aprobó
+
+l
+lan/Aramburu R.
+Revisó
+

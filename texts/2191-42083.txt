@@ -1,0 +1,184 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598906
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+      
+
+ 
+
+   
+   
+   
+     
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+   
+
+Dresden NO 468% . -
+en deco LE zaguel ANALISIS POR GASES DISUELTOS
+Hoja 1 de 1
+
+EMPRESA: — TRANSELEC S.A. FECHA: 01/07/2015
+
+ID. EQUIPO: Transformador TR-1 SINDELEN MW 7408001 o eros
+
+POT. MAXIMA: 10.0 MVA FECHA MUESTREO: 23/06/2015
+
+VOLTAJE: 110/24-13.8 kv FECHA RECEPCION: 30/06/2015
+| LUGAR: S/E Vallenar FECHA ANALISIS: 01/07/2015
+
+DIAGNOSTICO ANTERIOR: — 041453 AÑO DE FABRICACION: 1974
+
+FECHA: 06/05/2015 ULTIMO DESGASIFICADO: — —
+
+N* ORDEN TRABAJO: 1425 REGIMEN DE CARGA:
+
+TIPO EQUIPO: Con respiradero libre. TEMPERATURA ACEITE: - “e
+
+LUGAR MUESTREO: — Mivel inferior estanque VOL. ACEITE ESTANQUE: 18000 L
+
+VOL. MUESTRA: 15 mL DENSIDAD: 0.885 gr/ml
+
+     
+  
+ 
+
+ 
+    
+
+GAS DISUELTO [ppm(v/v)]:
+
+    
+   
+     
+     
+  
+  
+       
+
+Nitrógeno: N2= 41355 Lím< 75000 | | Etano: 0
+
+Oxígeno: 02= 15164 Lím< 25000 | | Etileno: C2H4= 1 Lím< 35
+Dioxido de Carbono: CO2= 1895 Lím< 10000 | | Acetileno: C2H2= O Lím< 2
+Monoxido de Carbono: CO= 108 Lím< 1000 | | Propano: C3H8= 1 Lím< 25
+Hidrógeno: H2= 15 Lím< 35 | | Propileno: C3H6= 3 Lím< 25
+
+Metano: CH4= 2 Lím< 35
+
+   
+
+       
+
+  
+
+ 
+     
+
+TGC= TG (%): CO (L):
+TGC-CO= 18 Lím< 136 | | TGC (%): nTG (mL):
+S(C1-C2)= 3 Lím< 101 PTG (atm):
+
+   
+    
+  
+
+RELACIONES:
+
+   
+   
+
+   
+    
+     
+    
+
+CH4/H2: 0.13 C2H4/C2H6: a
+
+C2H2/CH4: 0.00 C2H4/C3H6: 0.33 %CH4: 11.11
+C2H2/C2H4: 0.00 C3H6/C3H8: 3.00 %C2H6: 0.00
+C2H2/C2H6: 0.00 %C2H4: 5.56
+C2H4/CH4: 0.50 CO2/CO: 17.55 %C2H2: 0.00
+C2H6/CH4: N2/02:
+
+  
+  
+   
+    
+
+    
+
+       
+ 
+
+ 
+ 
+
+TGC = CO0+H2+0H4+C2H5+C2H4+C2H2 = GAS/(S(C1-C2)+H2)>:100
+S(C1-C2) = CH4+C02H6+C2H4+C2H2 PTG = Presión Total Gas
+
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+sin falla aparente.
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+   
+
+SITUACION ACTUAL:
+-El transformador puede continuar en servicio.
+
+ACCION A SEGUIR:
+-Analizar al cabo de un año.
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, Ji
+y >
+
+NS SS
+
+ergio PalacioS/V.” SÓ ánet ez.
+Aprobó jecutó
+

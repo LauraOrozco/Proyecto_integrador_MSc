@@ -1,0 +1,156 @@
+ 
+
+JORPA INGENIERIA S.A. RL-006 Versión: 9
+Servicios de Ingeniería Fono:(2)29598901
+
+Dresden 46884672 San igual ANALISIS POR GASES DISUELTOS
+
+Santiago - CHILE
+Hoja 1 de 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. FECHA: 22/01/2020
+
+ID. EQUIPO: Autotransformador TAG BCO-ATR2-FASE3 SIEMENS NO 812025 Euro / RS OSTICO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POT. MAXIMA: 250 MVA FECHA MUESTREO: 03/01/2020
+VOLTAJE: 500/220/66 kv FECHA RECEPCION: 09/01/2020
+LUGAR: S/E Kimal FECHA ANALISIS: 22/01/2020
+DIAGNOSTICO ANTERIOR: — 061037 AÑO DE FABRICACION: 2017
+FECHA: 30/10/2019 ULTIMO DESGASIFICADO: — —
+N* ORDEN TRABAJO: 6301 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 46 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 63800 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 3285 Lím< 50000 | Etano: C2H6= 1 Lím< 50
+Oxígeno: 02= 1724 Lím< 2500 | | Etileno: C2H4= D Lím< 50
+Dioxido de Carbono: CO2= 99 Lím< 4000 | | Acetileno: C2H2= D Lím< 1
+Monoxido de Carbono: CO= 15 Lím< 400 | Propano: C3H8= D Lím< 25
+Hidrógeno: H2= 2 Lím< 50 | | Propileno: C3H6= D Lím< 25
+Metano: CH4= 1 Lím< 50
+TGC= 19 Lím< 601 | | TG (%): 0.51 CO (L): 0.95
+TGC-CO= 4  Lím< 201 | | TGC(%): 0.00 nTG (mL): 0.08
+S(C1-C2)= 2 Lím< 151 PTG (atm): 0.05
+RELACIONES:
+CH4/H2: 0.50 C2H4/C2H6: 0.00 %H2: 50.00
+C2H2/CH4: 0.00 C2H4/C3H6: 0.00 %CH4: 25.00
+C2H2/C2H4: 0.00 C3H6/C3H8: 0.00 %C2H6: 25.00
+C2H2/C2H6: 0.00 %C2H4: 0.00
+C2H4/CH4: 0.00 CO2/CO: 6.60 %C2H2: 0.00
+C2H6/CH4: 1.00 N2/02: 1.91
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GAS/(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C2H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+Muestra tomada por Transelec S.A.
+
+ 
+
+ 
+
+SITUACION ACTUAL: ACCION A SEGUIR:
+-El autotransformador puede continuar en servicio. -Analizar al cabo de un año.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+   
+ 
+
+— Sergio Palacios V. Janet Mendez.
+Aprobó Ejecutó
+

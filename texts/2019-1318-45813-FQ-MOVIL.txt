@@ -1,0 +1,116 @@
+ 
+
+JORPA INGENIERÍA S.A.
+Servicios de Ingeniería
+Fonos: (2) 29598900 - 29598913
+iresden N* 4672-4688 San Miguel — Santiago
+CHILE
+1/1
+
+ 
+
+RL-012B Versión 2019 Rev-01
+
+CARACTERÍSTICAS FÍSICO QUÍMICAS ACEITE
+MINERAL EN EQUIPOS CLASE >69 A <230 kV
+
+ 
+
+JORPA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: —TRANSELEC S.A. FECHA: 11/07/2019
+. EQUIPO / DIAGNÓSTICO
+. - [)
+ID. EQUIPO: Transformador TAG T-Movil ABB N% 16127 1318 45813
+POT. MÁXIMA: 10 MVA [FECHA MUESTREO: 02/07/2019
+VOLTAJE: 110/24-13,8 Kv [FECHA RECEPCIÓN: 05/07/2019
+LUGAR: S/E Pan de Azúcar FECHA ANÁLISIS: 09/07/2019
+DIAGNOSTICO ANTERIOR: 18285 AÑO FABRICACIÓN: 1989
+FECHA: 04/04/2012 ULTIMO DESGASIFICADO: No informado
+NO ORDEN DE TRABAJO: 5680 REGIMEN DE CARGA: No informado %
+"TIPO DE EQUIPO: Hermético con bolsa de goma "TEMPERATURA ACEITE: No informado oc
+LUGAR DE MUESTREO: Nivel inferior estanque HUMEDAD RELATIVA 70 %
+VOL. MUESTRA: 1000 mL [VOL. ACEITE ESTANQUE: 6966 L
+LÍMITES NUEVO ;
+PRUEBA UNIDAD | MÉTODO ASTM RESULTADO ANTES DE CIO
+ENERGIZAR
+
+Humedad mg/kg D 1533-12 3 <10 <25
+Rigidez dieléctrica 2.0 mm. kv D 1816-12 57 255 247
+Tensión interfacial mN/m D 971-12 38 > 38 >30
+Número neutralización mgKOH/g D 974-14 <0,02 <0,03 <0,15
+Factor de potencia 100 “C % D 924-15 0,922 <0,4 <5
+Resistividad volumétrica 100 0C ohm*cm D 1169-11 5,2E+12 <0,40 <5
+Densidad g/mL D 1298-12 0,878 - -
+Color - D 1500-07 0,5 - -
+Saturación % - - - -
+H/PS % - - <1,0 -
+Aspecto visual D 1524-15 claro y brillante claro y brillante claro y brillante
+
+amarillo claro
+
+ 
+
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A.
+- El % de saturación relativa del aceite no pudo ser estimado debido a que la T? del líquido aislante no fue informada.
+- Restos de muestra con descarte inmediato.
+
+Bibliografía: C57.106-2015 "IEEE Guide for acceptance and Maintenance of Insulating Oil in Equipment"
+
+ 
+
+SITUACIÓN ACTUAL:
+
+- Aceite en buenas condiciones para servicio.
+
+ 
+
+ACCIÓN A SEGUIR:
+- Analizar al cabo de un año.
+
+ 
+
+ 
+
+Este reporte de análisis no puede ser reproducido parcialmente sin la autorización por escrito de Jorpa Ingeniería S.A.
+
+Áscta Muiióc)
+
+Carola Núñez D.
+Aprobó
+
+LA
+
+Cristian/Aramburu R.
+evisó
+
+ 
+

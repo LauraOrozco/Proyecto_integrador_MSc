@@ -1,0 +1,95 @@
+RL-039 Versión 6
+
+| Servicios de Ingeniería > YH ICO
+Fonos: (2)5557761 - 5542670 / Fax: (2) 5561876 z ITRACIÓ | | A
+Dresden N* 4672 — San Miguel — Santiago ANALISIS DE CONCEN CIÓN DE ? | e L
+CHILE ADITIVOS .
+
+JORPA INGENIERÍA S.A.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EMPRESA: — TRANSELEC S.A. - FECHA: . 27/08/2014
+or: 578 EQUIPO / DIAGNÓSTICO
+ID. EQUIPO: Transformador T-2 Rhona NO 36516 - - 4869 1132 — -
+¡POT. MAXIMA: 10 MVA FECHA MUESTREO: 17/07/2014
+¡VOLTAJE: 110/23-13,8 kv [FECHA RECEPCIÓN: 21/07/2014
+LUGAR: o S/E Vallenar o : _ [FECHA ANÁLISIS: _ 26/08/2014
+DIAGNOSTICO ANTERIOR: — 939 AÑO FABRICACIÓN: 2007
+FECHA: 03/10/2013 - __ [PUNTO MUESTREO:  Nivelinferior
+| Z LIMITE ACEITE | LIMITE ACEITE EN
+PRUEBA UNIDAD METODO RESULTADO NUEVO SERVICIO
+Análisis de contenido de
+inhibidor BHT - DBPC % ASTM D 2668 nr 0,08 a 0,40 <0,1
+Análisis de contenido de BTA ppm Cigré WG A2.32 TF 02 <1 20a45 >10
+Análisis de contenido de 0% $ *
+Irgamet 39 ppm Cigré WG A2.32 TF 02 104 |
+
+ 
+
+*La concentración de Irgamet 39 recomendada para transformadores con presencia de dibencil disulfuro es 100 ppm.
+*El nombre comercial del pasivador metálico puede ser Irgamet 39, o Nypass o BTA.
+
+PRUEBA UNIDAD METODO RESULTADO NUEVO SERVICIO
+Análisis e e de | ppm DOBLE 2 | no detectable <25 ppm
+
+(<5 ppm)
+Ma Gi
+
+Notas:
+
+nr : no realizado
+
+* Limites de acuerdo a IEC 60296-2012 "Fluids for electrotechnical applications - Unused mineral insulating oils for transformers and
+switchgear".
+
+* Dos aceites con la misma concentración de DBDS pueden tener comportamientos distintos, ya que la generación de
+
+sulfuro de cobre depende de varios factores: temperatura de operación, cantidad de oxigeno presente y presencia de
+
+pasivadores.
+
+* De acuerdo a estudios realizados por IEEE TC, la contaminación con sulfuro de cobre aumenta con el tiempo.
+
+* El límite de concentración de DBDS en aceite en servicio solo aplica para aceite contaminado por manipulación o equipos a los cuales
+se les ha cambiado el aceite.
+OBSERVACIONES:
+
+- Muestra tomada por Transelec S.A., y analizada en Laboratorio Doble Engieneering Company.
+
+ 
+
+ACCIÓN A SEGUIR:
+- Analizar al cabo de un año.
+
+SITUACIÓN ACTUAL:
+- Aceite en buenas condiciones para servicio.
+
+   
+
+ 
+
+ 
+
+J; Méndez C.
+Jefa Laboratorio.
+y
+
+ 
+
+erente General
+
+ 
+
+LIMITE ACEITE |] LIMITE ACEITE EN
+

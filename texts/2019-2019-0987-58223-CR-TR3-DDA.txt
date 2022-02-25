@@ -1,0 +1,167 @@
+ 
+
+JORPA INGENIERIA S.A.
+
+Servicios de Ingeniería Fono:(2)2959890(
+Dresden N0 4688-4672 San.Miguel -
+Santiago - CHILE
+
+RL-006 Versión: 9
+
+ 
+
+ANALISIS POR GASES DISUELTOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hoja 1 de 1
+EMPRESA: — TRANSELEC S.A. FECHA: 21/03/2019
+. ' o EQUIPO / DIAGNOSTICO
+ID. EQUIPO: Autotransformador TAG ATR-3 EFACEC NO S-13111 00987 058223
+POT. MAXIMA: 120 MVA FECHA MUESTREO: 11/03/2019
+VOLTAJE: 220/115/13.8 kv FECHA RECEPCION: 13/03/2019
+LUGAR: S/E Diego de Almagro FECHA ANALISIS: 18/03/2019
+DIAGNOSTICO ANTERIOR: — 045208 AÑO DE FABRICACION: 1995
+FECHA: 28/04/2016 ULTIMO DESGASIFICADO: — 06/07/2015
+N* ORDEN TRABAJO: 5108 REGIMEN DE CARGA: ? %
+TIPO EQUIPO: Hermético c/bolsa de goma y CDBC sellado. TEMPERATURA ACEITE: 40 “c
+LUGAR MUESTREO: Nivel inferior estanque VOL. ACEITE ESTANQUE: 35429 L
+VOL. MUESTRA: 15 mL DENSIDAD: - gr/mL]
+GAS DISUELTO [ppm(v/v)]:
+Nitrógeno: N2= 69830 Lím< 50000 | Etano: C2H6= 33 Lím< 50
+Oxígeno: 02= 3193 Lím< 2500 | | Etileno: C2H4= 10 Lím< 50
+Dioxido de Carbono: CO2= 4403 Lím< 4000 | | Acetileno: C2H2= 7 Lím< 1
+Monoxido de Carbono: CO= 823 Lím< 400 | | Propano: C3H8= 14 Lím< 25
+Hidrógeno: H2= 13 Lím< 50 | | Propileno: C3H6= 3 Lím< 25
+Metano: CH4= 26 Lím< 50
+TGC= 912 Lím< 601 | | TG (%): 7.84 CO (L): 29.49
+TGC-CO= 89 Lím< 201 | | TGC(%): 0.09 nTG (mL): 1.18
+S(C1-C2)= 76 Lím< 151 PTG (atm): 0.68
+RELACIONES:
+CH4/H2: 2.00 C2H4/C2H6: 0.30 %H2: 14.61
+C2H2/CH4: 0.27 C2H4/C3H6: 3.33 %CH4: 29.21
+C2H2/C2H4: 0.70 C3H6/C3H8: 0.21 %C2H6: 37.08
+C2H2/C2H6: 0.21 %C2H4: 11.24
+C2H4/CH4: 0.38 CO2/CO: 5.35 %C2H2: 7.87
+C2H6/CH4: 1.27 N2/02: 21.87
+TGC = CO+H2+CH4+C2H6+C2H4+C2H2 GAS = GASA(S(C1-C2)+H2)x100
+S(C1-C2) = CH4+C2H6+C02H4+C2H2 PTG = Presión Total Gas
+DIAGNOSTICO PRINCIPAL: DIAGNOSTICO ADICIONAL:
+
+ 
+
+ 
+
+Sin falla aparente.
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSERVACIONES:
+-Muestra tomada por Transelec S.A.
+
+-Con respecto al análisis anterior la concentración total de los gases de falla T6GC-CO disminuyó un 22%.
+-Con respecto al análisis anterior la concentración de Acetileno (C2H2) se ha mantenido estable.
+
+ 
+
+ 
+
+SITUACION ACTUAL:
+-El autotranformador puede continuar en servicio.
+
+ 
+
+ 
+
+ 
+
+ACCION A SEGUIR:
+-Analizar al cabo de tres meses para evaluar la concentración
+de Acetileno (C2H2).
+
+ 
+
+Metodo: ASTM D3612 Método C. Procedimientos: JORPA, Laborelec, LCIE, Duval, IEC, IEEE.
+
+ 
+
+Sergio Palacios V.
+Aprobó
+
+Janet Mendez.
+Ejecutó
+
+ 
+

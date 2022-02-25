@@ -1,0 +1,112 @@
+  
+
+AGROSONDA
+CLIENTE : TRANSELEC
+OBRA: S/E VALLENAR
+
+   
+
+  
+     
+
+PROTOCOLO DE PRUEBAS
+TRANSFORMADOR DE PODER
+
+  
+
+Fabricante ¡RHONA
+Número Serie :36516
+Potencia :8-10 MVA
+
+Tensión Nominal : 110/24/13.8 KV
+TIPO ¡TRANSFORMADOR DE PODER, 2 ENROLLADOS
+CONEXIÓN :Dy1
+
+ALTA TENSION
+TENSION NOMINAL  :110000/24000/13800 Volt
+TENSION DE SERVICIC:110000/13800 Volt
+
+  
+   
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cambiador VOLTAJES (Volt)
+de tomas | Primario | Secundario 1 Secundario 2
+ál 115500 24000 13800
+2 112750 24000 13800
+3 110000 24000 13800
+4 107250 24000 13800
+5 104500 24000 13800
+UBICACION :S/E VALLENAR
+DESIGNACION :HT2
+
+ 
+
+G
+
+   
+ 
+   
+
+  
+
+ 
+
+Preparado por PAIS
+
+   
+
+Aprobado por AGROSONDA Aprobación ITO TRANSELEC
+
+Aprobación TRANSELEC
+
+ 
+
+NOMBRE:JUAN POBLETE N.
+
+FECHA:
+
+FIRMA:
+
+ 
+
+ 
+
+NOMBRE: ococccnnn NOMBRE: 0
+FECHA: ccccccccccs FECHA:
+FIRMA: FIRMA:
+
+ 
+
+ 
+
+Fecha Pruebas 27-09-2007
+
+Protocolo_Transformador_SE Vallenar_Rev.0
+
+1de 9
+
+ 
+
